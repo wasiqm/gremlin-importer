@@ -1,0 +1,60 @@
+{
+  "name": "gremlin-importer",
+  "version": "0.0.0",
+  "description": "A command line tool for importing graph files into a gremlin-enabled server.",
+  "homepage": "",
+  "author": {
+    "name": "victor Santos Uceta",
+    "email": "victor.uceta@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "gremlin",
+    "graph",
+    "import",
+    "command line",
+    "cli",
+    "csv",
+    "gexf",
+    "graphson",
+    "dot"
+  ],
+  "devDependencies": {
+    "eslint-config-xo-space": "^0.7.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "mocha": true
+    }
+  },
+  "repository": "git@github.com:mastayoda/gremlin-importer.git",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "MIT",
+  "bin": "lib/cli.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fast-csv": "^1.0.0",
+    "gexf": "^0.2.5",
+    "graphlib-dot": "^0.6.2",
+    "gremlin": "^2.1.0",
+    "moment": "^2.11.2",
+    "progress": "^1.1.8",
+    "string": "^3.3.1",
+    "xlsx": "^0.8.0"
+  }
+}
