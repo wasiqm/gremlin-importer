@@ -1,7 +1,7 @@
 
 # **gremlin-importer** #
 
-![gremlin importer logo](https://raw.githubusercontent.com/mastayoda/gremlin-importer/master/images/gremlin-importer.png)
+![gremlin importer logo](images/gremlin-importer.png)
 
 
 ----------
@@ -115,7 +115,7 @@ Future supported formats will be:
 
 ## Import Guides<a name="imporingGuides"></a>##
 
- - CSV importing guide
+ - [CSV importing guide](guides/csv.md)
 
 ----------
 
