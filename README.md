@@ -9,14 +9,12 @@
 
 This is a pain free data importing tool for **Gremlin enabled** databases. All you need is to provide the **vertices** and **edges** in the correct format and the gremlin-importer will populate the graph database for you. Some **rules** and **restrictions** must be **followed** in order to have a successful import process.
 
-See the [**importing guides**](#imporingGuides) at the bottom.
+See the [**wiki**](https://github.com/mastayoda/gremlin-importer/wiki) for guides of how to import different formats.
 
-----------
 ## Installation ##
 
     $ npm install -g gremlin-importer
 
-----------
 ## Usage ##
 
     $ gremlin-importer [options] <file>
@@ -77,7 +75,6 @@ The file format, currently supported: **csv**
     $ gremlin-importer --prefix g
     $ gremlin-importer --prefix graph
 
-----------
 
 
 ## Preamble ##
@@ -89,7 +86,7 @@ Why this tool?
  - Sometimes, we don't want to convert our data into specific format, but simple ones such as **CSV**.
  - Nested file format such as **graphML** and **Graphson** need to be loaded into memory to be imported. If the amount of vertices and edges is massive, it can be imported in a stream fashion and even in parallel using flat fils such as **CSV**.
 
-----------
+
 ## Current file format support ##
 
 Current supported formats are:
@@ -104,18 +101,16 @@ Future supported formats will be:
  - DOT
  - XLXS
 
-----------
 ## Current tested databases ##
 
  - [TitanDB](http://thinkaurelius.github.io/titan/)
 
 
-----------
 
 
 ## Import Guides<a name="imporingGuides"></a>##
 
- - [CSV importing guide](guides/csv.md)
+ - [CSV importing guide](https://github.com/mastayoda/gremlin-importer/wiki/CSV-importing-guide)
 
 ----------
 
@@ -123,4 +118,3 @@ Future supported formats will be:
 ## Important information ##
 
 
-----------
