@@ -11,7 +11,7 @@
 
 ----------
 ## STATUS: Not stable ##
-Under development: ETA ~ march 15, 2015
+Under development: ETA ~ march 15, 2016
 
  - Release 1.0 supporting CSV for edges and vertices
  - User defined values, including labels
