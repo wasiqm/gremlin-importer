@@ -70,10 +70,9 @@ The file format, currently supported: **csv**
     $ gremlin-importer --delimiter #
 
 **---prefix <prefix>**           
- The gremlin server groovy prefix for the default **graphTraversalSource**, E.g. **g** or **graph**, by default **g**
+ The gremlin server groovy prefix for the default **graphTraversalSource**, by default **g**
 
-    $ gremlin-importer --prefix g
-    $ gremlin-importer --prefix graph
+    $ gremlin-importer --prefix bigGraph
 
 
 

@@ -1,0 +1,1487 @@
+category, id, name, born place,salary,siblings,rank,first battle,
+label, numeric, string, string, numeric, numeric, numeric, date
+hero, 1,3-D Man, Dmitriyevka,8.46,1,7,12/17/1995
+villain, 2,A-Bomb (HAS), Roma,7.6,5,5,4/3/02004
+hero, 3,A.I.M., Icononzo,9.92,1,8,3/13/1988
+villain, 4,Aaron Stack, Getahovit,8.49,3,1,7/16/1999
+hero, 5,Abomination (Emil Blonsky), København,3.01,5,7,2/12/2013
+hero, 6,Abomination (Ultimate), Huacao,5.34,5,4,11/10/1997
+hero, 7,Absorbing Man, Tianhekou,8.27,4,6,7/14/1971
+hero, 8,Abyss, Shijie,2.38,2,6,5/16/1993
+hero, 9,Abyss (Age of Apocalypse), Wuli,9.09,5,10,10/10/1996
+hero, 10,Adam Destine, Fundão,4.73,4,4,1/10/1960
+villain, 11,Adam Warlock, Krajan Karanganyar,3.2,2,1,3/25/1950
+villain, 12,Aegis (Trey Rollins), Valinhos,6.04,2,8,3/18/1988
+villain, 13,Agent Brand, Eisen,8.9,4,1,10/23/1954
+villain, 14,Agent X (Nijo), Moravský Beroun,8.9,1,6,10/1/1998
+villain, 15,Agent Zero, Korçë,3.46,1,3,7/13/2002
+hero, 16,Agents of Atlas, Secunda,3.52,4,5,1/9/2002
+hero, 17,Aginar, Zhonghechang,8.06,1,7,2/23/1963
+hero, 18,Air-Walker (Gabriel Lan), Liuzhou,7.1,4,3,10/15/2012
+villain, 19,Ajak, Ariana,7.02,1,7,11/19/1952
+hero, 20,Ajaxis, Oklahoma City,2.59,3,7,7/8/2015
+hero, 21,Akemi, Villeta,7.49,2,8,7/6/2004
+hero, 22,Alain, Flagstaff,8.12,5,3,12/22/1998
+villain, 23,Albert Cleary, Pengjia Zhaizi,6.48,1,10,5/26/1970
+villain, 24,Albion, Nanaimo,4.3,3,8,1/31/1989
+hero, 25,Alex Power, Montauban,9.72,2,9,4/14/1952
+villain, 26,Alex Wilder, Bang Kaeo,2.13,1,6,3/26/1984
+hero, 27,Alexa Mendez, Luoluopu,8.76,3,7,7/30/1967
+villain, 28,Alexander Pierce, Luyang,2.56,2,10,12/18/2015
+villain, 29,Alice, Dapchi,4.98,2,6,4/23/2010
+villain, 30,Alicia Masters, Xinglong,5.54,1,4,12/1/1972
+villain, 31,Alpha Flight, Obryte,4.04,5,1,7/18/1988
+hero, 32,Alpha Flight (Ultimate), Laiyang,5.05,1,2,2/25/1965
+villain, 33,Alvin Maker, Huangtian,4.1,5,4,11/20/1999
+villain, 34,Amadeus Cho, Nanying,2.05,2,6,6/1/1974
+villain, 35,Amanda Sefton, Haolibao,3.76,5,8,12/16/2014
+villain, 36,Amazoness, Saint Louis,3.97,5,5,6/26/2008
+villain, 37,American Eagle (Jason Strongbow), Itápolis,3.12,3,9,2/21/1988
+hero, 38,Amiko, Borehbangle,7.98,5,2,11/19/1958
+villain, 39,Amora, Szeged,3.99,2,1,4/1/1980
+villain, 40,Amphibian (Earth-712), Temuco,4.62,3,6,3/26/2002
+villain, 41,Amun, Saint John,3.6,5,5,4/16/1969
+hero, 42,Ancient One, Shanhaiguan,7.54,4,8,9/29/1974
+villain, 43,Ancient One (Ultimate), Koufália,8.89,4,3,2/6/1985
+villain, 44,Angel (Thomas Halloway), Al Khārijah,2.29,5,5,7/26/2012
+hero, 45,Angel (Ultimate), Huai’an,3.24,2,6,5/27/1991
+hero, 46,Angel (Warren Worthington III), Yuankeng,6.32,2,3,11/6/1967
+hero, 47,Angela (Aldrif Odinsdottir), Novoderevyankovskaya,9.63,4,6,9/14/2004
+hero, 48,Anita Blake, Abovyan,1.25,4,7,6/22/1968
+hero, 49,Anne Marie Hoag, Velké Opatovice,4.01,2,8,3/10/1966
+villain, 50,Annihilus, Punata,4.35,1,1,12/15/2007
+villain, 51,Anole, Ratchaburi,1.0,1,5,11/19/1976
+hero, 52,Ant-Man (Eric O'Grady), Szynwałd,9.3,1,1,7/4/1993
+villain, 53,Ant-Man (Scott Lang), Tarouca,7.42,3,8,6/13/1968
+villain, 54,Anthem, Järna,5.91,5,2,8/23/1962
+hero, 55,Apocalypse, Chengbei,7.9,2,8,4/20/1987
+hero, 56,Apocalypse (Ultimate), Phanna Nikhom,3.64,1,6,11/11/1987
+villain, 57,Aqueduct, Honggang,6.71,4,2,7/27/1970
+villain, 58,Arachne, Jiaocheng,4.11,5,10,3/16/2013
+villain, 59,Araña, Veyno,2.86,2,5,10/5/1981
+hero, 60,Arcade, Mberubu,4.58,3,3,2/16/1957
+villain, 61,Arcana, Mori,6.88,3,9,7/16/1983
+hero, 62,Archangel, Tambakbaya,6.14,4,3,2/2/1987
+hero, 63,Arclight, Askaniya Nova,1.49,4,4,5/21/2011
+hero, 64,Ares, Donan,8.02,1,9,3/13/1970
+hero, 65,Argent, Cama Juan,1.68,3,6,5/15/1971
+hero, 66,Armadillo, Nanmen,5.05,4,3,6/10/1958
+villain, 67,Armor (Hisako Ichiki), Binguang,5.45,1,10,1/2/2008
+hero, 68,Armory, Minneapolis,5.34,4,5,7/1/2009
+hero, 69,Arnim Zola, Rennes,1.33,5,7,6/16/1967
+villain, 70,Arsenic, Aguadas,5.17,4,7,5/18/1980
+villain, 71,Artiee, Al ‘Azīzīyah,8.17,1,2,11/18/1991
+hero, 72,Asgardian, Rîşcani,5.8,5,6,6/10/1976
+villain, 73,Askew-Tronics, Vellinge,3.52,1,3,12/12/1987
+hero, 74,Asylum, Oitui,6.25,3,8,3/18/1961
+villain, 75,Atlas (Team), Novi Bilokorovychi,1.96,3,7,5/13/1975
+villain, 76,Aurora, Miki,5.73,4,2,2/23/1972
+villain, 77,Avalanche, Quimbaya,1.44,4,8,3/18/2007
+villain, 78,Avengers, Bayshint,9.87,3,4,6/5/1978
+hero, 79,Avengers (Ultimate), Aragua de Barcelona,1.62,4,8,5/12/2010
+villain, 80,Azazel (Mutant), Matmata,9.21,4,6,8/4/1965
+hero, 81,Banshee, As Suqaylibīyah,5.07,2,5,2/24/2000
+hero, 82,Banshee (Theresa Rourke), Condega,1.51,5,1,10/27/2009
+hero, 83,Baron Strucker, Ciyu,4.5,4,8,2/6/1971
+hero, 84,Baron Zemo (Heinrich Zemo), Panyuran,8.29,2,1,12/20/1977
+hero, 85,Baron Zemo (Helmut Zemo), Sundbyberg,8.06,2,9,1/31/1969
+villain, 86,Baroness S'Bak, Yunxi,4.16,1,8,4/13/1961
+villain, 87,Barracuda, Bongao,5.86,4,2,12/3/1989
+villain, 88,Bart Rozum, Kangding,7.93,5,7,6/18/2014
+villain, 89,Bastion, Torrão,8.67,2,4,8/8/1994
+villain, 90,Batroc the Leaper, Perelyub,4.75,2,9,7/4/2009
+villain, 91,Battering Ram, Pinrang,1.16,3,2,4/21/1952
+hero, 92,Beak, Santander,8.71,3,8,6/27/2000
+hero, 93,Beast, Jiuxian,3.91,5,2,12/14/1957
+villain, 94,Beast (Earth-311), Huixian Chengguanzhen,7.07,4,7,11/10/1991
+hero, 95,Beast (Ultimate), Sawang Daen Din,9.06,1,8,12/21/1955
+hero, 96,Becatron, Kozhevnikovo,1.68,2,5,7/6/1966
+villain, 97,Bedlam, Jevíčko,2.16,4,5,11/24/2014
+hero, 98,Beef, Changfeng,3.26,1,1,7/11/1991
+hero, 99,Beetle (Abner Jenkins), Stari Kuty,8.79,4,3,3/13/2014
+hero, 100,Ben Grimm, Slobodskoy,5.1,3,5,9/21/1994
+hero, 101,Ben Parker, Juxing,8.67,1,1,8/27/1983
+villain, 102,Ben Reilly, Sil-li,1.58,3,9,6/29/1968
+villain, 103,Ben Urich, Subrag,2.96,1,8,12/17/1950
+hero, 104,Bengal, Jīsh,2.28,4,3,2/7/1968
+hero, 105,Beta-Ray Bill, Baohe,6.79,4,1,6/8/1990
+hero, 106,Betty Brant, Qarqīn,8.42,4,3,4/24/1968
+villain, 107,Betty Ross, Cuiabá,3.17,5,6,2/11/1992
+villain, 108,Beyonder, Zopilotepe,1.19,2,9,9/12/2013
+villain, 109,Bi-Beast, Bardo,5.38,3,8,6/9/1972
+hero, 110,Big Bertha, Aranhas,4.45,4,9,11/28/1973
+villain, 111,Big Wheel, Dongping,3.38,3,10,3/5/1951
+villain, 112,Bill Hollister, Vlkoš,8.37,5,5,2/8/1999
+hero, 113,Bishop, Prawdzinski,3.46,2,3,12/19/1963
+villain, 114,Bishop (Ultimate), Jocotán,8.54,3,5,1/24/1983
+villain, 115,Black Bird, Bergerac,8.42,3,2,1/27/1961
+villain, 116,Black Bolt, Jiyang,3.98,3,4,8/3/2005
+hero, 117,Black Bolt (Marvel War of Heroes), El Soberbio,8.55,3,5,6/14/1997
+villain, 118,Black Cat, Baiyun,7.96,3,6,7/23/2011
+villain, 119,Black Cat (Ultimate), Теарце,5.25,3,5,3/26/1997
+hero, 120,Black Crow, Eslāmābād,1.1,2,1,12/30/1974
+hero, 121,Black Knight (Sir Percy of Scandia), Kirkkonummi,7.77,1,10,7/13/1957
+hero, 122,Black Panther, El Bauga,2.37,4,3,9/30/2011
+villain, 123,Black Panther (Ultimate), Berlin,6.7,2,10,2/20/1965
+hero, 124,Black Queen, Badagry,1.29,5,1,1/18/1996
+villain, 125,Black Tarantula, Taypano,3.78,1,10,5/6/1969
+villain, 126,Black Tom, Genengan Kulon,3.94,4,4,11/18/2015
+villain, 127,Black Widow, Guajiasi,1.33,1,3,3/6/1958
+villain, 128,Black Widow (LEGO Marvel Super Heroes), Gondar,2.87,2,5,11/4/1984
+hero, 129,Black Widow (Ultimate), Buldon,8.37,5,8,8/27/1994
+villain, 130,Black Widow/Natasha Romanoff (MAA), Las Palomas,6.29,1,10,11/2/2009
+hero, 131,Blackheart, Gunungpeundeuy,1.78,2,10,7/2/1969
+villain, 132,Blacklash, Botevgrad,7.06,2,9,9/18/1982
+villain, 133,Blackout, Huangnaihai,8.04,4,5,11/29/1987
+hero, 134,Blade, Khalkhāl,3.63,4,8,4/21/1986
+hero, 135,Blastaar, Lisala,4.12,1,6,1/26/1982
+villain, 136,Blazing Skull, Shaxi,1.41,5,5,6/22/1989
+hero, 137,Blindfold, Al Ghāriyah,2.21,2,4,3/31/1952
+villain, 138,Blink, Nikolayevka,2.79,2,7,8/18/1992
+hero, 139,Blizzard, Cazin,8.9,4,8,6/28/1970
+hero, 140,Blob, Simabur,9.81,3,8,1/26/1955
+hero, 141,Blob (Ultimate), Manadhoo,9.78,4,6,5/22/1974
+hero, 142,Blockbuster, Chunyang,3.75,1,9,5/22/2008
+villain, 143,Blok, Knurów,3.96,5,6,8/14/2011
+villain, 144,Bloke, Ivanovo,2.72,1,2,6/3/1956
+hero, 145,Blonde Phantom, Nizhniy Bestyakh,8.56,1,7,12/15/1956
+villain, 146,Bloodaxe, Extremoz,5.33,3,8,8/10/1987
+hero, 147,Bloodscream, Mijiang,4.68,3,4,1/15/1957
+villain, 148,Bloodstorm, Pakel,8.64,2,8,7/24/1995
+villain, 149,Bloodstrike, Kiarajangkung,3.66,5,6,5/8/2005
+villain, 150,Blue Blade, Nong Bun Nak,4.09,5,1,12/31/2002
+villain, 151,Blue Marvel, Aglipay,3.5,3,1,2/2/1994
+villain, 152,Blue Shield, Cullhuas,9.34,2,9,1/6/2010
+villain, 153,Blur, Calizo,4.53,3,7,1/9/2005
+hero, 154,Bob-Agent of Hydra, Créteil,9.79,4,5,8/3/1981
+hero, 155,Boom Boom, Gornji Milanovac,6.84,1,4,6/9/2000
+villain, 156,Boomer, Barroco,9.89,3,1,3/12/1958
+hero, 157,Boomerang, Sumbersari Wetan,3.8,4,1,3/1/1996
+hero, 158,Box, Villa Nueva,2.44,2,7,11/27/1955
+hero, 159,Bride of Nine Spiders (Immortal Weapons), Jawl al Majma‘,6.96,2,6,1/15/2001
+villain, 160,Bromley, Komoro,6.38,5,9,5/20/1964
+hero, 161,Brood, El Quebrachal,6.33,2,9,5/5/2001
+hero, 162,Brother Voodoo, Kruševac,2.71,4,6,2/23/1984
+villain, 163,Brotherhood of Evil Mutants, Beau Vallon,3.06,3,8,8/25/1988
+hero, 164,Brotherhood of Mutants (Ultimate), Cariaco,2.32,4,8,7/16/1964
+villain, 165,Bruce Banner, Stockholm,7.76,4,5,7/2/1951
+hero, 166,Brute, Paris 15,1.34,3,8,5/25/1981
+hero, 167,Bucky, Felgueiras,7.53,5,2,3/24/1974
+hero, 168,Bug, Angers,3.76,5,9,3/5/1997
+villain, 169,Bulldozer, Johanneshov,5.9,3,8,6/24/1982
+villain, 170,Bullseye, Tunis,3.87,4,5,2/28/1957
+villain, 171,Bushwacker, Shengmi,7.49,5,8,4/19/1994
+villain, 172,Butterfly, Gaoshibei,6.84,1,4,6/29/2011
+hero, 173,Cable, Auch,7.29,3,9,2/7/1967
+hero, 174,Cable (Deadpool), Naples,8.84,4,7,4/14/1969
+hero, 175,Cable (Marvel: Avengers Alliance), Estrada,1.95,5,3,2/3/2005
+villain, 176,Cable (Ultimate), Krasnoarmiys’k,1.35,3,2,6/1/1990
+hero, 177,Cable (X-Men: Battle of the Atom), Florencia,4.57,1,6,8/16/1962
+hero, 178,Calamity, Bachuan,4.85,5,5,7/10/1966
+hero, 179,Caliban, Niepos,5.62,5,10,12/8/1950
+hero, 180,Callisto, Sindangpanji,8.78,5,1,9/4/1996
+hero, 181,Callisto (Age of Apocalypse), Wengang,7.89,1,4,1/5/1975
+villain, 182,Calypso, Xieqiao,3.34,4,9,10/1/1957
+hero, 183,Cammi, Arras,7.82,5,10,1/19/1981
+villain, 184,Cannonball, Rajsko,2.79,3,4,7/14/2001
+villain, 185,Cap'n Oz, Chicago,5.21,5,3,6/8/1971
+hero, 186,Captain America, Al Hufūf,3.63,1,9,6/4/1985
+hero, 187,Captain America (House of M), Kao Liao,9.66,2,10,4/18/2011
+villain, 188,Captain America (LEGO Marvel Super Heroes), Köln,2.7,3,5,9/8/1968
+villain, 189,Captain America (Marvel War of Heroes), Longchi,9.39,4,5,5/2/1962
+villain, 190,Captain America (Sam Wilson), Miyata,9.27,1,9,11/24/2001
+villain, 191,Captain America (Ultimate), Bang Racham,1.19,1,3,9/26/1988
+villain, 192,Captain America/Steve Rogers (MAA), Asaita,8.06,1,3,1/22/1977
+villain, 193,Captain Britain, Roissy Charles-de-Gaulle,8.83,5,4,12/12/1995
+villain, 194,Captain Britain (Ultimate), Tanalt,2.82,2,5,7/10/1968
+villain, 195,Captain Cross, Guiyang,7.37,4,3,10/20/1974
+hero, 196,Captain Flint, Qinggou,2.68,4,8,9/30/1990
+villain, 197,Captain Marvel (Carol Danvers), Prince Rupert,1.05,5,2,2/15/1975
+villain, 198,Captain Marvel (Genis-Vell), Telengsari,6.94,1,4,11/6/2009
+villain, 199,Captain Marvel (Mar-Vell), Haizigou,8.0,4,8,11/4/1968
+hero, 200,Captain Marvel (Monica Rambeau), Chinandega,9.37,5,8,3/12/1969
+villain, 201,Captain Marvel (Phyla-Vell), Tanakawu Dua,2.74,1,2,4/7/2000
+hero, 202,Captain Midlands, Zeist,6.61,2,2,7/24/1996
+hero, 203,Captain Stacy, Calaya,3.54,3,3,1/29/1956
+hero, 204,Captain Universe, Hongcao,1.53,5,2,10/4/1993
+hero, 205,Cardiac, Petřvald,3.67,3,4,4/19/1987
+villain, 206,Caretaker, Eskilstuna,3.3,2,7,12/23/1966
+villain, 207,Cargill, Fort Lauderdale,8.06,4,5,11/19/1964
+hero, 208,Carlie Cooper, Budapest,7.48,3,8,3/14/1988
+hero, 209,Carmella Unuscione, Kota Bharu,3.81,3,6,1/2/2013
+villain, 210,Carnage, Kazan,5.78,2,2,3/11/2005
+villain, 211,Carnage (Ultimate), Uwajima,7.21,1,5,6/1/1993
+hero, 212,Carol Danvers, Kirawsk,2.25,3,3,6/15/1968
+hero, 213,Carol Hines, Kobylin,6.72,4,10,5/3/1958
+villain, 214,Cassandra Nova, Luozhuang,1.75,5,7,6/22/1992
+hero, 215,Catseye, Pekuncen,5.2,2,9,5/19/1971
+villain, 216,Cecilia Reyes, Renshan,2.25,5,2,10/8/1953
+villain, 217,Celestials, Dąbrowa,2.76,2,10,5/20/1994
+hero, 218,Centennial, Nanyi,5.66,1,4,5/25/1975
+villain, 219,Centurions, Saipan,8.27,4,10,3/18/1992
+villain, 220,Cerebro, Balaka,3.25,1,1,3/6/1961
+villain, 221,Cerise, Quận Bốn,5.6,2,7,7/7/1990
+villain, 222,Ch'od, Shanlian,5.36,2,8,5/12/1980
+villain, 223,Chamber, Simo Satu,5.78,5,6,10/7/2001
+villain, 224,Chameleon, Bagnolet,7.4,4,6,7/17/2015
+villain, 225,Champions, Lekaj,4.72,3,6,5/20/1998
+villain, 226,Changeling, Zhangdian,4.3,5,5,8/16/1950
+villain, 227,Charles Xavier, Oklahoma City,6.68,4,1,5/6/1966
+hero, 228,Charlie Campion, Tchoban Bey,4.48,5,10,7/4/1999
+villain, 229,Chase Stein, Kangding,4.94,1,10,6/8/1953
+hero, 230,Chat, Burūm,6.58,1,9,9/25/1950
+villain, 231,Chimera, Bích Động,4.13,5,2,8/15/1966
+hero, 232,Chores MacGillicudy, Bendilwungu Lor,5.96,1,9,7/20/1997
+villain, 233,Christian Walker, Yubilyeyny,2.11,4,5,7/9/1973
+villain, 234,Chronomancer, Río Blanquito,8.4,4,6,8/7/1962
+hero, 235,ClanDestine, Älmhult,4.56,2,5,5/29/1960
+villain, 236,Clea, Yutsa,2.93,3,8,6/23/1991
+villain, 237,Clea (Ultimate), Kotlovka,3.58,4,6,1/24/1990
+hero, 238,Clint Barton, Troyes,3.03,5,10,12/19/2007
+hero, 239,Cloak, Verona,3.55,5,6,4/28/1972
+villain, 240,Cloud 9, Töreboda,5.88,4,8,5/12/2013
+villain, 241,Cobalt Man, Campos Novos,6.14,2,6,10/30/1979
+villain, 242,Colleen Wing, Rautalampi,7.28,4,4,9/6/1953
+villain, 243,Colonel America, Renfengzhuang,9.35,1,9,1/30/2005
+villain, 244,Colossus, Ruda Śląska,1.95,5,10,9/14/1957
+villain, 245,Colossus (Ultimate), Dambulla,3.44,2,3,4/6/1970
+villain, 246,Confederates of the Curious, Simões Filho,1.6,3,6,8/9/1959
+hero, 247,Constrictor, Kimméria,3.64,3,4,9/24/2010
+villain, 248,Contessa (Vera Vidal), Béré,8.38,4,10,2/11/1981
+hero, 249,Controller, Hongqi,1.44,3,9,10/21/2006
+hero, 250,Cornelius, Melbourne,8.14,2,4,10/29/1975
+villain, 251,Corsair, Belūsovka,9.32,4,9,9/20/1981
+villain, 252,Cosmo (dog), Rosebank,2.43,3,1,8/8/1963
+hero, 253,Cottonmouth, Luleå,2.19,3,4,1/9/1963
+hero, 254,Count Nefaria, Fresnes,3.66,5,3,9/26/2001
+villain, 255,Countess, Dālbandīn,2.77,3,9,4/3/1994
+villain, 256,Crimson Crusader, Pueblo Viejo,2.06,4,2,2/18/1990
+villain, 257,Crimson Dynamo, Stockholm,2.94,5,6,4/13/2014
+hero, 258,Crimson Dynamo (Iron Man 3 - The Official Game), Morfovoúni,4.11,4,5,4/8/1992
+hero, 259,Crimson King, Sandaoba,7.9,4,3,8/1/1978
+hero, 260,Crossbones, Vera Cruz,9.09,5,8,7/15/1973
+hero, 261,Crule, Vila Nova de Milfontes,6.81,5,10,5/17/1970
+hero, 262,Crusher Hogan, Tegalsari,5.66,3,4,12/26/1957
+villain, 263,Crusher Hogan (Ultimate), El Benque,2.25,1,7,7/24/1992
+hero, 264,Crystal, Belūsovka,8.21,1,10,6/25/1979
+hero, 265,Cuckoo, Kagawasan,9.82,4,10,4/14/1990
+hero, 266,Curt Conners, Cabouco,4.15,1,8,1/17/1972
+villain, 267,Cuthbert, Rouen,3.41,3,7,10/28/1997
+villain, 268,Cyber, Hobo,8.62,5,8,12/25/1998
+villain, 269,Cyclops, Hamburg Winterhude,8.21,1,4,5/31/1979
+hero, 270,Cyclops (Ultimate), Villa Alemana,4.84,4,4,10/26/1990
+villain, 271,Cyclops (X-Men: Battle of the Atom), Menzel Abderhaman,7.76,5,1,1/24/1969
+villain, 272,Cypher, København,2.32,1,6,3/26/1986
+hero, 273,D'Ken Neramani, Battle Creek,8.42,3,8,9/25/1984
+villain, 274,Dagger, Illela,3.59,4,1,10/24/1972
+villain, 275,Daily Bugle, Usquil,2.35,2,10,1/31/1985
+villain, 276,Daimon Hellstrom, Jiantou,6.97,2,9,6/23/1960
+villain, 277,Daken, Nam Kliang,8.44,4,3,10/27/2013
+villain, 278,Dakota North, Stockholm,2.35,2,7,9/3/1958
+villain, 279,Damage Control, Kinamayan,7.32,3,5,1/24/1974
+hero, 280,Dani Moonstar, Huanza,5.49,5,7,5/26/1998
+hero, 281,Danny Rand, Jinzhuang,9.34,4,6,2/27/2005
+villain, 282,Daredevil, Hengdong Chengguanzhen,6.53,4,3,8/18/1990
+villain, 283,Daredevil (LEGO Marvel Super Heroes), Wuning,5.28,3,1,10/21/1961
+villain, 284,Daredevil (Marvel Heroes), Qinghua,3.93,5,9,7/18/1990
+villain, 285,Daredevil (Ultimate), Lukavice,6.79,2,1,4/19/1987
+hero, 286,Dargo Ktor, Larache,2.93,3,5,12/2/1997
+hero, 287,Dark Avengers, Chowṉêy,4.88,1,2,4/6/1997
+villain, 288,Dark Beast, Shekou,9.89,1,6,6/10/1983
+villain, 289,Dark Phoenix, Paris 12,3.91,3,7,7/17/1975
+villain, 290,Dark X-Men, Kangxung,7.93,2,8,9/4/2005
+villain, 291,Darkhawk, Xiejiatan,5.8,1,6,8/8/2013
+hero, 292,Darkstar, Nîmes,1.63,4,5,9/29/2012
+villain, 293,Darwin, Pasirpengarayan,4.51,2,8,8/3/1951
+hero, 294,Dazzler, Sagay,9.41,3,4,6/1/1982
+hero, 295,Dazzler (Ultimate), Garoua Boulaï,5.15,5,4,5/1/2012
+villain, 296,Deacon Frost, Annecy,1.45,5,4,1/7/1984
+hero, 297,Dead Girl, Boden,6.38,1,2,10/20/1958
+hero, 298,Deadpool, Pappadátes,3.68,4,3,4/11/1988
+hero, 299,Deadpool (Deadpool), Al Qābil,9.22,2,3,10/7/1950
+hero, 300,Deadpool (LEGO Marvel Super Heroes), Shangani,1.15,1,8,11/19/1983
+villain, 301,Deadpool (X-Men: Battle of the Atom), Pyhäjoki,7.26,4,5,8/9/2009
+hero, 302,Death, Taber,6.66,5,1,12/31/1981
+hero, 303,Deathbird, Yuza,8.95,4,2,2/27/2010
+hero, 304,Deathcry, Varnávas,4.46,5,7,3/17/1984
+villain, 305,Deathlok, Bonn,9.57,5,9,5/2/1962
+villain, 306,Deathstrike (Ultimate), Dainan,2.61,1,9,7/28/1952
+hero, 307,Debra Whitman, Babice,1.51,5,6,11/26/2011
+villain, 308,Debrii, Winong,8.81,3,7,9/27/1950
+hero, 309,Deena Pilgrim, Kamień Pomorski,9.04,4,7,5/31/1986
+hero, 310,Defenders, Krokeaí,8.78,4,7,2/2/2009
+hero, 311,Demogoblin, Kawengan,4.42,4,1,11/30/2000
+hero, 312,Destiny, Yoro,7.13,5,4,8/31/2007
+villain, 313,Detective Soap, Vinhedo,1.42,3,5,1/7/1969
+villain, 314,Deviants, Namling,1.53,3,3,2/17/1959
+villain, 315,Devil Dinosaur (Devil Dinosaur), Liangdang Chengguanzhen,9.84,2,4,12/26/2009
+hero, 316,Devil Dinosaur (HAS), Ribeira Grande,6.64,5,2,3/2/1998
+hero, 317,Devos, Jarash,9.54,5,4,4/12/2007
+villain, 318,Dexter Bennett, Kupang,6.7,5,5,1/9/2006
+hero, 319,Diablo, San Luis,1.7,4,8,6/20/1962
+villain, 320,Diamondback (Rachel Leighton), Queenstown,2.71,3,9,3/7/1990
+villain, 321,Dinah Soar, Berlin,7.8,3,4,7/7/1975
+hero, 322,Dirk Anger, Kratovo,9.84,5,9,9/29/1989
+villain, 323,Doc Samson, Tignapalan,2.11,2,3,5/30/1992
+villain, 324,Doctor Doom, Yanfolila,9.99,5,6,6/30/1975
+hero, 325,Doctor Doom (Ultimate), Jinja,8.71,1,9,11/25/1974
+villain, 326,Doctor Faustus, Pshada,2.16,3,2,7/12/1982
+hero, 327,Doctor Octopus, Presnenskiy,1.28,5,6,10/18/2000
+hero, 328,Doctor Octopus (Ultimate), Janów,5.75,2,5,6/17/1953
+villain, 329,Doctor Spectrum, Kalianda,8.18,4,2,10/21/1978
+villain, 330,Doctor Strange, Jönköping,8.05,3,6,2/25/2010
+hero, 331,Doctor Strange (Ultimate), Sungaiduri,2.93,4,6,11/6/1973
+hero, 332,Dog Brother #1, Viana,8.45,3,10,2/7/1976
+hero, 333,Domino, Dūkštas,8.64,2,3,8/22/1957
+villain, 334,Donald Blake, Ullulluco,8.82,4,8,12/17/2001
+villain, 335,Doomsday Man, Sumberdangdang,6.56,4,9,8/1/1970
+hero, 336,Doop, Kusak,6.27,1,9,3/2/1980
+villain, 337,Doorman, Coayllo,9.99,3,5,1/13/2014
+hero, 338,Dorian Gray, Taizi,4.57,4,10,10/17/1994
+hero, 339,Dormammu, Nong Khai,1.57,3,2,8/19/1968
+hero, 340,Dormammu (Ultimate), Dayr as Sūdān,3.91,1,6,8/2/2001
+villain, 341,Dr. Strange (Marvel: Avengers Alliance), Rongcheng,6.24,3,6,6/11/1983
+hero, 342,Dracula, Dārchulā,7.8,3,3,1/18/2002
+hero, 343,Dragon Lord, Gucheng,7.31,4,10,5/12/1974
+hero, 344,Dragon Man, Višňové,6.0,3,4,6/30/1980
+villain, 345,Drax, Néa Vrasná,1.03,4,2,6/8/2004
+villain, 346,Dreadnoughts, Suugaant,9.2,3,1,8/14/1995
+hero, 347,Dreaming Celestial, La Escondida,5.32,3,10,3/20/1961
+villain, 348,Druig, Pakis,1.45,5,3,1/10/1954
+hero, 349,Dum Dum Dugan, Balta,7.96,1,5,5/17/2011
+hero, 350,Dust, Aborlan,7.79,3,7,1/21/2002
+hero, 351,Earthquake, Sukorejo,1.47,4,3,12/16/1976
+villain, 352,Echo, Bangonay,4.71,4,10,11/13/1968
+hero, 353,Eddie Brock, Yalukou,7.0,1,3,4/27/1969
+villain, 354,Eddie Lau, Bahe,9.41,2,5,2/24/1982
+hero, 355,Edward "Ted" Forrester, Dzhalilabad,5.93,5,3,9/13/1959
+villain, 356,Edwin Jarvis, Kushikino,8.63,1,1,10/23/1962
+villain, 357,Ego, Xianglan,1.63,4,2,6/9/1967
+villain, 358,Electro, Czarne,8.73,2,6,9/2/2003
+hero, 359,Electro (Ultimate), Tangal,5.43,5,9,8/9/2014
+villain, 360,Elektra, Jingpeng,3.77,1,4,5/11/1972
+villain, 361,Elektra (Ultimate), Molinos,7.44,3,4,10/15/1990
+villain, 362,Elements of Doom, Tashkent,1.29,2,7,12/6/2001
+hero, 363,Elite, Jianshe,9.44,5,10,7/30/1996
+villain, 364,Elixir, Cikawunggading,2.3,3,3,1/1/2015
+hero, 365,Elloe Kaifi, Lipa City,1.23,2,1,12/16/1987
+villain, 366,Elsa Bloodstone, San Diego,1.82,5,9,7/19/2006
+villain, 367,Emma Frost, Erdu,6.12,1,3,9/22/1991
+villain, 368,Empath, Radlje ob Dravi,6.41,4,1,8/23/2003
+villain, 369,Emplate, Waru Selatan,8.61,2,2,10/26/1957
+villain, 370,Enchantress (Amora), Zhigalovo,8.42,3,9,8/23/2008
+villain, 371,Enchantress (Sylvie Lushton), Pontevedra,8.97,4,1,3/11/1975
+hero, 372,Ender Wiggin, Guadalupe,6.96,1,3,10/14/2010
+hero, 373,Energizer, Marcos Juárez,6.63,4,2,10/9/1991
+hero, 374,Epoch, Sherbrooke,7.47,1,2,4/7/1976
+hero, 375,Erik the Red, Emiliano Zapata,2.82,1,7,3/7/1970
+villain, 376,Eternals, Takedamachi,9.35,3,2,7/22/2010
+hero, 377,Eternity, Jiudian,5.72,1,6,3/12/1999
+hero, 378,Excalibur, Soritor,8.28,3,1,10/10/1981
+villain, 379,Exiles, Akademija (Kaunas),7.09,4,9,7/29/1956
+villain, 380,Exodus, Marisgama,6.99,5,7,9/24/2005
+hero, 381,Expediter, Beoga,3.17,2,2,7/4/2006
+villain, 382,Ezekiel, Jiquilillo,1.12,4,5,8/26/2003
+villain, 383,Ezekiel Stane, Gwanda,9.8,1,6,10/27/1980
+villain, 384,Fabian Cortez, El Aguilar,8.21,2,4,2/2/1984
+hero, 385,Falcon, Malanville,8.58,4,4,4/8/1966
+hero, 386,Falcon/Sam Wilson (MAA), Konsoy,4.96,5,7,9/26/1993
+hero, 387,Fallen One, General Galarza,3.53,1,9,3/5/1972
+hero, 388,Famine, Rennes,4.69,4,6,9/23/1969
+hero, 389,Fantastic Four, Ruyigi,5.43,2,7,2/23/2012
+villain, 390,Fantastic Four (Ultimate), Dijon,2.51,5,8,11/7/1953
+villain, 391,Fantastick Four, Gaojialing,1.43,5,9,7/26/2006
+villain, 392,Fantomex, Galatás,2.52,1,7,5/31/1950
+hero, 393,Fat Cobra, Charagua,6.0,3,3,4/24/1960
+hero, 394,Felicia Hardy, Angoulême,5.81,4,7,10/17/2012
+hero, 395,Fenris, Imotski,2.64,2,4,1/10/1990
+villain, 396,Feral, Volovo,8.27,2,6,5/8/1977
+hero, 397,Fin Fang Foom, Niederanven,9.16,3,7,6/20/1965
+villain, 398,Firebird, Sypniewo,3.86,2,2,4/10/1976
+hero, 399,Firebrand, Sainte-Martine,8.55,1,10,11/4/1974
+villain, 400,Firedrake, Makarska,8.88,2,2,3/30/1987
+hero, 401,Firelord, Hat Yai,8.3,2,1,11/29/1975
+hero, 402,Firestar, Longtou,2.39,5,6,10/24/1991
+hero, 403,Firestar (Ultimate), Huai’an,7.29,4,8,2/23/1952
+villain, 404,Fixer (Paul Norbert Ebersol), Novoanninskiy,8.39,3,5,12/9/1950
+villain, 405,Flatman, Mangarine,6.33,5,8,11/29/1998
+villain, 406,Flying Dutchman, Del Pilar,1.93,5,5,12/7/1988
+hero, 407,Foggy Nelson, Tangal,1.07,4,7,11/21/1988
+villain, 408,Force Works, Putrajaya,9.81,3,1,11/12/1982
+villain, 409,Forearm, Žleby,5.6,5,7,11/18/1956
+hero, 410,Forge, Zahedan,9.52,3,1,11/18/1963
+hero, 411,Forge (Ultimate), Ke’erlun,3.61,4,1,10/21/1974
+hero, 412,Forgotten One, Péfki,6.32,1,9,4/22/2008
+hero, 413,Frank Castle, Gongqiao,8.18,3,6,8/3/1973
+hero, 414,Frankenstein's Monster, Bagumbayan,6.0,1,1,1/4/1997
+hero, 415,Franklin Richards, Caucasia,7.04,2,8,2/17/2006
+villain, 416,Franklin Storm, Kokagax,4.86,1,1,3/18/1968
+villain, 417,Freak, Kostanay,3.8,1,9,3/28/1997
+villain, 418,Frightful Four, Lawrenceville,2.98,3,1,12/31/1954
+villain, 419,Frog Thor, Katori-shi,6.97,2,3,6/16/1981
+villain, 420,Frog-Man, Pinar del Río,5.72,3,7,9/18/2002
+hero, 421,Gabe Jones, Beloeil,4.61,3,4,9/15/1986
+hero, 422,Galactus, Józefów,6.83,1,3,6/22/1999
+villain, 423,Galia, Sut-Khol’,2.93,2,8,8/4/1957
+hero, 424,Gambit, Villa Ocampo,2.19,1,2,12/9/1973
+villain, 425,Gamma Corps, Padre Paraíso,3.85,4,10,7/19/1991
+hero, 426,Gamora, Pirapozinho,7.23,4,5,3/24/1993
+hero, 427,Gamora (Marvel War of Heroes), Shashi,7.28,5,1,9/12/1957
+hero, 428,Gargoyle, An Lão,1.76,2,7,8/9/1980
+hero, 429,Gargoyle (Yuri Topolov), Mikhaylovsk,8.93,4,1,7/23/2006
+villain, 430,Garia, Haiyan,9.9,1,6,12/6/2006
+hero, 431,Garrison Kane, Zhongxing,7.22,5,4,4/3/1987
+hero, 432,Gateway, Tengger,7.46,5,5,6/7/2009
+hero, 433,Gauntlet (Joseph Green), Zhigulevsk,3.51,2,9,3/21/1950
+villain, 434,Geiger, Saint-Pierre-Montlimart,9.76,5,10,1/2/1959
+villain, 435,Gene Sailors, Leuweheq,7.77,2,6,5/2/1994
+hero, 436,Generation X, Valladolid,9.93,5,10,3/11/1986
+hero, 437,Genesis, Planeta Rica,9.81,3,5,3/6/1969
+hero, 438,Genis-Vell, Béthune,4.19,4,5,11/9/1997
+villain, 439,George Stacy (Ultimate), Gongnong,6.24,1,8,6/5/1990
+villain, 440,Gertrude Yorkes, Okakarara,9.9,3,6,1/8/1974
+hero, 441,Ghost Rider (Daniel Ketch), Gubskaya,5.03,5,6,3/24/2004
+hero, 442,Ghost Rider (Johnny Blaze), Nkandla,7.92,1,6,3/13/2015
+villain, 443,Ghost Rider (Marvel War of Heroes), Bindura,1.87,1,5,6/3/1962
+hero, 444,Giant Girl, Povorino,6.58,5,10,9/29/2010
+villain, 445,Giant Man, Poroj,5.45,3,2,9/17/1967
+villain, 446,Giant-dok, Lalībela,5.79,1,3,9/20/1969
+hero, 447,Giant-Man (Ultimate), Zgłobień,3.86,3,7,5/6/1993
+hero, 448,Gideon, Bennäs,4.01,5,3,3/27/1970
+villain, 449,Git Hoskins, Fukuechō,8.44,3,5,9/9/1961
+hero, 450,Gladiator (Kallark), Tupiza,7.64,1,3,1/15/2003
+hero, 451,Gladiator (Melvin Potter), Portela,1.32,5,1,4/17/1973
+villain, 452,Glenn Talbot, Kotor,4.33,1,4,8/18/1981
+villain, 453,Glorian, Plasy,9.02,2,2,10/17/1964
+hero, 454,Goblin Queen, Widorokandang,3.58,2,7,10/31/2013
+villain, 455,Golden Guardian, Rokiciny,7.57,2,6,10/12/1953
+villain, 456,Goliath (Bill Foster), Sobinka,1.1,5,9,3/8/1972
+villain, 457,Gorgon, Philadelphia,3.45,5,3,11/23/1968
+hero, 458,Gorilla Man, Mulleriyawa,8.58,4,5,7/1/2008
+villain, 459,Grandmaster, Desakolot,2.17,4,3,1/21/1988
+villain, 460,Gravity, Beiping,5.78,1,4,10/26/2006
+villain, 461,Great Lakes Avengers, Cungking,3.35,5,1,8/25/1961
+hero, 462,Green Goblin (Barry Norman Osborn), Hucheng,1.09,4,9,11/25/1997
+hero, 463,Green Goblin (Harry Osborn), Oborniki Śląskie,9.4,3,2,12/1/1980
+villain, 464,Green Goblin (Ultimate), Odiongan,2.07,3,6,6/19/1992
+villain, 465,Gressill, Cikadondongdesa,8.33,5,7,11/16/1965
+hero, 466,Grey Gargoyle, Nyima,7.82,4,4,5/11/2006
+hero, 467,Greymalkin, Tiwi,7.86,3,9,1/5/1954
+hero, 468,Grim Reaper, Bangrat,5.82,4,8,9/16/1981
+villain, 469,Groot, Jince,8.48,5,1,12/14/1958
+villain, 470,Guardian, Yajiang,9.01,5,6,3/21/1985
+villain, 471,Guardians of the Galaxy, Živinice,6.23,2,9,11/7/1999
+hero, 472,Guardsmen, Vis,8.58,5,5,12/19/1976
+hero, 473,Gunslinger, Corgo,1.07,5,2,5/7/1955
+villain, 474,GW Bridge, Huambalpa,9.85,5,4,2/9/2000
+hero, 475,Gwen Stacy, Kadujangkung,6.38,4,3,7/16/1972
+hero, 476,Gwen Stacy (Ultimate), Chagang,3.84,3,2,9/28/1951
+hero, 477,H.A.M.M.E.R., Hidalgo,4.9,2,10,7/30/1964
+villain, 478,H.E.R.B.I.E., Jing’an,1.9,1,10,6/13/2015
+villain, 479,Hairball, Beit Jann,1.18,5,9,12/9/1951
+hero, 480,Half-Life (Tony Masterson), Dolní Sloupnice,4.24,3,1,5/13/2009
+hero, 481,Hammerhead, Garoua,5.35,2,5,9/18/2010
+hero, 482,Hammerhead (Ultimate), Voiron,7.13,4,10,8/5/1956
+villain, 483,Hank Pym, Mapaniqui,1.13,3,7,9/3/1977
+hero, 484,Hannibal King, Ilha Solteira,2.79,1,9,7/23/2009
+hero, 485,Happy Hogan, Totoras,1.39,1,9,10/1/2006
+hero, 486,Hardball, Bentar,8.72,3,2,4/2/1989
+villain, 487,Harley Davidson Cooper, Izingolweni,6.13,1,9,2/2/1982
+villain, 488,Harpoon, Vale de Figueira,1.84,3,5,11/22/1995
+villain, 489,Harrier, Midland,9.3,3,5,7/14/1963
+hero, 490,Harry Heck, Sumbersari Wetan,2.81,1,4,7/31/1997
+villain, 491,Harry Osborn, Mangkon Daja,7.81,5,3,3/27/1963
+hero, 492,Harry Osborn (Ultimate), Potęgowo,5.8,3,5,9/25/1954
+hero, 493,Hate-Monger (Adolf Hitler), Bonpland,8.0,4,5,7/24/1950
+hero, 494,Havok, Perdões,2.18,1,9,10/16/1993
+hero, 495,Hawkeye, Yanac,4.36,4,7,4/30/2002
+villain, 496,Hawkeye (Kate Bishop), Berlin,6.47,5,1,11/25/1959
+hero, 497,Hawkeye (Marvel Heroes), Oropós,3.0,3,1,10/11/1983
+hero, 498,Hawkeye (Ultimate), Zavet,2.46,4,4,11/30/1963
+hero, 499,Hawkeye/Clint Barton (MAA), Rio Bonito,1.19,2,4,5/20/1973
+hero, 500,Hedge Knight, Bucu Kidul,6.04,1,6,5/18/1999
+villain, 501,Hellcat (Patsy Walker), Sefrou,4.2,5,2,10/8/1957
+hero, 502,Hellfire Club, Morelos,8.11,5,8,2/9/1998
+hero, 503,Hellfire Club (Ultimate), Vân Đình,9.43,4,8,10/10/2003
+villain, 504,Hellion, Aībak,8.82,3,8,8/13/2003
+villain, 505,Hellions (Squad), Tādif,3.54,1,4,11/27/2014
+villain, 506,Hemingway, Nîmes,7.09,5,3,5/28/1986
+hero, 507,Henry Peter Gyrich, Zhizhong,4.12,1,7,6/10/1970
+villain, 508,Hepzibah, Denver,4.34,4,9,2/12/1988
+hero, 509,Hercules, Kup,9.2,3,10,7/20/1997
+villain, 510,Heroes For Hire, Shengao,6.29,5,3,8/12/1957
+villain, 511,Hex, Bagani,7.68,5,8,11/24/2006
+villain, 512,High Evolutionary, Söderköping,8.37,5,5,12/23/1971
+villain, 513,Hindsight Lad, Guanshan,5.85,5,1,4/19/1980
+villain, 514,Hiroim, Mwinilunga,6.6,5,10,10/9/1989
+hero, 515,Hitman, Wugong,3.24,3,6,8/22/1961
+villain, 516,Hitomi Sakuma, El Paso,9.76,2,9,4/17/2006
+villain, 517,Hobgoblin (Jason Macendale), Huangyang,4.14,1,10,2/2/1968
+hero, 518,Hobgoblin (Robin Borne), Song’ao,8.78,3,5,5/4/1977
+hero, 519,Hobgoblin (Roderick Kingsley), Ulaandel,4.45,4,6,7/14/2008
+villain, 520,Holocaust (Age of Apocalypse), Nong Chik,2.13,1,1,3/8/2006
+hero, 521,Holy, Tylicz,3.21,3,6,6/3/1973
+hero, 522,Hope Summers, Lakeland,9.03,2,9,5/19/1960
+villain, 523,Howard Saint, Greda,6.49,1,5,3/24/1961
+hero, 524,Howard The Duck, Kalapadua,3.8,5,10,12/23/2001
+hero, 525,Hulk, Aki,3.2,3,4,4/27/1953
+hero, 526,Hulk (HAS), Donghe,1.02,4,3,3/8/1978
+villain, 527,Hulk (LEGO Marvel Super Heroes), Verkhn’odniprovs’k,8.68,3,4,10/15/1983
+hero, 528,Hulk (Marvel Zombies), Porsgrunn,8.3,1,2,3/27/2011
+hero, 529,Hulk (Marvel: Avengers Alliance), Quanjiang,8.14,5,4,10/11/1975
+hero, 530,Hulk (Ultimate), Trondheim,5.76,1,9,3/7/1981
+villain, 531,Hulk-dok, Luohuang,5.74,4,8,12/1/1977
+villain, 532,Hulk/Bruce Banner (MAA), Luoshe,2.6,5,4,3/18/1959
+hero, 533,Hulkling, Songwon,3.41,4,7,4/22/1974
+hero, 534,Human Cannonball, Itabaianinha,4.1,4,3,6/28/1990
+villain, 535,Human Fly (Richard Deacon), Goshogawara,8.27,2,8,2/3/2015
+hero, 536,Human Robot, Hegarmanah,9.58,3,9,8/4/2002
+villain, 537,Human Torch, Ziftá,6.11,2,1,4/14/2012
+villain, 538,Human Torch (Jim Hammond), Jinji,2.97,5,9,1/6/1963
+villain, 539,Human Torch (Ultimate), Capelinha,2.9,4,7,12/19/2014
+hero, 540,Humbug, Volzhskiy,3.0,4,9,5/27/1968
+villain, 541,Husk, Machang,7.34,2,5,9/15/1983
+villain, 542,Hussar, Kraton,5.53,3,9,12/12/1954
+villain, 543,Hydra, Särkisalo,7.11,3,2,3/20/1977
+villain, 544,Hydro-Man, São Sebastião do Passé,6.67,1,2,3/13/2005
+villain, 545,Hyperion (Earth-712), Śródmieście,8.11,2,4,1/20/1992
+villain, 546,Hypno-Hustler, Goyty,9.36,4,2,8/30/1985
+hero, 547,Iceman, Masaki-chō,3.34,1,1,3/25/2002
+villain, 548,Iceman (Ultimate), Krasnorechenskiy,1.0,1,1,6/1/1996
+villain, 549,Iceman (X-Men: Battle of the Atom), Andrijevica,8.98,4,9,5/25/2004
+villain, 550,Ikaris, Gąbin,1.68,4,6,9/14/1996
+villain, 551,Illuminati, Morez,5.2,1,7,9/21/2006
+hero, 552,Ilyana Rasputin, Tokyo,7.38,5,6,10/26/1979
+villain, 553,Imp, Mawu,3.25,4,4,8/16/1982
+hero, 554,Imperfects, Shalqīya,6.09,1,9,11/12/1973
+villain, 555,Imperial Guard, Tampa,5.09,5,10,6/4/1987
+hero, 556,Impossible Man, General Emilio Aguinaldo,1.65,3,9,7/29/1982
+villain, 557,In-Betweener, Nogoonnuur,1.69,1,7,10/9/2001
+hero, 558,Inertia, Çlirim,8.91,1,6,11/15/1990
+hero, 559,Infant Terrible, Shihuajian,9.22,2,4,6/20/2015
+hero, 560,Inhumans, Sandakan,1.83,2,7,4/28/1989
+villain, 561,Ink, Doushaguan,6.1,1,5,1/13/1990
+hero, 562,Invaders, Shuanggang,1.89,2,1,5/5/2005
+hero, 563,Invisible Woman, Pavlivka,1.05,1,4,2/19/1956
+villain, 564,Invisible Woman (Marvel: Avengers Alliance), Banjarjo,8.95,3,10,6/22/1959
+hero, 565,Invisible Woman (Ultimate), Huanchillas,1.88,3,7,11/23/2005
+hero, 566,Iron Cross Army, Mhlambanyatsi,6.42,2,5,11/15/1959
+hero, 567,Iron Fist (Bei Bang-Wen), Fayaoué,2.6,1,1,11/28/1969
+hero, 568,Iron Fist (Danny Rand), Göteborg,1.9,4,7,6/3/1987
+hero, 569,Iron Fist (Orson Randall), Cangzhou,5.79,3,5,3/14/1964
+villain, 570,Iron Fist (Quan Yaozu), San Marcos,4.02,1,8,8/15/1982
+hero, 571,Iron Fist (USM), Hasan,1.34,4,2,12/20/1953
+hero, 572,Iron Fist (Wu Ao-Shi), Tānsen,2.92,4,3,3/20/2001
+villain, 573,Iron Lad, Miskindzha,5.37,2,2,9/10/1958
+hero, 574,Iron Man, Şānūr,9.81,4,8,11/12/1983
+villain, 575,Iron Man (Iron Man 3 - The Official Game), Gorang,4.25,4,7,5/20/1994
+hero, 576,Iron Man (LEGO Marvel Super Heroes), Midões,7.42,5,7,8/28/1961
+hero, 577,Iron Man (Marvel Heroes), Doumen,2.37,2,6,7/1/1965
+hero, 578,Iron Man (Marvel War of Heroes), Mozhga,3.65,1,6,12/10/1995
+villain, 579,Iron Man (Ultimate), Västra Frölunda,3.8,5,8,5/18/1977
+hero, 580,Iron Man/Tony Stark (MAA), Bongbong,4.77,1,10,7/4/2012
+villain, 581,Iron Monger, Qinghe,5.62,3,4,4/18/1967
+villain, 582,Iron Patriot, Wonocoyo Utara,2.51,4,4,3/15/1994
+villain, 583,Iron Patriot (James Rhodes), Igarassu,2.58,4,3,9/7/1991
+villain, 584,Ironclad, Şalākhid,5.71,4,4,5/6/1995
+villain, 585,J. Jonah Jameson, Warri,4.18,3,10,12/19/1987
+hero, 586,Jack Flag, Gunjur,2.8,3,5,10/11/1963
+villain, 587,Jack Murdock, Bondowoso,4.61,5,5,6/21/1979
+hero, 588,Jack O' Lantern, Kutasari,4.97,2,10,3/6/2009
+villain, 589,Jack Power, Eshan,4.85,5,6,2/20/1984
+villain, 590,Jackal, Helong,3.3,4,3,11/24/2005
+villain, 591,Jackpot, Piribebuy,5.26,3,7,9/21/1950
+villain, 592,James Buchanan Barnes, Canomoy,6.83,3,8,12/5/2014
+villain, 593,James Howlett, Strömsund,9.62,3,10,5/6/1973
+hero, 594,Jamie Braddock, Gayam,8.72,3,5,9/12/2007
+hero, 595,Jane Foster, Itabira,9.67,3,5,3/16/1997
+villain, 596,Janus-the Nega-Man, Banjar Pasekan,9.43,4,10,12/19/2006
+hero, 597,Jasper Sitwell, Manzurka,8.34,5,6,7/27/1951
+hero, 598,Jazinda, Mospyne,6.93,4,5,1/4/1998
+villain, 599,Jean Grey, Borås,4.86,1,3,5/31/1964
+hero, 600,Jean Grey, Chencai,8.51,3,9,11/19/1993
+hero, 601,Jean Grey (Ultimate), Tagakpan,6.85,1,8,5/9/1989
+villain, 602,Jennifer Smith, Buyant,3.04,5,4,3/29/1969
+hero, 603,Jeryn Hogarth, Huangzhan,7.03,1,3,1/16/1955
+villain, 604,Jessica Drew, Guaratuba,8.54,2,7,4/10/1954
+hero, 605,Jessica Jones, Dolores,9.27,4,9,10/21/1962
+villain, 606,Jetstream, Pitangueiras,5.08,5,5,1/22/1991
+hero, 607,Jigsaw, Ríohacha,2.8,1,9,1/18/2002
+hero, 608,Jimmy Woo, Depok,5.88,5,7,6/29/2001
+hero, 609,Joan the Mouse, Kristinehamn,1.78,3,1,9/9/1987
+hero, 610,Jocasta, Gierłoż,8.17,5,4,6/14/2004
+villain, 611,John Farson, Szydłowo,2.53,4,4,5/9/1958
+villain, 612,John Jameson, North Little Rock,2.41,4,7,4/13/1977
+villain, 613,John Porter, Odzi,5.56,5,8,3/27/1973
+villain, 614,John Wraith, Tomigusuku,3.12,4,4,1/9/2014
+villain, 615,Johnny Blaze, Uchkeken,6.12,5,3,10/22/1976
+villain, 616,Johnny Storm, Hancheng,3.93,4,6,4/12/2008
+villain, 617,Joseph, Nanmu,2.02,3,4,4/25/1964
+hero, 618,Joshua Kane, Obuasi,5.14,4,9,10/28/1962
+villain, 619,Josiah X, Muyaka,9.05,5,6,12/3/1954
+hero, 620,Joystick, Weyburn,8.48,2,10,12/9/1957
+villain, 621,Jubilee, Eaubonne,6.76,1,7,7/12/1955
+villain, 622,Jubilee (Age of Apocalypse), Dongluqiao,4.57,1,9,4/15/1965
+villain, 623,Juggernaut, Takefu,3.2,3,5,4/8/1982
+villain, 624,Jule Carpenter, Toutosa,7.42,4,9,8/5/1981
+villain, 625,Julian Keller, Huilong,3.01,4,3,8/8/1995
+villain, 626,Junta, Tanay,7.76,4,10,7/11/1997
+villain, 627,Justice, Krasnaya Poyma,8.27,2,6,11/23/2005
+villain, 628,Justin Hammer, Mabusag,3.51,5,1,8/11/1991
+hero, 629,Ka-Zar, Hejiayan,8.62,1,7,12/22/1984
+villain, 630,Kabuki, Liqiao,2.96,1,4,3/8/1989
+hero, 631,Kang, Nzeto,3.21,4,8,11/16/1974
+hero, 632,Karen O'Malley, Buenaventura,9.62,2,6,10/13/1971
+villain, 633,Karen Page, Shanlian,2.62,5,6,10/18/1961
+villain, 634,Karma, Saint-Bruno,1.23,1,1,7/15/1969
+villain, 635,Karnak, Cabimas,2.27,1,5,2/16/1998
+hero, 636,Karolina Dean, Guangshun,7.56,2,7,4/12/1956
+hero, 637,Kat Farrell, Druzhba,3.73,5,7,5/26/2011
+hero, 638,Kate Bishop, Xinpu,4.01,1,5,6/21/1984
+villain, 639,Katie Power, Linda Vista,8.25,3,6,11/30/1997
+hero, 640,Ken Ellis, Stony Plain,3.65,5,9,5/25/1965
+hero, 641,Khan, Aba,9.74,2,7,8/6/1966
+villain, 642,Kid Colt, Karangsonojabon,1.22,1,2,4/12/2014
+villain, 643,Killer Shrike, Jipijapa,8.24,1,3,9/29/1963
+hero, 644,Killmonger, Aioi,2.01,4,2,12/2/1959
+hero, 645,Killraven, Luofang,2.15,2,6,10/29/1950
+hero, 646,King Bedlam, Bunol,9.4,5,3,1/29/1994
+hero, 647,King Cobra, Itaqui,7.95,3,5,5/9/2014
+hero, 648,Kingpin, Guajiasi,6.37,2,4,5/13/1984
+villain, 649,Kinsey Walden, Bogorodskoye,4.96,5,10,5/9/1982
+villain, 650,Kitty Pryde, Hüremt,9.19,4,4,7/17/1963
+villain, 651,Kitty Pryde (X-Men: Battle of the Atom), Setro,4.8,4,6,6/12/1988
+hero, 652,Klaw, Quiches,5.58,5,7,5/17/1988
+villain, 653,Komodo (Melati Kusuma), Kuvshinovo,3.21,4,5,12/19/1989
+villain, 654,Korath, Lapuyan,8.99,1,7,12/21/2000
+villain, 655,Korg, Kampen (Overijssel),1.98,3,5,4/28/1963
+hero, 656,Korvac, Castelsarrasin,1.54,3,8,11/3/2003
+villain, 657,Kraven the Hunter, Akune,3.53,3,8,7/24/1964
+villain, 658,Kree, Putre,1.56,2,8,9/18/1986
+villain, 659,Krista Starr, Norman Wells,4.66,3,3,5/16/1953
+hero, 660,Kronos, Tunggar,8.25,1,7,8/23/1974
+villain, 661,Kulan Gath, Wiśniewo,3.14,3,5,5/12/1966
+hero, 662,Kylun, Muḩammad Āghah Wuluswālī,1.98,5,4,9/10/1974
+hero, 663,La Nuit, Singojuruh,1.46,1,4,6/5/1992
+villain, 664,Lady Bullseye, Newport News,8.57,3,8,9/7/1987
+villain, 665,Lady Deathstrike, Wawa,9.21,4,5,8/9/2001
+hero, 666,Lady Mastermind, Fort Wayne,2.01,3,10,12/20/1985
+hero, 667,Lady Ursula, Coelho Neto,5.78,2,10,2/13/1985
+villain, 668,Lady Vermin, Lyalichi,9.21,3,5,11/24/2014
+villain, 669,Lake, Grimshaw,8.62,2,1,12/14/1995
+villain, 670,Landau, Hongqi,8.5,2,5,4/6/2003
+villain, 671,Lava-Man, Fuchūchō,2.96,5,7,6/13/1991
+villain, 672,Layla Miller, Dodol,9.15,1,7,6/23/2008
+villain, 673,Leader, Qiqin,2.25,2,6,9/30/1963
+hero, 674,Leech, San Pablo,4.48,4,6,5/31/2009
+hero, 675,Legion, Barras,9.77,5,5,7/9/1988
+hero, 676,Lei Kung-The Thunderer, Yiwa,8.96,3,6,4/24/1996
+villain, 677,Lenny Balinger, Shatian,8.52,5,6,2/5/1963
+villain, 678,Leo (Zodiac), Herceg-Novi,1.98,4,5,4/7/1985
+hero, 679,Leopardon, Prado Siongco,2.66,4,8,12/14/1966
+villain, 680,Leper Queen, Wabana,6.73,1,4,4/27/2007
+hero, 681,Lester, La Paz,8.64,1,1,9/12/1986
+hero, 682,Lethal Legion, Níkiti,7.97,3,8,5/14/1976
+villain, 683,Lieutenant Marcus Stone, Zarechnyy,6.95,3,3,2/23/2009
+hero, 684,Lifeguard, Znamenskoye,9.18,1,5,3/3/1998
+hero, 685,Lightning Lords of Nepal, Maras,9.29,4,3,1/27/2014
+hero, 686,Lightspeed, Bunda,1.91,4,1,4/7/2005
+hero, 687,Lila Cheney, Dinititi,7.16,3,10,4/8/1952
+villain, 688,Lilandra, Telmin Suma,7.92,5,2,12/22/2006
+hero, 689,Lilith, Phúc Yên,6.26,4,6,3/26/1950
+villain, 690,Lily Hollister, Shanghu,8.12,5,1,3/23/1982
+villain, 691,Lionheart, Agadez,7.98,1,7,8/3/1983
+hero, 692,Living Lightning, Clearwater,3.49,5,9,11/9/1956
+villain, 693,Living Mummy, Lacombe,6.34,1,4,11/18/2007
+hero, 694,Living Tribunal, Plessisville,2.29,4,7,9/8/1983
+hero, 695,Liz Osborn, Zuocun,4.26,3,2,5/15/2000
+hero, 696,Lizard, Xiaochuan,9.57,5,10,12/12/2013
+hero, 697,Lizard (Ultimate), Jiyukou,4.95,3,6,9/14/2006
+hero, 698,Loa, Sūq ar Rabū‘,6.99,5,6,8/3/2006
+villain, 699,Lockheed, Sélestat,9.06,3,3,1/31/1966
+villain, 700,Lockjaw, San Diego,1.27,3,8,9/4/1992
+hero, 701,Logan, Konga,6.93,2,1,6/16/2010
+hero, 702,Loki, Międzybrodzie Bialskie,1.04,4,4,3/29/1991
+hero, 703,Loki (LEGO Marvel Super Heroes), Białobrzegi,8.75,4,6,11/17/1986
+villain, 704,Loners, Vällingby,9.65,2,4,11/26/1979
+villain, 705,Longshot, Caoyan,4.16,3,3,7/21/1977
+villain, 706,Longshot (Ultimate), Michałowo,2.2,4,5,8/25/2000
+hero, 707,Lord Hawal, Derbent,6.67,5,5,7/14/1976
+villain, 708,Lord Tyger, Yubileyny,8.75,5,5,7/17/2015
+hero, 709,Lords of Avalon, Söderköping,9.36,4,1,9/13/2010
+villain, 710,Lorna Dane, Carrasqueira,4.99,4,8,6/5/1979
+hero, 711,Luckman, Açucena,4.18,1,7,1/21/1990
+hero, 712,Lucky Pierre, Saguday,5.41,3,6,5/31/2010
+hero, 713,Lucy in the Sky, San Rafael,8.58,2,9,10/22/1986
+hero, 714,Luke Cage, Atawutung,5.36,3,3,1/2/1985
+hero, 715,Luminals, Mont-Saint-Hilaire,7.51,1,10,9/30/2008
+villain, 716,Lyja, Gereshk,1.03,1,5,8/18/1981
+villain, 717,M (Monet St. Croix), Nowe Grocholice,7.49,3,8,8/5/1993
+villain, 718,M.O.D.A.M., Jinjiahe,7.39,2,9,5/29/1979
+hero, 719,M.O.D.O.G., Bantarmangu,1.7,3,1,7/8/1994
+hero, 720,M.O.D.O.K., Néa Pélla,7.06,3,3,2/18/2002
+hero, 721,M.O.D.O.K. (Iron Man 3 - The Official Game), A dos Cunhados,4.44,5,8,11/16/1999
+villain, 722,Ma Gnuci, Puubheto,2.41,5,10,5/3/2002
+villain, 723,Mac Gargan, Báguanos,7.52,4,2,8/4/1962
+villain, 724,Mach IV, Licupis,4.58,3,7,12/16/1996
+hero, 725,Machine Man, Oesao,5.73,2,5,8/14/2010
+hero, 726,Mad Thinker, Hujiaba,2.65,4,6,7/19/1957
+hero, 727,Madame Hydra, Troyes,2.59,1,7,7/25/1952
+villain, 728,Madame Masque, Imbituba,5.11,5,7,9/30/2009
+hero, 729,Madame Web (Julia Carpenter), Pisangkemeng,9.46,4,9,3/11/1971
+hero, 730,Maddog, Juncalito Abajo,1.51,1,3,5/20/1975
+hero, 731,Madelyne Pryor, Shiyun,8.03,4,10,11/29/2011
+villain, 732,Madripoor, Luchenza,8.86,2,3,9/3/2002
+villain, 733,Madrox, Kabarnet,5.28,2,2,8/1/1961
+hero, 734,Maelstrom, Lulindi,4.82,2,10,12/5/2003
+hero, 735,Maestro, Francisco I Madero,3.5,1,1,12/21/1963
+hero, 736,Magdalene, Leomil,9.87,3,1,4/18/1976
+hero, 737,Maggott, Bukuru,2.86,2,9,4/23/1979
+hero, 738,Magik (Amanda Sefton), Wufu,6.99,1,3,5/30/1975
+hero, 739,Magik (Illyana Rasputin), Kista,6.66,4,3,1/31/2012
+hero, 740,Maginty, Laojiangjunjie,9.85,2,4,12/8/2007
+villain, 741,Magma (Amara Aquilla), Sindangsari,6.97,3,7,5/10/1986
+villain, 742,Magneto, Ombarade,9.68,1,9,3/23/1968
+villain, 743,Magneto (Age of Apocalypse), Sipeng,2.2,5,3,10/5/1970
+villain, 744,Magneto (House of M), Doroslovo,7.72,3,10,7/11/2010
+villain, 745,Magneto (Ultimate), Lexington,8.06,1,10,5/31/1991
+hero, 746,Magneto (X-Men: Battle of the Atom), Cartago,9.43,4,4,7/14/1996
+villain, 747,Magus (Adam Warlock), Saint-Étienne,4.56,4,2,11/15/2000
+villain, 748,Magus (Technarch), Kokar,2.24,5,4,7/13/1957
+villain, 749,Major Mapleleaf, Shaliu,6.31,3,1,2/8/1984
+hero, 750,Makkari, Laval,7.92,5,2,8/11/1950
+villain, 751,Malcolm Colcord, Ma‘dān,6.51,3,1,9/16/1958
+hero, 752,Malice (Earth-161), Zhongxing,2.93,2,7,7/31/1989
+hero, 753,Man-Thing, Kugesi,5.62,1,8,4/14/1971
+villain, 754,Man-Wolf, Oebatu,7.88,5,3,2/20/1988
+villain, 755,Mandarin, Caloue,6.37,3,5,3/27/1964
+villain, 756,Mandrill, Ryazanskiy,2.42,2,5,4/14/1974
+hero, 757,Mandroid, Madrid,4.55,3,2,4/6/1992
+hero, 758,Manta, Karukh,4.89,2,2,6/28/2004
+hero, 759,Mantis, Misungwi,2.19,2,6,2/16/1967
+villain, 760,Marauders, Kėdainiai,4.8,3,9,4/26/1970
+villain, 761,Marcus Van Sciver, Rymanów,7.43,2,5,3/8/1983
+villain, 762,Maria Hill, Changle,8.39,1,6,10/16/1954
+hero, 763,Mariko Yashida, Mertzig,3.91,1,9,9/23/1953
+villain, 764,Marrow, Fajsławice,5.22,4,7,7/19/1950
+hero, 765,Marten Broadcloak, Ya‘bad,1.04,2,7,10/8/2010
+hero, 766,Martin Li, Sanfins,4.64,2,3,6/27/2004
+villain, 767,Marvel Apes, Cerna,8.19,4,9,5/9/1981
+villain, 768,Marvel Boy, Huohua,4.73,2,9,5/14/1961
+villain, 769,Marvel Zombies, Camilaca,2.21,3,2,6/8/1996
+villain, 770,Marvex, Montréal,2.98,2,6,2/10/2003
+villain, 771,Mary Jane Watson, Diamantina,6.5,2,1,5/8/1984
+villain, 772,Mary Jane Watson (House of M), Taiping,4.71,2,1,12/24/1951
+villain, 773,Mary Jane Watson (Ultimate), Cocachacra,7.5,4,1,12/27/1996
+villain, 774,Masked Marvel (Unrevealed), Arcos,2.85,4,7,2/19/1989
+villain, 775,Masque, Zhangdan,8.81,5,10,5/24/2010
+villain, 776,Master Chief, Tame,6.65,5,2,4/25/1968
+villain, 777,Master Mold, Sigaozhuang,9.93,5,6,9/16/1981
+villain, 778,Mastermind, Cáceres,7.45,3,6,7/21/1994
+villain, 779,Masters of Evil, Sarimukti Kaler,8.67,3,4,6/25/2009
+villain, 780,Mathemanic, Bulawayo,2.6,1,7,8/17/1968
+hero, 781,Matsu'o Tsurayaba, Ehen Hudag,7.82,2,7,5/21/1975
+hero, 782,Matthew Murdock, Xinglong,6.95,3,9,4/24/2004
+villain, 783,Mattie Franklin, Matanza,2.91,1,10,12/10/1994
+villain, 784,Mauler, Njivice,3.71,5,4,5/22/1985
+villain, 785,Maverick (Chris Bradley), Welchman Hall,3.29,5,1,1/16/1953
+villain, 786,Maverick (Christoph Nord), Yumbe,1.28,1,10,8/17/1994
+hero, 787,Maximus, Černý Most,6.09,5,9,7/28/2014
+hero, 788,May Parker, Riosucio,4.3,4,6,6/10/1954
+villain, 789,Medusa, Francisco Beltrão,9.76,1,9,9/13/1964
+hero, 790,Meggan, Kraton,9.13,3,3,12/24/1986
+villain, 791,Meltdown, Bamut,4.06,2,6,3/7/2000
+hero, 792,Menace, Werangere,4.13,2,8,2/18/1960
+villain, 793,Mentallo, Spassk,9.34,1,5,6/11/1969
+hero, 794,Mentor, Al Miqdādīyah,4.5,3,6,4/25/1983
+hero, 795,Mephisto, Santa Maria,6.06,2,4,10/4/1997
+villain, 796,Mephistopheles, Busilak,6.66,5,1,9/8/1977
+villain, 797,Mercury, Jaqué,7.13,2,10,5/26/1991
+hero, 798,Mesmero, Shklo,7.77,2,4,10/21/2005
+villain, 799,Metal Master, Colorado Springs,6.92,4,5,5/31/1976
+villain, 800,Meteorite, Phutthaisong,7.46,1,1,11/30/1952
+villain, 801,MI: 13, Sandefjord,1.63,1,8,10/28/1978
+villain, 802,Micro/Macro, Vylkove,7.39,2,7,8/15/1991
+hero, 803,Microbe, Beigang,3.81,5,9,7/5/2013
+hero, 804,Microchip, Qinglin,2.79,2,8,11/15/2012
+villain, 805,Micromax, Xiekou,3.44,3,1,8/21/1955
+villain, 806,Midnight (Earth-811), Mochudi,1.82,3,9,3/29/1969
+hero, 807,Miek, Bungo-Takada-shi,5.32,1,7,1/5/1952
+villain, 808,Mikhail Rasputin, La Romana,6.27,4,4,10/19/1976
+villain, 809,Millenium Guard, Hamonggolele,6.49,4,5,9/1/1994
+villain, 810,Millie the Model, Gualmatán,9.05,1,4,8/1/1974
+hero, 811,Mimic, Fenchen,9.44,1,8,8/13/1990
+villain, 812,Mindworm, Nanjiao,5.46,1,5,11/26/1997
+hero, 813,Miracleman, Rantaupanjangkiri,5.6,3,5,3/14/1979
+hero, 814,Miss America, Jevišovice,1.05,3,5,6/19/1988
+hero, 815,Mister Fear, Foumbot,9.35,5,2,4/16/1984
+villain, 816,Mister Sinister, Namur,7.16,5,4,2/14/1978
+villain, 817,Mister Sinister (Deadpool), Yangiobod,9.54,3,1,12/25/1978
+villain, 818,Mister Sinister (House of M), Kotabaru,4.1,5,1,3/14/1961
+villain, 819,Mister Sinister (Ultimate), Saryshaghan,7.37,1,2,11/3/1958
+villain, 820,Misty Knight, Lanlongkou,4.23,4,6,12/13/1978
+villain, 821,Mockingbird, Černošice,3.3,5,9,11/5/1978
+villain, 822,Moira MacTaggert, Mirocin,2.0,4,9,11/6/2004
+hero, 823,Moira MacTaggert (Ultimate), Sakrand,8.29,5,1,11/23/2003
+hero, 824,Mojo, Wojnicz,8.54,5,1,6/25/1979
+villain, 825,Mole Man, Voznesenskaya,9.29,2,6,4/19/2001
+villain, 826,Molecule Man, Montalvo,3.54,5,10,12/10/1974
+hero, 827,Molly Hayes, Brest,6.8,3,10,7/21/1993
+hero, 828,Molly Von Richtofen, Esch-sur-Alzette,9.61,1,1,2/25/1982
+villain, 829,Molten Man, Dili,9.57,5,1,1/27/2005
+villain, 830,Mongoose, Toritama,3.04,3,10,3/6/2002
+hero, 831,Mongu (Unrevealed), Kocēni,9.86,5,6,10/14/1992
+hero, 832,Monster Badoon, Ruma,2.14,1,7,1/12/1970
+villain, 833,Moon Knight, Waitakere,9.99,1,5,9/21/1985
+hero, 834,Moon Knight (House of M), Mushie,2.49,1,5,3/16/1999
+villain, 835,Moon Knight (Ultimate), Niujiang,9.67,4,5,3/27/2004
+hero, 836,Moondragon, Duwe,9.64,2,6,4/4/2001
+villain, 837,Moonstone, Babasakhib,8.07,5,1,10/8/1959
+hero, 838,Morbius, Porosozero,4.89,2,4,10/8/2002
+villain, 839,Mordo, Lancaster,2.78,4,7,7/16/2012
+hero, 840,Morg, Paôy Pêt,3.76,4,5,2/21/2013
+hero, 841,Morgan Stark, San Luis,5.84,4,10,6/9/1978
+villain, 842,Morlocks, Angers,5.51,2,9,7/13/2009
+villain, 843,Morlun, Songkar B,2.17,5,8,11/22/1982
+hero, 844,Morph, Ying’ebu,4.17,4,6,6/9/1998
+villain, 845,Mother Askani, Skhirat,3.85,2,2,3/30/1994
+hero, 846,Mr. Bumpo, Nkandla,3.75,2,9,5/27/1980
+villain, 847,Mr. Fantastic, Zbrosławice,8.78,4,2,10/24/2001
+villain, 848,Mr. Fantastic (Ultimate), Kyshtym,2.91,5,4,12/29/1987
+hero, 849,Mr. Fish, Aqqan,5.36,3,9,2/17/1998
+hero, 850,Mr. Fixit, Beirut,1.41,4,10,1/8/1970
+villain, 851,Mr. Hyde, Teresa,9.53,3,9,4/23/1989
+villain, 852,Mr. Immortal, Sigayevo,5.52,2,3,12/9/1981
+hero, 853,Mr. Meugniot, Laojiangjunjie,4.35,4,6,7/13/1987
+hero, 854,Mr. Negative, Laiponda,5.01,1,9,4/3/1982
+villain, 855,Mr. Payback, Извор,6.2,3,8,12/23/1956
+hero, 856,Mr. X, Nine,8.85,5,8,5/8/1968
+villain, 857,Ms. Marvel (Kamala Khan), Qaryat ad Da‘īs,3.2,5,1,9/14/1950
+villain, 858,MS2, Talas,2.46,2,2,3/8/1974
+hero, 859,Mulholland Black, San Pedro,2.25,5,6,9/19/1992
+villain, 860,Multiple Man, Guangming,9.03,5,5,9/11/1995
+villain, 861,MVP, Sangoleng,3.18,2,5,6/9/1979
+villain, 862,Mysterio, Pingyin,7.46,3,8,4/13/1983
+villain, 863,Mysterio (Daniel Berkhart), Presidente Epitácio,7.09,3,10,6/14/2004
+hero, 864,Mysterio (Francis Klum), Korçë,9.99,4,3,5/12/2011
+villain, 865,Mystique, Újezd,3.91,5,8,12/15/1990
+hero, 866,Mystique (Age of Apocalypse), Karlovy Vary,3.7,3,6,7/2/2003
+hero, 867,Mystique (House of M), Caijiagang,4.42,2,7,2/25/1980
+villain, 868,Mystique (Ultimate), Paokmotong Utara,3.42,3,6,1/31/2000
+villain, 869,Namor, Flying Fish Cove,7.22,1,1,4/3/1964
+hero, 870,Namora, Rosthern,6.61,4,2,8/6/1988
+villain, 871,Namorita, Kruševica,8.63,4,5,4/1/1984
+hero, 872,Naoko, Madalum,7.44,4,4,7/17/1967
+hero, 873,Natasha Romanoff, Sida,2.8,4,6,10/1/1973
+villain, 874,Nebula, Aleysk,2.96,3,8,9/29/1996
+villain, 875,Nehzno, San Jose Village,4.08,5,8,11/27/1987
+hero, 876,Nekra, Shiquan,6.59,3,7,10/8/2007
+villain, 877,Nemesis, Chư Sê,9.81,2,10,2/1/1976
+villain, 878,Network, Předklášteří,4.58,5,2,5/30/1996
+hero, 879,New Goblin, General Martín Miguel de Güemes,1.93,5,3,9/29/1987
+hero, 880,New Mutants, Jasień,1.68,4,1,5/30/2002
+villain, 881,New Warriors, Heka,9.96,2,6,12/19/1965
+villain, 882,New X-Men, Antipolo,6.37,3,4,12/3/1967
+hero, 883,Newton Destine, Studzionka,8.81,3,6,11/18/1978
+hero, 884,Next Avengers, Chynów,5.66,5,8,11/6/1956
+villain, 885,Nextwave, Gorbunki,9.94,5,6,11/20/2013
+villain, 886,Nick Fury, Mulyorejo,3.45,1,8,10/5/1966
+hero, 887,Nick Fury (LEGO Marvel Super Heroes), Cuenca,9.29,1,1,7/19/1975
+villain, 888,Nick Fury (Ultimate), Phibun Mangsahan,9.87,2,2,4/11/1999
+hero, 889,Nico Minoru, Fasito‘outa,2.19,4,5,2/17/1982
+hero, 890,Nicolaos, Saint Ann’s Bay,6.45,1,3,7/12/1990
+hero, 891,Night Nurse (Earth-9997), Amalfi,5.28,5,10,8/20/1992
+hero, 892,Night Thrasher, Hacıqabul,6.12,3,5,12/9/1999
+hero, 893,Nightcrawler, Tortosendo,2.94,5,1,3/12/1969
+hero, 894,Nightcrawler (Ultimate), Głuchów,9.21,4,5,6/19/1983
+villain, 895,Nighthawk, Corticeiro de Baixo,9.84,4,7,11/27/2013
+hero, 896,Nightmare, Kore,4.98,1,8,11/25/2004
+hero, 897,Nightshade, Yuqian,5.04,2,8,7/13/2011
+hero, 898,Nine-Fold Daughters of Xao, Bethlehem,2.8,1,4,1/26/2002
+villain, 899,Nitro, Fukagawa,8.82,4,3,4/25/1976
+villain, 900,Nocturne, Stockholm,2.44,5,9,3/22/1952
+villain, 901,Nomad, Salvacion,1.4,1,6,3/2/2012
+villain, 902,Nomad (Rikki Barnes), Shangyuan,1.11,2,5,3/3/1968
+villain, 903,Nomad (Steve Rogers), La Estancia,8.21,5,1,3/11/1972
+villain, 904,Norman Osborn, Fucheng,2.0,4,2,1/20/2000
+villain, 905,Norrin Radd, Gachancipá,9.96,4,10,8/17/1955
+villain, 906,Northstar, Rio Claro,8.38,1,10,4/16/1955
+hero, 907,Nova, El Mirador,5.45,2,6,3/4/2014
+villain, 908,Nova (Frankie Raye), Guadalupe Victoria,3.79,2,5,11/12/1999
+hero, 909,Nova (Sam Alexander), Ambat,5.56,4,5,9/13/1956
+hero, 910,Nova (USM), Lombog,6.32,3,2,1/15/1984
+villain, 911,Nuke, Prado,6.78,1,7,11/26/1994
+villain, 912,Obadiah Stane, Busalangga,8.79,4,7,10/8/2007
+villain, 913,Odin, Soufrière,7.17,5,7,5/28/1991
+villain, 914,Ogun, Horad Pinsk,7.74,1,9,10/7/1973
+hero, 915,Old Lace, Sixi,8.27,2,10,12/18/2005
+villain, 916,Omega Flight, Sang-e Chārak,8.54,1,2,1/1/1954
+villain, 917,Omega Red, Tunis,5.2,1,1,2/25/1993
+villain, 918,Omega Sentinel, Peredovaya,6.7,1,8,5/18/1964
+villain, 919,Omega the Unknown, Castrovirreyna,2.12,4,1,6/11/2006
+villain, 920,Onslaught, Puerto Princesa,5.26,2,6,10/20/1966
+villain, 921,Onslaught (Ultimate), Póvoa,1.68,4,5,12/16/2014
+villain, 922,Oracle, Nuevitas,6.51,5,1,8/27/1969
+villain, 923,Ord, Norrtälje,7.23,2,3,5/26/1960
+villain, 924,Orphan, Baghdad,6.21,4,2,4/5/2003
+hero, 925,Orphan-Maker, Jeponkrajan,4.91,1,10,3/25/1981
+hero, 926,Otto Octavius, Perm,2.88,4,9,5/12/2011
+villain, 927,Outlaw Kid, Concepción de La Vega,2.46,4,5,3/30/2015
+villain, 928,Overlord, Guizi,2.98,5,8,7/18/1957
+villain, 929,Owl, Farshūţ,9.08,1,9,7/13/1989
+villain, 930,Ozymandias, Dalarik,7.82,4,4,10/12/1997
+villain, 931,Paibok, Gutian,8.03,4,4,12/12/1964
+hero, 932,Paladin, Nocaima,5.95,2,9,8/30/1995
+villain, 933,Pandemic, Xinan,7.56,4,1,8/22/1965
+villain, 934,Paper Doll, Sanchahe,9.06,5,7,2/3/1979
+villain, 935,Patch, Kabo,1.96,4,1,7/20/1981
+hero, 936,Patriot, Bayanhoshuu,7.2,3,7,8/29/1983
+villain, 937,Payback, Qaraçuxur,5.67,3,7,11/3/1993
+hero, 938,Penance (Robert Baldwin), Antalaha,5.84,2,8,4/23/2001
+hero, 939,Pepper Potts, Guadalupe,3.32,3,10,12/13/1956
+hero, 940,Pestilence, Puconci,3.97,1,7,4/23/1990
+hero, 941,Pet Avengers, Lagunillas,5.99,3,7,3/4/1977
+villain, 942,Pete Wisdom, Birigui,8.46,5,5,2/16/1988
+hero, 943,Peter Parker, Bangshipu,2.95,1,1,10/10/1984
+villain, 944,Peter Quill, Tuburan,3.45,5,6,2/8/1975
+hero, 945,Phalanx, Nurmijärvi,1.8,1,8,3/10/1981
+villain, 946,Phantom Reporter, Vel’sk,2.42,4,9,11/20/2010
+villain, 947,Phil Sheldon, Kolodenka,1.93,5,5,3/10/1967
+hero, 948,Photon, Jāwā,6.67,1,8,2/18/1983
+villain, 949,Phyla-Vell, Siguinon,9.89,2,10,8/31/1979
+villain, 950,Piledriver, Eirol,5.82,3,1,7/3/1981
+villain, 951,Pip, Al Khushnīyah,1.39,3,5,12/12/1961
+villain, 952,Pixie, Aubenas,3.64,4,2,11/4/1991
+villain, 953,Plazm, Lāchi,2.0,2,3,12/31/1994
+hero, 954,Polaris, Fāraskūr,7.56,4,8,6/13/1950
+villain, 955,Post, Kotanopan,6.45,3,9,4/29/1966
+villain, 956,Power Man (USM), Kut Chum,6.6,5,8,7/21/1969
+villain, 957,Power Pack, Centurion,1.83,3,9,12/7/1995
+hero, 958,Praxagora, Goujie,2.34,1,5,9/8/1954
+villain, 959,Preak, Terrugem,7.59,3,3,7/10/2012
+hero, 960,Pretty Boy, Jinjia,7.49,3,4,11/4/2006
+hero, 961,Pride, Taozhuang,2.1,4,4,3/23/2013
+villain, 962,Prima, Adare,1.38,4,2,6/23/1997
+villain, 963,Prince of Orphans, Nemby,1.81,4,9,6/8/1965
+villain, 964,Princess Powerful, Daphu,5.68,2,5,2/20/2002
+villain, 965,Prism, Kingersheim,2.87,1,4,9/26/1952
+hero, 966,Prodigy, Dami,2.18,3,10,4/3/1978
+hero, 967,Proemial Gods, Urus-Martan,7.5,2,2,7/26/1973
+hero, 968,Professor Monster, Springfield,4.17,2,7,9/10/1986
+hero, 969,Professor X, Simão Dias,8.03,4,7,2/4/1962
+villain, 970,Professor X (Ultimate), Olleros,8.48,3,8,8/28/2009
+villain, 971,Proteus, Néa Ionía,2.74,3,7,9/16/2002
+villain, 972,Proteus (House of M), Hongchuan,7.47,5,3,2/7/2005
+villain, 973,Proteus (Ultimate), Mmathubudukwane,5.05,2,4,3/26/1958
+hero, 974,Proudstar, Mpumalanga,9.41,3,7,10/18/1968
+hero, 975,Prowler, Talzemt,8.45,5,10,6/6/1993
+villain, 976,Prowler (Rick Lawson), Gorang,8.28,5,5,9/14/1975
+villain, 977,Psycho-Man, Al Misrākh,4.09,5,6,12/25/1957
+hero, 978,Psylocke, Tianhe,9.59,3,8,3/3/1987
+hero, 979,PsyNapse, Trashigang,1.73,1,1,3/26/1964
+hero, 980,Puck, Västerås,2.64,1,2,4/19/2010
+villain, 981,Puck (Zuzha Yu), Jilin,6.94,4,8,4/7/1978
+villain, 982,Puff Adder, Saari,7.75,4,10,9/1/2000
+hero, 983,pug, Goranboy,4.71,1,9,5/2/1962
+hero, 984,Puma, Hudson,1.54,2,4,7/4/1965
+villain, 985,Punisher, Austin,5.73,4,5,5/27/1950
+hero, 986,Punisher (2099), Šentilj v Slov. Goricah,9.64,4,4,5/20/2007
+villain, 987,Punisher (Marvel: Avengers Alliance), Kota Kinabalu,8.26,2,1,8/2/1984
+hero, 988,Puppet Master, Kroczyce,4.82,3,7,2/16/1981
+villain, 989,Purifiers, Gwadabawa,7.07,1,2,2/20/1974
+villain, 990,Purple Man, Ala,8.44,1,2,4/2/2004
+hero, 991,Pyro, Balagui,7.65,2,3,8/29/1999
+villain, 992,Quasar (Phyla-Vell), Stryszów,5.34,1,6,12/16/1993
+hero, 993,Quasar (Wendell Vaughn), Kashirskoye,8.76,1,7,12/5/1989
+hero, 994,Quasimodo, Ekibastuz,5.61,1,4,5/26/2009
+villain, 995,Queen Noir, Cipancur,8.8,3,9,10/5/1993
+hero, 996,Quentin Quire, Profítis Ilías,1.23,2,10,7/26/1955
+villain, 997,Quicksilver, Luso,5.06,5,10,12/10/1988
+villain, 998,Quicksilver (Age of Apocalypse), An Nāşirah,8.81,2,8,1/3/1992
+villain, 999,Quicksilver (Ultimate), Cherryville,9.69,5,8,5/28/1998
+villain, 1000,Rachel Grey, Qiaoyi,5.58,5,3,11/25/1961
+hero, 1001,Radioactive Man, Roshal’,1.09,1,3,12/12/1971
+villain, 1002,Rafael Vega, Saint-Denis,4.29,2,1,12/9/1965
+hero, 1003,Rage, ‘Ibrī,8.93,1,1,12/6/2002
+villain, 1004,Raider, Blachownia,5.95,3,9,6/10/1977
+hero, 1005,Randall, Montgomery,3.22,3,8,2/24/1986
+hero, 1006,Randall Flagg, Sypniewo,6.75,4,1,9/26/1995
+hero, 1007,Random, São João del Rei,8.38,5,5,12/29/2010
+hero, 1008,Rattler, Tsimkavichy,1.13,2,9,4/14/1961
+hero, 1009,Ravenous, Santa Rosa,3.89,5,7,3/10/2005
+hero, 1010,Rawhide Kid, Valinhos,5.88,2,8,2/9/1954
+villain, 1011,Raza, Zhugentan,4.64,5,5,3/5/1968
+villain, 1012,Reaper, Tabalosos,5.29,1,6,5/18/1962
+villain, 1013,Reavers, Qiaotou,9.59,1,2,3/8/1978
+villain, 1014,Reavers (Ultimate), Cibeureum,8.96,4,8,2/29/1952
+villain, 1015,Red 9, Trảng Bàng,6.99,5,1,3/29/1985
+hero, 1016,Red Ghost, Chengzhong,1.27,4,7,3/13/1953
+hero, 1017,Red Ghost (Ultimate), Halamendu,5.33,2,10,10/4/2000
+hero, 1018,Red Hulk, Agía Foteiní,1.3,4,7,6/1/1954
+villain, 1019,Red Hulk (HAS), Camargo,3.2,5,2,12/10/2007
+hero, 1020,Red She-Hulk, Gąsocin,1.14,4,2,4/25/2001
+hero, 1021,Red Shift, Phetchabun,5.77,2,2,7/6/1982
+hero, 1022,Red Skull, Liboro,9.21,4,3,8/23/2007
+villain, 1023,Red Skull (Albert Malik), Pan de Azúcar,7.16,3,10,3/29/1957
+villain, 1024,Red Wolf, Almaguer,6.55,1,5,12/9/1987
+hero, 1025,Redwing, Caikouji,2.85,1,9,4/26/1967
+villain, 1026,Reptil, Stockholm,2.91,4,7,10/4/1988
+hero, 1027,Retro Girl, Saipan,3.81,4,7,5/1/2005
+villain, 1028,Revanche, Kema,4.48,4,8,12/23/1955
+villain, 1029,Rhino, Zhanghua,6.73,3,8,7/5/2010
+villain, 1030,Rhodey, Iizuka,7.15,2,9,12/21/1990
+villain, 1031,Richard Fisk, Valle San Francisco,2.87,3,7,12/21/1975
+hero, 1032,Rick Jones, Kota Kinabalu,7.81,1,3,11/2/1960
+villain, 1033,Rick Jones (Ultimate), Banjar Bias,6.47,2,6,5/14/1951
+villain, 1034,Ricochet, Sindangan,8.57,2,2,12/4/1964
+villain, 1035,Rictor, Nantuo,4.87,5,5,9/21/1954
+villain, 1036,Riptide, Xinchengpu,6.53,3,4,5/25/1977
+villain, 1037,Risque, Dete,6.83,1,2,8/23/1965
+hero, 1038,Robbie Robertson, Moa,2.1,4,6,5/18/1950
+villain, 1039,Robert Baldwin, Tangtou,1.76,1,3,6/9/1996
+villain, 1040,Robin Chapel, Jiaoba,9.91,5,7,4/17/1989
+villain, 1041,Rocket Raccoon, Nanxiang,5.36,3,5,8/9/1984
+hero, 1042,Rocket Raccoon (Marvel Heroes), Taoyang,6.17,2,6,1/9/1959
+villain, 1043,Rocket Racer, Ning’er,7.79,3,1,5/9/1999
+villain, 1044,Rockslide, Gaotuo,6.14,5,9,7/11/1985
+hero, 1045,Rogue, Limanancong,4.79,5,6,4/11/1969
+hero, 1046,Rogue (Age of Apocalypse), Grybów,4.01,2,3,2/21/1975
+hero, 1047,Rogue (Deadpool), Rancharia,8.96,3,7,12/16/2014
+hero, 1048,Rogue (Ultimate), Songkeng,7.07,4,9,7/26/2010
+hero, 1049,Rogue (X-Men: Battle of the Atom), Inkerman,7.16,5,4,6/27/1963
+villain, 1050,Roland Deschain, Zgurovka,2.7,3,3,9/9/1970
+villain, 1051,Romulus, Kcynia,5.72,2,4,2/1/1975
+hero, 1052,Ronan, San Quintin,8.16,5,2,12/21/1966
+villain, 1053,Roughhouse, La Palma,7.39,5,10,11/11/2001
+villain, 1054,Roulette, Ilangay,7.12,3,4,10/23/1980
+hero, 1055,Roxanne Simpson, Devnya,9.67,5,7,5/28/1977
+hero, 1056,Rumiko Fujikawa, Polo,3.12,1,6,10/1/1999
+villain, 1057,Runaways, Bei’an,8.94,3,8,11/23/1984
+villain, 1058,Russian, Tiechang,5.36,5,1,6/17/1954
+villain, 1059,S.H.I.E.L.D., Saint-Malo,1.76,3,10,9/6/1967
+hero, 1060,Sabra, Ambato,6.28,5,5,10/1/1958
+villain, 1061,Sabretooth, Deshan,6.49,4,2,10/17/1982
+hero, 1062,Sabretooth (Age of Apocalypse), Tidili Mesfioua,1.58,1,9,10/25/1993
+hero, 1063,Sabretooth (House of M), Hongos,4.54,1,1,10/25/2011
+hero, 1064,Sabretooth (Ultimate), Pignon,6.25,1,2,9/22/1976
+hero, 1065,Sage, Mohelnice,9.93,5,1,2/5/1977
+hero, 1066,Salem's Seven (Ultimate), Piterka,2.37,1,9,6/14/2010
+villain, 1067,Sally Floyd, Divisoria,1.76,4,8,11/3/1962
+hero, 1068,Salo, Dongguan,1.83,3,6,2/19/1990
+hero, 1069,Sandman, Vřesina,5.63,5,3,9/16/2008
+villain, 1070,Santa Claus, Liebu,5.16,5,8,6/24/1995
+villain, 1071,Saracen (Muzzafar Lambert), Washington,8.4,1,9,11/21/1995
+hero, 1072,Sasquatch (Walter Langkowski), Ifo,5.88,3,3,6/7/1974
+villain, 1073,Satana, Sandefjord,6.19,5,5,5/15/1966
+hero, 1074,Sauron, Międzyzdroje,1.72,4,2,4/5/1999
+villain, 1075,Scalphunter, Allen,2.5,5,1,8/1/1954
+villain, 1076,Scarecrow (Ebenezer Laughton), Santa Luzia,6.56,5,10,8/1/2001
+villain, 1077,Scarlet Spider (Ben Reilly), Salcedo,3.74,5,1,8/15/1994
+villain, 1078,Scarlet Spider (Kaine), Oussivo,9.02,3,8,12/12/1965
+hero, 1079,Scarlet Witch, Ayagoz,7.34,3,7,10/24/2011
+villain, 1080,Scarlet Witch (Age of Apocalypse), Gazojak,8.81,3,8,2/1/1999
+hero, 1081,Scarlet Witch (Marvel Heroes), Bánov,7.75,4,3,7/26/1962
+hero, 1082,Scarlet Witch (Ultimate), Belén Gualcho,6.77,2,1,5/12/1970
+hero, 1083,Scorpion (Carmilla Black), Zhongxin,9.6,1,7,6/15/1972
+hero, 1084,Scorpion (Ultimate), Cakungsari,1.02,4,7,7/3/2002
+hero, 1085,Scourge, Bordeaux,6.54,3,7,8/26/1987
+villain, 1086,Scrambler, Semey,7.28,4,7,10/11/1956
+villain, 1087,Scream (Donna Diego), Jiudu,9.74,3,4,1/5/1973
+villain, 1088,Screwball, Orange,6.0,2,9,1/22/2005
+villain, 1089,Sebastian Shaw, Daze,4.18,5,8,3/28/2001
+villain, 1090,Secret Warriors, Komono,4.05,3,1,11/11/1989
+villain, 1091,Selene, Kosamphi Nakhon,9.09,4,4,1/19/1990
+hero, 1092,Senator Kelly, Póvoa do Valado,9.2,5,2,8/17/2002
+hero, 1093,Sentinel, Delvinë,4.29,4,9,9/11/1951
+villain, 1094,Sentinels, Xiaochi,9.64,5,6,7/1/1953
+hero, 1095,Sentry (Robert Reynolds), Mondlo,4.36,4,5,4/25/1982
+hero, 1096,Ser Duncan, Port Nolloth,9.85,4,1,11/10/1976
+villain, 1097,Serpent Society, Tarnowskie Góry,8.06,2,5,9/17/1995
+hero, 1098,Sersi, Bakuriani,8.17,2,10,10/31/2005
+hero, 1099,Shadow King, Luofang,4.13,3,5,7/4/2008
+hero, 1100,Shadow King (Age of Apocalypse), Taihe,5.69,2,1,3/4/2002
+hero, 1101,Shadowcat, Shuangxing,1.58,1,4,12/24/2003
+villain, 1102,Shadowcat (Age of Apocalypse), Thomazeau,2.87,5,6,11/23/1960
+villain, 1103,Shadowcat (Ultimate), Chefchaouene,2.41,3,8,2/17/1980
+hero, 1104,Shadu the Shady, Cardona,5.58,2,9,10/3/1976
+hero, 1105,Shalla-bal, Pisaras,8.04,3,6,9/1/1962
+hero, 1106,Shaman, Hengshan,7.73,4,5,1/1/1984
+villain, 1107,Shane Yamada-Jones, Ancasti,8.05,5,2,2/16/1984
+villain, 1108,Shang-Chi, Michałowo,1.73,3,6,7/23/1958
+villain, 1109,Shang-Chi (Ultimate), Shetangpo,5.7,2,6,4/7/2014
+hero, 1110,Shanna the She-Devil, Daru,3.53,1,2,11/25/1982
+villain, 1111,Shape, Shaliangzi,1.72,4,5,12/5/1997
+villain, 1112,Shard, Lochovice,8.98,1,10,7/12/1978
+hero, 1113,Sharon Carter, Lidzbark,6.59,3,3,6/29/1997
+villain, 1114,Sharon Ventura, Banyuurip,6.83,5,4,8/24/1965
+villain, 1115,Shatterstar, Hrotovice,9.8,1,9,4/28/2008
+villain, 1116,She-Hulk (HAS), Yangce,3.89,1,1,8/28/1961
+hero, 1117,She-Hulk (Jennifer Walters), Dimitrovgrad,2.29,3,5,7/31/2008
+villain, 1118,She-Hulk (Lyra), Seremban,7.11,5,8,9/26/2000
+villain, 1119,She-Hulk (Marvel War of Heroes), Puolanka,1.97,1,3,1/18/1976
+hero, 1120,She-Hulk (Ultimate), Breda,6.55,1,4,12/11/1973
+hero, 1121,Shen, Bolong,5.42,1,4,11/18/1979
+hero, 1122,Sheva Callister, Alacaygan,2.69,4,6,9/21/2006
+villain, 1123,Shi'Ar, Lëbushë,5.33,5,6,9/17/1966
+hero, 1124,Shinko Yamashiro, Lubasz,8.81,5,1,10/24/1950
+villain, 1125,Shinobi Shaw, Wleń,9.64,2,8,8/29/1998
+villain, 1126,Shiva, Al Fujayrah,6.96,5,9,7/26/1962
+villain, 1127,Shiver Man, Itaperuna,3.1,1,2,11/14/1967
+villain, 1128,Shocker (Herman Schultz), Leiwang,9.99,3,9,5/9/1951
+hero, 1129,Shockwave, Sandymount,3.55,2,3,7/24/1964
+villain, 1130,Shooting Star, Balogo,7.23,4,3,6/30/2007
+hero, 1131,Shotgun, Mnogoudobnoye,6.8,4,6,6/23/2001
+villain, 1132,Shriek, Danderyd,3.01,5,3,4/11/1958
+villain, 1133,Sif, Puno,2.02,1,8,9/5/2014
+hero, 1134,Silhouette, Tinambac,2.99,1,3,3/18/1993
+hero, 1135,Silk Fever, Barrunchal,3.71,5,4,6/14/1975
+villain, 1136,Silver Centurion, Kyegegwa,9.49,1,2,9/30/2006
+hero, 1137,Silver Fox, Daxing,4.58,4,7,3/30/1963
+villain, 1138,Silver Sable, Bartniczka,6.98,1,10,4/13/1952
+hero, 1139,Silver Samurai, Huotian,5.41,1,1,10/9/1990
+hero, 1140,Silver Samurai (Age of Apocalypse), Kampala,3.44,1,2,3/9/1971
+hero, 1141,Silver Surfer, Ilām,6.96,1,3,11/10/1996
+hero, 1142,Silverclaw, Černá Hora,7.3,3,9,7/21/1998
+villain, 1143,Silvermane, Al Khushnīyah,2.8,5,8,6/7/1985
+villain, 1144,Sin, Azenha,4.82,5,4,11/29/1981
+hero, 1145,Sinister Six, Moussoro,4.47,5,10,9/18/2001
+villain, 1146,Sir Ram, Lam Sonthi,1.89,4,3,11/2/2009
+hero, 1147,Siren (Earth-93060), Khursā,3.94,1,2,5/24/1969
+villain, 1148,Sister Grimm, Chengguan,5.65,2,10,8/10/1972
+villain, 1149,Skaar, Perelyub,6.58,4,9,1/11/1960
+villain, 1150,Skaar (HAS), Shalang,9.84,5,3,12/22/1995
+villain, 1151,Skin, Perpignan,9.68,3,3,4/2/1990
+villain, 1152,Skreet, Podgornaya,7.82,1,3,12/4/1964
+villain, 1153,Skrulls, Tyler,2.69,4,7,7/12/1978
+hero, 1154,Skrulls (Ultimate), Troyes,8.39,4,10,3/4/1989
+hero, 1155,Skullbuster (Cylla Markham), Lembongan Kawan,7.58,3,10,8/23/1966
+villain, 1156,Slapstick, Nantes,7.3,1,7,8/19/1985
+hero, 1157,Slayback, Byala,8.73,1,2,9/6/1996
+hero, 1158,Sleeper, Paraćin,7.07,1,5,3/26/1951
+hero, 1159,Sleepwalker, Baltimore,2.91,2,1,6/22/2011
+villain, 1160,Slipstream, Jinrui,3.77,1,2,10/26/2004
+hero, 1161,Slyde, Shupenzë,8.7,5,4,3/1/1984
+hero, 1162,Smasher (Vril Rokk), Novoshakhtinsk,2.64,3,5,12/16/1977
+villain, 1163,Smiling Tiger, Järfälla,9.66,1,3,3/21/1974
+hero, 1164,Snowbird, Fichē,1.81,1,7,12/12/2001
+villain, 1165,Solo (James Bourne), Gualeguaychú,2.19,3,1,9/4/1953
+hero, 1166,Songbird, L'viv,9.23,3,7,4/2/1996
+hero, 1167,Sons of the Tiger, Lapid,1.28,3,1,2/14/1958
+hero, 1168,Spacker Dave, Azara,3.04,2,3,3/27/1957
+villain, 1169,Spectrum, Bucu Lor,9.44,5,2,10/11/1966
+villain, 1170,Speed, Ishëm,2.38,4,9,4/5/2003
+villain, 1171,Speed Demon, Batibati,8.3,4,10,12/2/1974
+villain, 1172,Speedball (Robert Baldwin), Ersekë,5.52,3,6,3/10/1967
+hero, 1173,Spencer Smythe, Sigli,2.57,5,2,5/3/1974
+hero, 1174,Sphinx (Anath-Na Mut), Beiyang,3.68,5,8,10/8/2002
+hero, 1175,Spider-dok, Postupice,8.9,1,8,1/7/2003
+villain, 1176,Spider-Girl (Anya Corazon), Borzęcin,9.66,2,8,2/12/2004
+hero, 1177,Spider-Girl (May Parker), Zhenzhushan,7.8,4,10,11/14/1969
+hero, 1178,Spider-Ham (Larval Earth), Saint Louis,7.08,3,3,8/13/1976
+hero, 1179,Spider-Man, Edéa,4.44,2,6,4/20/1991
+hero, 1180,Spider-Man (1602), Sebu,7.92,3,9,8/1/1953
+hero, 1181,Spider-Man (2099), Bintuni,9.87,2,3,3/7/1968
+villain, 1182,Spider-Man (Ai Apaec), Bueng Kum,6.31,3,7,5/22/1952
+hero, 1183,Spider-Man (Ben Reilly), Malawa,7.48,1,2,12/22/2012
+villain, 1184,Spider-Man (House of M), Bobonan,7.36,2,5,11/12/1950
+villain, 1185,Spider-Man (LEGO Marvel Super Heroes), Campaka,1.81,4,3,10/9/1992
+hero, 1186,Spider-Man (Marvel Zombies), Aoufous,3.31,5,6,6/18/2013
+hero, 1187,Spider-Man (Marvel: Avengers Alliance), Belén,8.65,5,10,1/8/1979
+villain, 1188,Spider-Man (Miles Morales), Krasna,2.44,1,7,4/16/2012
+villain, 1189,Spider-Man (Noir), Tučepi,4.74,5,10,1/13/1969
+villain, 1190,Spider-Man (Takuya Yamashiro), Zheshart,9.84,1,4,3/29/1974
+villain, 1191,Spider-Man (Ultimate), Dadukou,6.1,2,1,9/20/1987
+villain, 1192,Spider-Woman (Charlotte Witter), Philadelphia,4.4,3,3,5/20/2009
+villain, 1193,Spider-Woman (Jessica Drew), Descalvado,2.6,1,1,4/14/1973
+villain, 1194,Spider-Woman (Mattie Franklin), Laibin,7.87,3,3,4/20/1974
+villain, 1195,Spiral (Rita Wayword), Mykolayiv,5.77,1,5,8/1/1988
+hero, 1196,Spirit, Velykyy Burluk,5.21,5,4,5/24/1996
+villain, 1197,Spitfire, Chinchiná,4.65,2,6,7/12/2006
+villain, 1198,Spot, Tandou,3.47,5,9,11/17/1962
+villain, 1199,Sprite, Leeuwarden,3.51,5,10,11/18/1983
+hero, 1200,Spyke, Pont-Audemer,4.59,4,2,7/23/2004
+villain, 1201,Squadron Sinister, Sanquan,6.9,4,2,11/5/1967
+hero, 1202,Squadron Supreme (Earth-712), Panyindangan,7.99,5,6,8/31/2000
+hero, 1203,Squirrel Girl, Zhongdong,8.05,3,3,3/20/1961
+hero, 1204,Stacy X, Pola,6.0,5,3,3/18/1981
+hero, 1205,Stacy X (Ultimate), Chonglou,7.37,3,2,5/3/2002
+villain, 1206,Star Brand, Lerrnanist,3.67,1,1,9/19/1998
+villain, 1207,Star-Lord (Peter Quill), Tongjiaxi,1.62,2,10,9/20/1950
+hero, 1208,Starbolt, Xinle,2.43,1,2,12/18/1983
+hero, 1209,Stardust, Sabanagrande,5.95,3,2,5/21/1998
+villain, 1210,Starfox, Zwolle,5.67,2,3,3/29/2002
+villain, 1211,Starhawk (Stakar Ogord), Lukhovka,5.76,2,6,9/16/1969
+hero, 1212,Starjammers, Gnieżdżewo,5.74,5,4,5/4/1964
+hero, 1213,Stark Industries, Dadiharja,5.45,1,4,8/30/1991
+villain, 1214,Stature, Yangong,4.78,2,9,4/27/1969
+hero, 1215,Steel Serpent (Davos), Bungkulan,2.03,2,4,8/25/1997
+villain, 1216,Stellaris, Ballybofey,6.91,4,6,4/12/1983
+villain, 1217,Stepford Cuckoos, Villaba,8.11,4,6,1/27/1992
+hero, 1218,Stephanie de la Spiroza, San Ramon,9.51,4,4,2/14/1956
+villain, 1219,Stephen Strange, Ordos,8.27,3,2,3/25/2012
+villain, 1220,Steve Rogers, Bay-ang,7.0,5,10,2/4/1955
+villain, 1221,Stick, Brokopondo,2.38,4,6,12/20/1955
+villain, 1222,Stilt-Man (Wibur Day), Le Hochet,4.17,5,6,12/11/1978
+villain, 1223,Stingray (Walter Newell), Veselí nad Moravou,6.74,5,8,1/21/1988
+villain, 1224,Stone Men, Pakel,3.59,4,6,11/11/1956
+villain, 1225,Storm, Araci,3.43,2,3,10/7/2009
+villain, 1226,Storm (Age of Apocalypse), Bilao,6.03,5,9,8/6/2004
+villain, 1227,Storm (Marvel Heroes), L'Aigle,5.56,1,2,10/25/1973
+hero, 1228,Storm (Ultimate), Huangdao,9.92,2,1,2/18/1981
+villain, 1229,Stranger, Chahār Burj,3.87,2,3,5/2/1966
+hero, 1230,Strong Guy, Kulunda,4.95,1,10,2/6/1952
+villain, 1231,Stryfe, Bundoc,9.04,2,1,6/30/1994
+hero, 1232,Stryfe (Ultimate), Paris 13,2.8,4,3,5/11/1963
+villain, 1233,Sub-Mariner, Lugait,1.11,4,3,7/12/1957
+villain, 1234,Sue Storm, Wukari,8.2,1,10,10/9/2003
+hero, 1235,Sugar Man, Lenger,3.02,1,7,1/26/1981
+villain, 1236,Sumo, Luleå,7.65,5,7,12/2/1977
+villain, 1237,Sunfire, Talawakele,7.09,5,3,3/17/1957
+hero, 1238,Sunfire (Age of Apocalypse), Scarborough,3.04,5,9,12/15/1972
+hero, 1239,Sunset Bain, Неготино,8.95,1,8,9/24/1969
+villain, 1240,Sunspot, Biankouma,6.01,4,1,5/22/1969
+villain, 1241,Super Hero Squad, Zhdanov,5.12,4,10,12/5/1977
+villain, 1242,Super-Adaptoid, Wangunsari,2.49,5,4,9/21/1962
+villain, 1243,Super-Skrull, Nanyang,5.87,1,9,9/2/1987
+villain, 1244,Supernaut, Lille,4.99,3,10,6/2/1974
+villain, 1245,Supreme Intelligence, Xinfengjie,4.08,1,10,2/7/2007
+villain, 1246,Surge, Kisanga,5.57,4,3,10/20/1953
+hero, 1247,Susan Delgado, Tygda,3.87,1,2,12/30/1969
+villain, 1248,Swarm, Salitral,3.4,1,3,5/11/1978
+hero, 1249,Sway, Sarukhan,3.49,4,7,6/26/1998
+hero, 1250,Switch, Pavliš,1.11,2,10,4/29/1986
+villain, 1251,Swordsman, Sibiti,7.1,3,8,9/14/1959
+villain, 1252,Swordsman (Jaques Duquesne), Ciheras,3.37,4,3,8/29/1954
+hero, 1253,Sym, Bayan,4.76,5,5,6/12/1986
+hero, 1254,Synch, Fichē,5.15,4,7,8/30/1973
+villain, 1255,T'Challa, Yélimané,3.77,5,2,5/7/1960
+villain, 1256,Tag, Poddor’ye,2.25,1,3,10/25/1978
+villain, 1257,Talisman (Elizabeth Twoyoungmen), Krutja e Poshtme,1.1,5,5,2/24/2012
+hero, 1258,Talkback (Chase Stein), Balyqshy,3.92,4,8,4/3/2010
+hero, 1259,Talon (Fraternity of Raptors), Kalembutillu,8.65,3,2,7/26/2006
+hero, 1260,Talos, Kapsan-ŭp,6.87,2,5,1/2/1994
+hero, 1261,Tana Nile, Keluke,4.71,4,7,5/2/1997
+hero, 1262,Tarantula (Luis Alvarez), Öndörhoshuu,4.8,2,2,2/27/1998
+villain, 1263,Tarot, Springfield,4.31,4,7,3/24/2012
+hero, 1264,Taskmaster, Călăraşi,1.58,2,5,2/4/1999
+hero, 1265,Tattoo, Tsibulev,3.5,1,10,4/16/1967
+hero, 1266,Ted Forrester, Sol’-Iletsk,5.47,5,4,11/26/2004
+villain, 1267,Tempest, Mainri,3.81,3,1,12/8/1984
+villain, 1268,Tenebrous, Akwanga,7.92,5,8,7/29/1993
+villain, 1269,Terrax, Göteborg,2.78,2,4,12/21/1988
+hero, 1270,Terror, Vitebsk,6.94,4,4,11/12/1985
+villain, 1271,Texas Twister, Chuncheng,6.14,3,5,10/21/1975
+villain, 1272,Thaddeus Ross, Segodim,2.2,3,5,12/1/1997
+hero, 1273,Thanos, Los Angeles,8.81,5,5,3/26/2004
+villain, 1274,Thanos (Ultimate), Tân Châu,2.73,4,5,8/24/1979
+villain, 1275,The 198, Napnapan,2.84,4,1,1/20/1966
+villain, 1276,The Anarchist, Eskilstuna,6.81,2,1,11/16/1973
+villain, 1277,The Call, Petřvald,2.31,1,2,5/12/1996
+villain, 1278,The Captain, Křižanov,2.4,3,7,2/10/1993
+villain, 1279,The Enforcers, Huayuan,5.48,3,1,5/19/2007
+hero, 1280,The Executioner, Fangyan,4.36,2,2,6/28/1988
+hero, 1281,The Fallen, Xiaohenglong,2.41,5,5,1/8/1954
+villain, 1282,The Fury, Dadu,6.78,1,4,9/13/1956
+villain, 1283,The Hand, Cimara,9.74,5,9,1/10/1964
+villain, 1284,The Hood, Kapenguria,9.57,5,2,9/15/2000
+villain, 1285,The Howling Commandos, Niš,5.63,2,4,10/25/1950
+hero, 1286,The Hunter, Xinglongchang,2.58,5,2,6/11/1959
+hero, 1287,The Initiative, Thayetmyo,6.66,3,9,6/13/1956
+villain, 1288,The Leader (HAS), Al Ḩawātah,5.7,3,2,1/25/1974
+villain, 1289,The Liberteens, Batutua,8.07,3,9,8/3/1963
+villain, 1290,The Liberty Legion, Horta,4.46,3,3,9/19/1999
+villain, 1291,The Order, Juncalito Abajo,2.3,3,7,6/16/1961
+hero, 1292,The Phantom, Pasadena,2.84,3,6,9/9/2007
+villain, 1293,The Professor, Polyarnyye Zori,2.9,2,1,3/20/1968
+hero, 1294,The Renegades, Bafoulabé,3.73,3,7,6/22/1972
+hero, 1295,The Santerians, El Carmen,4.32,2,1,5/26/1960
+villain, 1296,The Shiver Man, Fiorentino,2.33,4,9,1/29/1969
+hero, 1297,The Spike, San Javier,4.47,1,8,8/28/1979
+hero, 1298,The Stranger, Songkar B,3.35,3,1,10/16/1994
+hero, 1299,The Twelve, Imsida,5.52,4,7,5/31/1969
+hero, 1300,The Watchers, Maslog,5.64,4,2,12/25/2014
+villain, 1301,Thena, Tene,8.96,5,8,9/2/2000
+hero, 1302,Thing, Bingerville,1.58,3,9,11/30/1986
+hero, 1303,Thing (Marvel Heroes), Samut Songkhram,9.99,4,10,9/21/1986
+hero, 1304,Thing (Ultimate), Fasi,2.11,3,6,5/1/1968
+villain, 1305,Thor, Tver,7.97,4,7,2/4/1994
+villain, 1306,Thor (Goddess of Thunder), Pirassununga,4.2,1,8,10/4/2003
+hero, 1307,Thor (MAA), Ganxi,2.33,1,10,1/31/1956
+villain, 1308,Thor (Marvel Heroes), Chabany,1.2,2,6,2/7/1967
+hero, 1309,Thor (Marvel War of Heroes), Cabrero,2.77,2,2,9/14/2005
+hero, 1310,Thor (Marvel: Avengers Alliance), Kurungannyawa,1.08,3,3,6/21/2010
+hero, 1311,Thor (Ultimate), Oslo,5.19,2,1,5/4/2011
+hero, 1312,Thor Girl, Trinidad,7.54,3,2,7/8/1989
+villain, 1313,Thunderball, Poroj,6.7,3,5,1/18/1991
+villain, 1314,Thunderbird (John Proudstar), Ni’ao,8.01,2,7,3/12/1952
+villain, 1315,Thunderbird (Neal Shaara), Koina,2.38,1,10,4/11/1976
+hero, 1316,Thunderbolt (Bill Carver), Oymak,8.29,3,5,8/3/1950
+hero, 1317,Thunderbolt Ross, Gemena,8.19,1,3,9/8/2014
+villain, 1318,Thunderbolts, Al ‘Udayn,4.98,2,9,8/23/1960
+hero, 1319,Thundra, Plan de Ayala,6.36,5,10,12/19/2011
+villain, 1320,Tiger Shark, Sulechów,7.54,5,2,4/25/1963
+villain, 1321,Tiger's Beautiful Daughter, Bohutín,7.04,1,3,11/8/1993
+hero, 1322,Tigra (Greer Nelson), Tanabe,5.06,1,9,7/14/1990
+villain, 1323,Timeslip, Arıqıran,4.99,4,8,1/10/1984
+villain, 1324,Tinkerer, San Luis,3.19,3,2,1/19/1998
+hero, 1325,Titania, Schœlcher,7.22,1,9,12/24/1955
+villain, 1326,Titanium Man (Topolov), Nagqu,2.82,1,9,2/14/1994
+hero, 1327,Toad, San Jose,6.76,4,9,11/9/1962
+hero, 1328,Toad Men, Yuncao,6.33,1,2,12/25/1989
+villain, 1329,Tomas, Guali,4.26,3,8,10/4/1964
+villain, 1330,Tombstone, Cartagena,1.81,4,10,6/17/2007
+hero, 1331,Tomorrow Man, Dongpu,4.9,5,10,12/18/1992
+hero, 1332,Tony Stark, Camachile,2.18,2,3,1/30/1998
+hero, 1333,Toro (Thomas Raymond), Niagara Falls,9.91,3,2,12/27/1996
+villain, 1334,Toxin, Châteaurenard,2.51,5,4,5/22/1958
+villain, 1335,Toxin (Eddie Brock), Prado,2.15,2,2,3/16/1982
+hero, 1336,Trauma, Kilju,6.63,4,5,2/16/1975
+villain, 1337,Triathlon, Ngulung Wetan,4.71,5,6,2/29/2016
+hero, 1338,Trish Tilby, Ruixi,1.5,1,10,5/11/1970
+hero, 1339,Triton, Useldange,5.62,3,1,2/13/2009
+hero, 1340,True Believers, Smyków,7.47,1,1,4/3/1964
+villain, 1341,Turbo, Pīrgaaj,5.11,3,6,12/5/1976
+hero, 1342,Tusk, Ampasimanolotra,2.39,2,9,1/11/2013
+hero, 1343,Two-Gun Kid, Beiqijia,3.17,1,10,10/7/2005
+hero, 1344,Tyger Tiger, Shiozawa,5.21,1,5,8/18/1974
+villain, 1345,Typhoid Mary, Hiroshima-shi,1.07,3,5,3/9/1998
+villain, 1346,Tyrannus, Guam Government House,9.61,5,4,7/11/1965
+hero, 1347,U-Foes, Närpes,5.78,2,10,5/17/2000
+villain, 1348,U-Go Girl, Lyantonde,9.45,5,4,11/23/1970
+hero, 1349,U.S. Agent, Novyy Uoyan,7.98,2,10,6/3/1965
+hero, 1350,Uatu The Watcher, Trondheim,7.05,4,1,8/3/1973
+hero, 1351,Ulik, Condega,7.44,2,10,3/9/2004
+villain, 1352,Ultimate Spider-Man (USM), Mukhen,6.61,5,7,9/20/1963
+hero, 1353,Ultimates, Damascus,8.19,1,7,4/11/1973
+villain, 1354,Ultimatum, Hongling,7.69,1,10,9/8/1996
+hero, 1355,Ultimo, Maipú,9.57,4,9,2/12/1988
+villain, 1356,Ultra-Adaptoid, Nanlin,8.43,5,1,10/9/1954
+villain, 1357,Ultragirl (Earth-93060), Sinjār,1.88,5,10,6/4/1985
+villain, 1358,Ultron, Huazhou,4.66,4,8,12/30/1956
+hero, 1359,Umar, Banjarkemuning,1.61,4,5,8/24/1958
+villain, 1360,Unicorn, Sevlievo,4.74,4,2,9/17/1977
+villain, 1361,Union Jack (Brian Falsworth), Plaza Huincul,2.39,3,4,7/8/1980
+villain, 1362,Union Jack (Joseph Chapman), Insua,2.75,4,6,12/6/1960
+hero, 1363,Union Jack (Montgomery Falsworth), Bīrganj,8.18,4,7,9/12/1963
+villain, 1364,Unus, Didian,7.45,5,2,6/25/1996
+hero, 1365,Unus (Age of Apocalypse), Caohezhang,2.54,3,1,5/28/1981
+villain, 1366,Unus (House of M), Qo’ng’irot Shahri,4.6,4,4,10/5/2015
+villain, 1367,Unus (Ultimate), Mjamaoué,7.35,2,3,10/6/1971
+villain, 1368,Valeria Richards, Paizhou,9.0,1,9,6/13/1990
+villain, 1369,Valkyrie (Samantha Parrington), Londrina,3.73,3,4,11/17/1980
+villain, 1370,Valkyrie (Ultimate), Darenzhuang,9.41,4,1,2/15/1964
+villain, 1371,Vampiro, Hanban,9.25,2,6,9/23/1963
+hero, 1372,Vance Astro, Jiulonggang,4.42,2,3,6/6/1966
+hero, 1373,Vanisher (Age of Apocalypse), Zhaoqing,6.46,3,5,11/10/1959
+hero, 1374,Vanisher (Telford Porter), Ban Nong Wua So,3.81,2,1,4/23/1969
+hero, 1375,Vanisher (Ultimate), Gaotang,5.58,1,3,7/20/1954
+villain, 1376,Vapor, Mosina,7.24,2,10,2/11/2000
+hero, 1377,Vargas, Cahors,2.34,1,10,11/26/1991
+hero, 1378,Vector, Florida,4.67,1,7,11/12/1977
+villain, 1379,Veda, Tallkalakh,4.96,4,7,1/24/2008
+villain, 1380,Vengeance (Michael Badilino), Krajan Sale,3.53,2,3,1/8/1981
+hero, 1381,Venom (Flash Thompson), Tío Pujio,6.98,1,1,2/18/1996
+villain, 1382,Venom (Mac Gargan), N'Djamena,1.13,3,10,7/17/1953
+villain, 1383,Venom (Ultimate), Zhonghuopu,8.64,4,4,11/24/1968
+villain, 1384,Venus (Siren), Sanpai,3.45,4,8,5/4/1982
+hero, 1385,Venus Dee Milo, Dongle,3.43,3,5,8/26/1958
+hero, 1386,Vermin (Edward Whelan), La Libertad,8.43,4,1,5/6/1966
+hero, 1387,Vertigo (Savage Land Mutate), Padabeunghar,4.87,1,4,1/5/1955
+hero, 1388,Victor Mancha, Kinlough,5.96,1,9,10/6/1950
+hero, 1389,Victor Von Doom, Cepões,1.7,2,5,3/8/1952
+villain, 1390,Vin Gonzales, Boroon,10.0,2,8,10/26/1986
+villain, 1391,Vindicator, Krajan Tegalombo,3.47,2,1,10/31/1964
+villain, 1392,Violations, Guling,9.23,2,8,7/6/2011
+hero, 1393,Viper, Guéret,1.25,5,10,10/8/1989
+hero, 1394,Virginia Dare, Olsztyn,1.37,2,5,9/18/1996
+hero, 1395,Vision, Longju,9.41,5,1,5/30/1967
+villain, 1396,Vivisector, Liutao,1.84,2,10,5/4/1988
+hero, 1397,Vulcan (Gabriel Summers), Santa Lucia,5.75,1,2,10/18/1995
+villain, 1398,Vulture (Adrian Toomes), Dadapan,8.83,4,8,11/25/2001
+hero, 1399,Vulture (Blackie Drago), Prachamtakham,9.34,1,6,12/28/1961
+villain, 1400,Wallflower, Escola,8.6,2,1,12/24/1956
+hero, 1401,Wallop, Arteche,8.31,3,1,2/5/1997
+hero, 1402,Wallow, Tit Mellil,8.98,4,8,7/24/1988
+hero, 1403,War (Abraham Kieros), Hongmen,9.21,3,6,5/6/1973
+villain, 1404,War Machine (Iron Man 3 - The Official Game), Tajumulco,9.4,3,1,4/17/1957
+villain, 1405,War Machine (Marvel: Avengers Alliance), Ribeira do Pombal,6.58,2,10,8/15/1963
+villain, 1406,War Machine (Parnell Jacobs), Strezhevoy,7.55,1,4,1/26/2011
+hero, 1407,War Machine (Ultimate), São Bernardo do Campo,4.76,1,6,10/7/1997
+villain, 1408,Warbird, Paombong,4.09,5,3,11/4/2005
+villain, 1409,Warbound, Tsu-shi,2.64,1,7,9/8/1973
+hero, 1410,Warhawk (Mitchell Tanner), Kungsör,1.19,4,6,6/9/1966
+hero, 1411,Warlock (Janie Chin), Sofo-Birnin-Gwari,3.8,3,4,11/16/1951
+hero, 1412,Warlock (Technarchy), Rezovac,4.86,2,5,6/12/2000
+hero, 1413,Warpath, Lete,4.54,5,5,11/19/2003
+hero, 1414,Warren Worthington III, La Molina,1.94,4,10,11/1/2010
+hero, 1415,Warstar, Hongqiao,7.75,4,7,11/8/1953
+villain, 1416,Wasp, Baoshi,8.32,2,1,12/14/1973
+villain, 1417,Wasp (Ultimate), Xiangshan,4.4,5,3,10/5/1996
+villain, 1418,Weapon Omega, Dubki,6.38,2,9,6/26/1992
+villain, 1419,Weapon X, Fusagasuga,9.3,1,2,11/9/1982
+villain, 1420,Wendell Rand, Xankandi,2.68,3,9,10/8/1971
+hero, 1421,Wendell Vaughn, Nozdrzec,2.8,1,9,12/3/1967
+hero, 1422,Wendigo, Walagar,3.66,2,8,4/18/2000
+villain, 1423,Werewolf By Night, Maceió,5.46,4,2,11/23/1978
+hero, 1424,Whiplash (Mark Scarlotti), Saint-Chamond,2.06,4,1,9/18/1985
+villain, 1425,Whirlwind, Danxi,2.41,3,8,3/1/1961
+hero, 1426,Whistler, Tuojiang,8.36,2,7,2/5/2015
+hero, 1427,White Queen (Adrienne Frost), Dortmund,3.61,2,3,1/6/2013
+hero, 1428,White Tiger (Angela Del Toro), Yunguyo,2.84,3,2,3/6/2009
+hero, 1429,White Tiger (USM), Kao Liao,5.74,4,1,6/27/1967
+villain, 1430,Whizzer (Stanley Stewart), Xiashuitou,9.2,2,3,8/13/1978
+hero, 1431,Wiccan, Dubti,7.09,2,2,4/22/2005
+hero, 1432,Wild Child, Arnhem,1.72,5,7,9/1/1952
+hero, 1433,Wild Child (Age of Apocalypse), Huaitu,7.53,3,1,10/16/1956
+villain, 1434,Wild Pack, Galván,1.01,4,6,3/3/1984
+villain, 1435,Wildside, Ciulu,8.67,2,2,8/13/2006
+hero, 1436,William Stryker, Belköl,7.8,5,6,3/18/1969
+hero, 1437,Wilson Fisk, La Cruz de Taratara,5.11,4,1,10/11/1952
+hero, 1438,Wind Dancer, Sanfang,5.94,4,8,3/30/1951
+villain, 1439,Winter Soldier, Palebunan,1.12,4,1,12/12/1972
+villain, 1440,Wither, Ad Dasmah,7.19,3,5,4/18/1986
+hero, 1441,Wolf Cub, Riđica,6.06,1,4,10/2/2010
+hero, 1442,Wolfpack, Tenjolaya,8.56,4,8,7/20/1956
+villain, 1443,Wolfsbane, Ganzi,2.02,2,3,12/3/2003
+hero, 1444,Wolfsbane (Age of Apocalypse), Tirah,7.75,2,1,8/31/1992
+villain, 1445,Wolver-dok, Qionghai,6.67,5,1,10/18/1957
+villain, 1446,Wolverine, Bov,3.22,4,9,6/13/1978
+hero, 1447,Wolverine (LEGO Marvel Super Heroes), Cajabamba,6.0,3,3,8/9/1976
+hero, 1448,Wolverine (Marvel War of Heroes), Kyŏngsŏng,3.26,4,2,6/15/2000
+villain, 1449,Wolverine (Ultimate), Lhuentse,2.4,1,5,9/19/1950
+hero, 1450,Wolverine (X-Men: Battle of the Atom), Monteros,7.55,1,1,9/22/1984
+hero, 1451,Wonder Man, Pasirpengarayan,8.63,4,6,1/22/1982
+villain, 1452,Wong, Quaraí,4.35,3,10,2/25/1953
+villain, 1453,Wong (Ultimate), Gunungkendeng,6.11,1,10,6/26/2003
+hero, 1454,Wraith, Krajan,9.08,1,3,6/6/1971
+villain, 1455,Wrecker, Si Wilai,1.61,1,5,10/7/1981
+villain, 1456,Wrecking Crew, Hongjiaguan,1.0,5,9,7/14/1960
+villain, 1457,X-23, Cube,3.84,1,8,8/19/2010
+hero, 1458,X-51, Velké Bílovice,2.31,3,5,4/22/1969
+villain, 1459,X-Babies, København,6.66,3,2,11/5/1958
+villain, 1460,X-Cutioner, Bigoudine,9.77,1,6,3/10/1970
+villain, 1461,X-Factor, Ialibu,5.98,4,3,10/5/1959
+hero, 1462,X-Factor Investigations, Néa Pélla,1.52,3,8,11/4/1985
+hero, 1463,X-Force, Si Bun Rueang,3.14,1,5,8/29/1998
+villain, 1464,X-Man, Hengjing,2.02,4,8,12/5/1977
+villain, 1465,X-Men, Norfolk,7.94,2,1,11/6/2009
+hero, 1466,X-Men (Ultimate), Shenshu,4.58,3,8,11/8/1987
+hero, 1467,X-Ray (James Darnell), Talambung Laok,1.37,4,1,11/6/1999
+hero, 1468,X-Statix, Arnaía,5.29,3,9,8/20/1961
+villain, 1469,X.S.E., Ma’an,4.35,1,3,4/6/2000
+villain, 1470,Xavin, 's-Hertogenbosch,4.5,3,7,5/10/1956
+villain, 1471,Xorn (Kuan-Yin Xorn), Trat,9.88,1,2,11/1/2009
+hero, 1472,Yellow Claw, Tulung,7.08,5,1,8/25/2005
+hero, 1473,Yellowjacket (Rita DeMara), Changsheng,2.56,4,10,10/10/2013
+villain, 1474,Young Avengers, Weishan,9.36,5,5,7/7/1962
+hero, 1475,Young X-Men, Shchūchīnsk,7.06,3,1,2/6/2016
+hero, 1476,Zaladane, Novyy Karachay,2.22,1,10,12/27/1962
+hero, 1477,Zaran, Replot,5.51,4,9,11/21/1955
+villain, 1478,Zarda, Арачиново,1.14,5,6,1/14/1998
+villain, 1479,Zarek, Atabayan,6.87,5,9,11/10/1975
+hero, 1480,Zeigeist, Zaragoza,9.34,5,5,11/4/2015
+hero, 1481,Zemo, Bagdadi,2.9,2,7,7/26/1952
+hero, 1482,Zodiak, Jinxiang,9.19,1,5,6/4/1970
+villain, 1483,Zombie (Simon Garth), Évosmos,6.99,1,9,7/11/2006
+hero, 1484,Zuras, Puerto Ayacucho,7.5,2,10,1/6/1976
+hero, 1485,Zzzax, San Cristobal,5.28,2,8,10/10/1981

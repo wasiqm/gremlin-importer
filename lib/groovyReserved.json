@@ -1,5 +1,6 @@
 {
   "id": true,
+  "label": true,
   "abstract" : true,
   "as" : true,
   "assert" : true,
