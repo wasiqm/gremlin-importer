@@ -107,9 +107,9 @@ Future supported formats will be:
 
 
 
-## Import Guides<a name="imporingGuides"></a>##
+## Import Guides##
 
- - [CSV importing guide](https://github.com/mastayoda/gremlin-importer/wiki/CSV-importing-guide)
+ - [CSV import guide](https://github.com/mastayoda/gremlin-importer/wiki/CSV-import-guide)
 
 ----------
 
