@@ -10,6 +10,13 @@
 [![npm version](https://badge.fury.io/js/gremlin-importer.svg)](https://badge.fury.io/js/gremlin-importer) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mastayoda/gremlin-importer/master/LICENSE) ![platform](https://img.shields.io/badge/platform-node.js-green.svg)
 
 ----------
+## STATUS: Not stable ##
+Under development: ETA ~ march 15, 2015
+
+ - Release 1.0 supporting CSV for edges and vertices
+ - User defined values, including labels
+ - properties for second release
+
 ## Description ##
 
 This is a pain free data importing tool for **Gremlin enabled** databases. All you need is to provide the **vertices** and **edges** in the correct format and the gremlin-importer will populate the graph database for you. Some **rules** and **restrictions** must be **followed** in order to have a successful import process.
