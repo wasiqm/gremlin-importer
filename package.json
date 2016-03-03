@@ -45,7 +45,9 @@
     "test": "gulp"
   },
   "license": "MIT",
-  "bin": "lib/cli.js",
+  "bin": {
+    "gremlin-importer": "lib/cli.js"
+  },
   "dependencies": {
     "commander": "^2.9.0",
     "fast-csv": "^1.0.0",

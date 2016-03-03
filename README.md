@@ -1,8 +1,11 @@
 
 # **gremlin-importer** #
 
-![gremlin importer logo](images/gremlin-importer.png)
+<p align="center">
+![gremlin importer logo](https://raw.githubusercontent.com/mastayoda/gremlin-importer/master/images/gremlin-importer.png)
+</p>
 
+[![NPM](https://nodei.co/npm/gremlin-importer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gremlin-importer/)
 
 ----------
 ## Description ##
