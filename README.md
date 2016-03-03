@@ -7,6 +7,8 @@
 
 [![NPM](https://nodei.co/npm/gremlin-importer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gremlin-importer/)
 
+[![npm version](https://badge.fury.io/js/gremlin-importer.svg)](https://badge.fury.io/js/gremlin-importer) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mastayoda/gremlin-importer/master/LICENSE) ![platform](https://img.shields.io/badge/platform-node.js-green.svg)
+
 ----------
 ## Description ##
 
