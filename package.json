@@ -1,6 +1,6 @@
 {
   "name": "gremlin-importer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A command line tool for importing graph files into a gremlin-enabled server.",
   "homepage": "",
   "author": {
