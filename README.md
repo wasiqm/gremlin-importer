@@ -108,9 +108,7 @@ Future supported formats will be:
 
  - GEXF
  - GraphML
- - Graphson
  - DOT
- - XLXS
 
 ## Current tested databases ##
 
