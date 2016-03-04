@@ -262,7 +262,7 @@ We see that Tony has 4 brothers... and his salary is 9.81... millions perhaps...
 ```bash
 ==>[siblings:[4], born_place:[Şānūr], name:[Iron Man], rank:[8], id:[574], salary:[9.81], first_battle:[1983-11-12T05:00:00.000Z]]
 ```
-Now, let's find out who come to Iron Man looking for trouble(**battled**) and when:
+Now, let's find out who came to Iron Man looking for trouble(**battled**) and when:
 ```bash
 gremlin> g.V().has('id',574).inE('battled').as('fight').outV().values('name').as('agressors').select('fight').values('date').as('fight_date').select('agressors','fight_date')
 ```
