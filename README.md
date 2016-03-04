@@ -9,13 +9,20 @@
 
 [![npm version](https://badge.fury.io/js/gremlin-importer.svg)](https://badge.fury.io/js/gremlin-importer) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mastayoda/gremlin-importer/master/LICENSE) ![platform](https://img.shields.io/badge/platform-node.js-green.svg)
 
-----------
+
 ## STATUS: Not stable ##
 Under development: ETA ~ march 15, 2016
 
  - Release 1.0 supporting CSV for edges and vertices
  - User defined values, including labels
- - Properties for second release
+
+In the near future:
+
+ - Create a solid test suite
+ - Edges and vertices meta properties for second release
+ - Fix messy code, and document everything
+ - Migrate to Swig templates and use promises instead of callbacks
+ - Migrate to ES6
 
 ## Description ##
 
@@ -121,9 +128,13 @@ Future supported formats will be:
 
  - [CSV import guide](https://github.com/mastayoda/gremlin-importer/wiki/CSV-import-guide)
 
-----------
 
 
 ## Important information ##
 
+ - Help with these tools are welcomed, please fill your pull request.
+ - I will try to keep including more file formats.
+ - All illustrations belong to their respective owners, and not me.
+ - The fancy icons where design in [designApp.io](https://designapp.io/)
+ - This package comes without any warranty, expect bugs.
 
