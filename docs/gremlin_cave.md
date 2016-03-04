@@ -3,7 +3,7 @@
  <img height="300" src="https://raw.githubusercontent.com/mastayoda/gremlin-importer/master/images/gremlin-running.png">
 </p>
 
-# **gremlin-import wiki**  #
+# **gremlin-importer wiki**  #
 
 Updated: March 3, 2016
 
