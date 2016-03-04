@@ -280,10 +280,10 @@ We see that he battled 3 other people, Morlun on 2004, Josiah X on 2015, and The
 
 ### 5. Celebrate ###
 
-This is the end of the guide! You know now how to import CSV data to Gremlin. Now go and have some **graph fun**!
+This is the end of the guide! At this point you either **love or hate** gremlin. The good thing is that you now know how to import CSV data into a Gremlin server. Now go and have some **graph fun**!
 
 <p align="center">
-<iframe src="//giphy.com/embed/ZFjX21S1OLHZ6" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/cat-yes-sunglasses-ZFjX21S1OLHZ6"></a></p>
+ <img  src="https://media.giphy.com/media/14cQ5Y4jrQF0nm/giphy.gif">
 </p>
 
 ### **Common problems and ideas** ###
