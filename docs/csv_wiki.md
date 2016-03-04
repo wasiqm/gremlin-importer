@@ -130,7 +130,7 @@ Some **Tips** before wrapping up the edge CSV format:
 Ok, enough of boring formats and rules and all that stuff, let put a graph into that Gremlin Server!
 
 <p align="center">
- <img  src="http://www.officialpsds.com/images/thumbs/Gizmo-psd31186.png">
+ <img  src="https://media.giphy.com/media/wXyShEPgFjw3e/giphy.gif">
 </p>
 
 I'm assuming you have **node.js** and **npm** installed. I will use TitanDB in this tutorial but you can use any other TinkerPop3 enabled database.

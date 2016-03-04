@@ -109,7 +109,7 @@ Why this tool?
 
 Current supported formats are:
 
- - CSV
+ - [CSV](https://github.com/mastayoda/gremlin-importer/wiki/CSV-import-guide)
 
 Future supported formats will be:
 
