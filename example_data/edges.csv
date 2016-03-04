@@ -2227,3 +2227,6690 @@ out,battled,hours, numeric, 2,date, date, 6/19/1991
 id, numeric, 323
 id, numeric, 77
 out,battled,hours, numeric, 5,date, date, 3/9/2014
+id, numeric, 1375
+id, numeric, 1395
+out,worked,hours, numeric, 5,date, date, 7/21/2009
+id, numeric, 893
+id, numeric, 875
+out,worked,hours, numeric, 6,date, date, 1/13/1994
+id, numeric, 623
+id, numeric, 1025
+out,worked,hours, numeric, 5,date, date, 11/5/2005
+id, numeric, 1277
+id, numeric, 912
+out,battled,hours, numeric, 7,date, date, 9/11/2001
+id, numeric, 667
+id, numeric, 487
+out,battled,hours, numeric, 3,date, date, 7/15/1988
+id, numeric, 208
+id, numeric, 708
+in,worked,hours, numeric, 5,date, date, 6/12/1992
+id, numeric, 350
+id, numeric, 1333
+in,battled,hours, numeric, 3,date, date, 4/8/2000
+id, numeric, 1478
+id, numeric, 537
+out,worked,hours, numeric, 1,date, date, 10/28/1980
+id, numeric, 1035
+id, numeric, 1262
+out,worked,hours, numeric, 3,date, date, 10/6/1989
+id, numeric, 1099
+id, numeric, 508
+out,worked,hours, numeric, 3,date, date, 4/4/1981
+id, numeric, 836
+id, numeric, 1293
+out,battled,hours, numeric, 8,date, date, 1/29/2014
+id, numeric, 1023
+id, numeric, 1449
+out,battled,hours, numeric, 7,date, date, 8/9/1989
+id, numeric, 852
+id, numeric, 385
+out,worked,hours, numeric, 2,date, date, 2/2/1993
+id, numeric, 1247
+id, numeric, 1159
+out,battled,hours, numeric, 8,date, date, 2/20/1983
+id, numeric, 1217
+id, numeric, 220
+out,battled,hours, numeric, 3,date, date, 10/14/1980
+id, numeric, 316
+id, numeric, 677
+in,battled,hours, numeric, 8,date, date, 11/9/2015
+id, numeric, 947
+id, numeric, 585
+out,worked,hours, numeric, 6,date, date, 4/13/1993
+id, numeric, 290
+id, numeric, 1165
+in,battled,hours, numeric, 5,date, date, 7/23/1988
+id, numeric, 594
+id, numeric, 133
+out,battled,hours, numeric, 6,date, date, 6/6/1985
+id, numeric, 15
+id, numeric, 139
+in,worked,hours, numeric, 2,date, date, 1/18/1995
+id, numeric, 428
+id, numeric, 210
+in,battled,hours, numeric, 2,date, date, 10/26/2003
+id, numeric, 1371
+id, numeric, 1088
+out,worked,hours, numeric, 6,date, date, 6/20/1981
+id, numeric, 1252
+id, numeric, 226
+out,worked,hours, numeric, 5,date, date, 6/15/2009
+id, numeric, 826
+id, numeric, 63
+in,battled,hours, numeric, 3,date, date, 8/1/2008
+id, numeric, 538
+id, numeric, 787
+in,worked,hours, numeric, 4,date, date, 2/2/1999
+id, numeric, 302
+id, numeric, 1197
+in,battled,hours, numeric, 4,date, date, 3/24/1982
+id, numeric, 1216
+id, numeric, 1027
+out,battled,hours, numeric, 8,date, date, 9/24/1991
+id, numeric, 900
+id, numeric, 253
+in,battled,hours, numeric, 5,date, date, 9/9/2007
+id, numeric, 45
+id, numeric, 697
+out,worked,hours, numeric, 7,date, date, 2/23/1988
+id, numeric, 533
+id, numeric, 633
+out,worked,hours, numeric, 7,date, date, 11/29/1981
+id, numeric, 1214
+id, numeric, 902
+out,battled,hours, numeric, 5,date, date, 2/2/1985
+id, numeric, 4
+id, numeric, 1145
+out,battled,hours, numeric, 3,date, date, 2/15/2012
+id, numeric, 425
+id, numeric, 610
+out,battled,hours, numeric, 2,date, date, 2/28/2008
+id, numeric, 269
+id, numeric, 374
+out,battled,hours, numeric, 6,date, date, 7/22/1984
+id, numeric, 945
+id, numeric, 583
+out,worked,hours, numeric, 1,date, date, 3/29/1989
+id, numeric, 1442
+id, numeric, 424
+in,worked,hours, numeric, 8,date, date, 8/19/1992
+id, numeric, 430
+id, numeric, 1160
+out,battled,hours, numeric, 6,date, date, 5/10/1995
+id, numeric, 554
+id, numeric, 1211
+out,worked,hours, numeric, 4,date, date, 3/13/1997
+id, numeric, 858
+id, numeric, 1403
+out,battled,hours, numeric, 5,date, date, 5/18/1996
+id, numeric, 141
+id, numeric, 998
+out,battled,hours, numeric, 6,date, date, 10/24/1999
+id, numeric, 1116
+id, numeric, 555
+out,worked,hours, numeric, 1,date, date, 6/18/2013
+id, numeric, 185
+id, numeric, 299
+in,worked,hours, numeric, 4,date, date, 8/29/1996
+id, numeric, 1015
+id, numeric, 687
+out,worked,hours, numeric, 1,date, date, 5/21/1992
+id, numeric, 563
+id, numeric, 162
+out,battled,hours, numeric, 4,date, date, 12/29/1995
+id, numeric, 1328
+id, numeric, 255
+out,worked,hours, numeric, 1,date, date, 9/11/1995
+id, numeric, 148
+id, numeric, 866
+out,battled,hours, numeric, 7,date, date, 7/15/1989
+id, numeric, 1173
+id, numeric, 291
+out,worked,hours, numeric, 8,date, date, 3/24/2011
+id, numeric, 604
+id, numeric, 410
+in,battled,hours, numeric, 8,date, date, 3/31/1990
+id, numeric, 1109
+id, numeric, 1141
+out,worked,hours, numeric, 7,date, date, 9/16/2002
+id, numeric, 769
+id, numeric, 38
+out,battled,hours, numeric, 4,date, date, 4/17/1993
+id, numeric, 1421
+id, numeric, 98
+in,battled,hours, numeric, 2,date, date, 7/18/1988
+id, numeric, 1080
+id, numeric, 167
+in,worked,hours, numeric, 8,date, date, 10/31/2013
+id, numeric, 256
+id, numeric, 356
+in,worked,hours, numeric, 2,date, date, 1/1/2002
+id, numeric, 364
+id, numeric, 104
+out,battled,hours, numeric, 4,date, date, 11/26/1995
+id, numeric, 1436
+id, numeric, 1014
+out,worked,hours, numeric, 7,date, date, 11/18/2015
+id, numeric, 620
+id, numeric, 579
+out,battled,hours, numeric, 8,date, date, 4/22/2007
+id, numeric, 459
+id, numeric, 632
+out,battled,hours, numeric, 8,date, date, 6/25/1982
+id, numeric, 54
+id, numeric, 734
+out,battled,hours, numeric, 4,date, date, 11/23/2009
+id, numeric, 654
+id, numeric, 501
+in,battled,hours, numeric, 1,date, date, 7/25/2012
+id, numeric, 608
+id, numeric, 469
+out,battled,hours, numeric, 7,date, date, 5/28/2006
+id, numeric, 835
+id, numeric, 251
+in,battled,hours, numeric, 7,date, date, 9/25/1985
+id, numeric, 1282
+id, numeric, 40
+in,worked,hours, numeric, 8,date, date, 8/8/2015
+id, numeric, 1325
+id, numeric, 11
+out,battled,hours, numeric, 1,date, date, 4/19/2003
+id, numeric, 1335
+id, numeric, 117
+in,battled,hours, numeric, 4,date, date, 5/24/2007
+id, numeric, 1457
+id, numeric, 847
+in,battled,hours, numeric, 5,date, date, 5/29/2011
+id, numeric, 954
+id, numeric, 445
+out,worked,hours, numeric, 8,date, date, 12/2/2005
+id, numeric, 107
+id, numeric, 421
+out,worked,hours, numeric, 7,date, date, 3/2/1980
+id, numeric, 224
+id, numeric, 303
+in,battled,hours, numeric, 3,date, date, 5/23/2002
+id, numeric, 516
+id, numeric, 731
+out,battled,hours, numeric, 8,date, date, 12/2/1990
+id, numeric, 821
+id, numeric, 9
+in,battled,hours, numeric, 8,date, date, 10/8/2006
+id, numeric, 891
+id, numeric, 595
+out,worked,hours, numeric, 5,date, date, 9/23/1990
+id, numeric, 1114
+id, numeric, 1455
+out,battled,hours, numeric, 8,date, date, 6/29/2015
+id, numeric, 1287
+id, numeric, 59
+out,worked,hours, numeric, 4,date, date, 1/2/2003
+id, numeric, 120
+id, numeric, 1228
+out,worked,hours, numeric, 3,date, date, 11/7/2015
+id, numeric, 264
+id, numeric, 1345
+out,worked,hours, numeric, 1,date, date, 8/24/2015
+id, numeric, 928
+id, numeric, 1054
+out,battled,hours, numeric, 6,date, date, 7/20/2007
+id, numeric, 568
+id, numeric, 1142
+out,battled,hours, numeric, 5,date, date, 2/14/2006
+id, numeric, 1469
+id, numeric, 1032
+out,battled,hours, numeric, 8,date, date, 8/30/2003
+id, numeric, 1221
+id, numeric, 507
+out,worked,hours, numeric, 6,date, date, 5/29/2008
+id, numeric, 491
+id, numeric, 1384
+in,battled,hours, numeric, 3,date, date, 12/15/1993
+id, numeric, 198
+id, numeric, 321
+out,worked,hours, numeric, 4,date, date, 9/3/2007
+id, numeric, 903
+id, numeric, 817
+out,battled,hours, numeric, 7,date, date, 8/25/2001
+id, numeric, 616
+id, numeric, 229
+out,battled,hours, numeric, 2,date, date, 4/22/1981
+id, numeric, 684
+id, numeric, 153
+in,worked,hours, numeric, 4,date, date, 9/4/1987
+id, numeric, 394
+id, numeric, 403
+in,worked,hours, numeric, 3,date, date, 11/8/1997
+id, numeric, 1034
+id, numeric, 735
+out,worked,hours, numeric, 6,date, date, 6/18/1990
+id, numeric, 1355
+id, numeric, 245
+out,worked,hours, numeric, 5,date, date, 12/18/1996
+id, numeric, 482
+id, numeric, 979
+out,worked,hours, numeric, 2,date, date, 8/17/2015
+id, numeric, 742
+id, numeric, 1103
+in,battled,hours, numeric, 1,date, date, 12/3/2006
+id, numeric, 73
+id, numeric, 1276
+out,battled,hours, numeric, 6,date, date, 5/20/1992
+id, numeric, 1083
+id, numeric, 22
+out,battled,hours, numeric, 7,date, date, 4/9/1980
+id, numeric, 1288
+id, numeric, 580
+out,battled,hours, numeric, 3,date, date, 10/28/2002
+id, numeric, 664
+id, numeric, 771
+out,battled,hours, numeric, 1,date, date, 12/24/1997
+id, numeric, 1081
+id, numeric, 481
+out,worked,hours, numeric, 2,date, date, 2/4/1981
+id, numeric, 191
+id, numeric, 1002
+out,worked,hours, numeric, 2,date, date, 9/16/1989
+id, numeric, 143
+id, numeric, 612
+out,battled,hours, numeric, 8,date, date, 3/19/1993
+id, numeric, 349
+id, numeric, 905
+in,battled,hours, numeric, 1,date, date, 8/14/2014
+id, numeric, 221
+id, numeric, 1022
+in,battled,hours, numeric, 3,date, date, 6/24/2000
+id, numeric, 480
+id, numeric, 1133
+in,worked,hours, numeric, 7,date, date, 7/10/1989
+id, numeric, 1367
+id, numeric, 89
+in,worked,hours, numeric, 8,date, date, 2/18/1999
+id, numeric, 426
+id, numeric, 329
+out,battled,hours, numeric, 3,date, date, 12/1/2005
+id, numeric, 330
+id, numeric, 1471
+in,worked,hours, numeric, 7,date, date, 3/20/1980
+id, numeric, 244
+id, numeric, 790
+out,battled,hours, numeric, 1,date, date, 1/29/1997
+id, numeric, 916
+id, numeric, 988
+out,worked,hours, numeric, 1,date, date, 12/20/1982
+id, numeric, 1402
+id, numeric, 1019
+out,worked,hours, numeric, 2,date, date, 3/9/1991
+id, numeric, 494
+id, numeric, 1000
+out,worked,hours, numeric, 7,date, date, 9/17/2006
+id, numeric, 115
+id, numeric, 853
+in,worked,hours, numeric, 3,date, date, 2/13/1991
+id, numeric, 1219
+id, numeric, 1050
+out,battled,hours, numeric, 5,date, date, 3/28/1993
+id, numeric, 43
+id, numeric, 936
+out,battled,hours, numeric, 1,date, date, 6/15/1995
+id, numeric, 157
+id, numeric, 1097
+in,worked,hours, numeric, 5,date, date, 5/2/2013
+id, numeric, 1341
+id, numeric, 48
+out,battled,hours, numeric, 2,date, date, 12/31/2010
+id, numeric, 739
+id, numeric, 289
+in,battled,hours, numeric, 2,date, date, 7/16/1983
+id, numeric, 18
+id, numeric, 761
+out,battled,hours, numeric, 7,date, date, 10/23/2000
+id, numeric, 1151
+id, numeric, 1234
+out,worked,hours, numeric, 5,date, date, 12/18/2003
+id, numeric, 376
+id, numeric, 346
+in,battled,hours, numeric, 2,date, date, 7/17/2007
+id, numeric, 700
+id, numeric, 1470
+out,battled,hours, numeric, 2,date, date, 6/17/1993
+id, numeric, 1129
+id, numeric, 435
+out,worked,hours, numeric, 3,date, date, 11/17/2013
+id, numeric, 915
+id, numeric, 1163
+out,battled,hours, numeric, 5,date, date, 12/28/2015
+id, numeric, 861
+id, numeric, 332
+in,worked,hours, numeric, 6,date, date, 4/25/2009
+id, numeric, 496
+id, numeric, 849
+in,worked,hours, numeric, 3,date, date, 7/3/2004
+id, numeric, 766
+id, numeric, 116
+out,battled,hours, numeric, 7,date, date, 3/1/1988
+id, numeric, 1067
+id, numeric, 534
+out,worked,hours, numeric, 8,date, date, 4/2/1992
+id, numeric, 831
+id, numeric, 1012
+in,battled,hours, numeric, 8,date, date, 9/27/2002
+id, numeric, 567
+id, numeric, 455
+out,battled,hours, numeric, 8,date, date, 6/13/1985
+id, numeric, 1069
+id, numeric, 622
+out,battled,hours, numeric, 2,date, date, 8/12/1985
+id, numeric, 401
+id, numeric, 297
+in,battled,hours, numeric, 3,date, date, 12/15/2011
+id, numeric, 1140
+id, numeric, 1418
+out,worked,hours, numeric, 3,date, date, 4/29/1996
+id, numeric, 1365
+id, numeric, 472
+out,battled,hours, numeric, 2,date, date, 9/24/2004
+id, numeric, 317
+id, numeric, 590
+out,worked,hours, numeric, 8,date, date, 12/26/2014
+id, numeric, 1438
+id, numeric, 102
+in,battled,hours, numeric, 1,date, date, 1/31/2002
+id, numeric, 493
+id, numeric, 544
+out,worked,hours, numeric, 5,date, date, 6/26/2013
+id, numeric, 83
+id, numeric, 729
+in,worked,hours, numeric, 6,date, date, 9/29/2015
+id, numeric, 876
+id, numeric, 1240
+in,worked,hours, numeric, 3,date, date, 11/12/2007
+id, numeric, 886
+id, numeric, 1104
+out,battled,hours, numeric, 3,date, date, 1/26/1982
+id, numeric, 914
+id, numeric, 405
+out,battled,hours, numeric, 5,date, date, 12/26/1993
+id, numeric, 12
+id, numeric, 1388
+out,battled,hours, numeric, 7,date, date, 12/3/2014
+id, numeric, 1484
+id, numeric, 1037
+out,worked,hours, numeric, 1,date, date, 8/28/1985
+id, numeric, 1290
+id, numeric, 562
+out,worked,hours, numeric, 7,date, date, 4/21/1997
+id, numeric, 16
+id, numeric, 582
+in,battled,hours, numeric, 4,date, date, 6/23/1991
+id, numeric, 1480
+id, numeric, 65
+in,battled,hours, numeric, 7,date, date, 8/14/1989
+id, numeric, 1063
+id, numeric, 79
+in,worked,hours, numeric, 4,date, date, 4/19/1983
+id, numeric, 833
+id, numeric, 601
+out,worked,hours, numeric, 3,date, date, 5/12/2005
+id, numeric, 1123
+id, numeric, 205
+out,battled,hours, numeric, 8,date, date, 11/15/2014
+id, numeric, 645
+id, numeric, 1249
+out,battled,hours, numeric, 6,date, date, 7/7/2001
+id, numeric, 1040
+id, numeric, 710
+out,worked,hours, numeric, 7,date, date, 10/3/2015
+id, numeric, 278
+id, numeric, 542
+in,battled,hours, numeric, 5,date, date, 2/16/1998
+id, numeric, 795
+id, numeric, 863
+out,worked,hours, numeric, 2,date, date, 2/2/1992
+id, numeric, 857
+id, numeric, 569
+in,battled,hours, numeric, 6,date, date, 6/7/2000
+id, numeric, 1451
+id, numeric, 470
+out,worked,hours, numeric, 7,date, date, 4/1/1995
+id, numeric, 1370
+id, numeric, 1397
+out,battled,hours, numeric, 8,date, date, 11/20/2010
+id, numeric, 265
+id, numeric, 477
+out,battled,hours, numeric, 5,date, date, 6/5/2004
+id, numeric, 1162
+id, numeric, 921
+in,battled,hours, numeric, 3,date, date, 3/23/1993
+id, numeric, 1253
+id, numeric, 1134
+out,battled,hours, numeric, 3,date, date, 3/16/2011
+id, numeric, 867
+id, numeric, 1227
+out,worked,hours, numeric, 7,date, date, 5/5/2006
+id, numeric, 103
+id, numeric, 365
+out,worked,hours, numeric, 7,date, date, 1/3/2005
+id, numeric, 545
+id, numeric, 1396
+out,battled,hours, numeric, 8,date, date, 5/8/2009
+id, numeric, 486
+id, numeric, 539
+out,battled,hours, numeric, 6,date, date, 1/26/2010
+id, numeric, 447
+id, numeric, 818
+out,battled,hours, numeric, 3,date, date, 9/18/2004
+id, numeric, 696
+id, numeric, 1474
+out,battled,hours, numeric, 3,date, date, 2/8/2002
+id, numeric, 1209
+id, numeric, 653
+in,worked,hours, numeric, 6,date, date, 9/6/1989
+id, numeric, 454
+id, numeric, 1300
+out,worked,hours, numeric, 8,date, date, 8/21/2014
+id, numeric, 152
+id, numeric, 931
+out,worked,hours, numeric, 7,date, date, 10/14/2009
+id, numeric, 958
+id, numeric, 1433
+in,battled,hours, numeric, 6,date, date, 12/26/2000
+id, numeric, 514
+id, numeric, 730
+out,worked,hours, numeric, 3,date, date, 7/5/2006
+id, numeric, 196
+id, numeric, 558
+out,worked,hours, numeric, 4,date, date, 2/7/1991
+id, numeric, 1191
+id, numeric, 937
+out,battled,hours, numeric, 2,date, date, 10/9/1986
+id, numeric, 483
+id, numeric, 235
+out,battled,hours, numeric, 6,date, date, 10/1/2005
+id, numeric, 1339
+id, numeric, 260
+in,battled,hours, numeric, 7,date, date, 1/28/2009
+id, numeric, 856
+id, numeric, 498
+out,battled,hours, numeric, 8,date, date, 9/27/1980
+id, numeric, 1296
+id, numeric, 1359
+out,battled,hours, numeric, 4,date, date, 10/11/1982
+id, numeric, 132
+id, numeric, 1393
+in,battled,hours, numeric, 3,date, date, 5/5/2004
+id, numeric, 624
+id, numeric, 324
+out,worked,hours, numeric, 1,date, date, 7/9/1991
+id, numeric, 42
+id, numeric, 173
+in,worked,hours, numeric, 8,date, date, 4/28/2015
+id, numeric, 1483
+id, numeric, 1106
+out,battled,hours, numeric, 1,date, date, 1/7/1990
+id, numeric, 419
+id, numeric, 721
+in,battled,hours, numeric, 3,date, date, 1/13/1994
+id, numeric, 510
+id, numeric, 315
+in,battled,hours, numeric, 8,date, date, 12/18/2014
+id, numeric, 1411
+id, numeric, 1464
+out,worked,hours, numeric, 1,date, date, 9/20/1994
+id, numeric, 58
+id, numeric, 1127
+out,worked,hours, numeric, 7,date, date, 6/2/2002
+id, numeric, 865
+id, numeric, 1271
+out,worked,hours, numeric, 6,date, date, 2/25/1981
+id, numeric, 230
+id, numeric, 397
+in,worked,hours, numeric, 1,date, date, 8/27/1996
+id, numeric, 377
+id, numeric, 732
+out,worked,hours, numeric, 2,date, date, 2/10/2013
+id, numeric, 370
+id, numeric, 49
+in,battled,hours, numeric, 5,date, date, 10/2/2011
+id, numeric, 1071
+id, numeric, 995
+out,worked,hours, numeric, 6,date, date, 8/20/1984
+id, numeric, 827
+id, numeric, 461
+out,worked,hours, numeric, 1,date, date, 11/6/2009
+id, numeric, 1137
+id, numeric, 197
+in,worked,hours, numeric, 1,date, date, 12/2/2007
+id, numeric, 906
+id, numeric, 1297
+in,worked,hours, numeric, 8,date, date, 10/26/1985
+id, numeric, 1431
+id, numeric, 586
+out,worked,hours, numeric, 7,date, date, 9/6/1981
+id, numeric, 1360
+id, numeric, 837
+out,worked,hours, numeric, 6,date, date, 11/22/1983
+id, numeric, 660
+id, numeric, 464
+in,worked,hours, numeric, 7,date, date, 11/19/2007
+id, numeric, 1148
+id, numeric, 803
+in,battled,hours, numeric, 7,date, date, 1/8/1983
+id, numeric, 95
+id, numeric, 161
+in,battled,hours, numeric, 2,date, date, 5/13/2006
+id, numeric, 1406
+id, numeric, 532
+out,battled,hours, numeric, 7,date, date, 5/25/1990
+id, numeric, 1051
+id, numeric, 1020
+out,battled,hours, numeric, 4,date, date, 3/24/1998
+id, numeric, 263
+id, numeric, 1338
+out,worked,hours, numeric, 6,date, date, 1/13/1990
+id, numeric, 797
+id, numeric, 971
+out,worked,hours, numeric, 1,date, date, 11/15/2000
+id, numeric, 738
+id, numeric, 1476
+out,battled,hours, numeric, 6,date, date, 4/17/1996
+id, numeric, 219
+id, numeric, 238
+out,worked,hours, numeric, 6,date, date, 12/6/1984
+id, numeric, 1426
+id, numeric, 1429
+out,battled,hours, numeric, 1,date, date, 1/30/2013
+id, numeric, 602
+id, numeric, 182
+out,battled,hours, numeric, 4,date, date, 9/12/2013
+id, numeric, 449
+id, numeric, 1237
+out,battled,hours, numeric, 5,date, date, 10/17/1996
+id, numeric, 313
+id, numeric, 565
+out,battled,hours, numeric, 1,date, date, 5/26/2001
+id, numeric, 247
+id, numeric, 121
+out,battled,hours, numeric, 6,date, date, 12/12/1992
+id, numeric, 1294
+id, numeric, 1383
+out,battled,hours, numeric, 3,date, date, 8/12/1994
+id, numeric, 777
+id, numeric, 109
+out,battled,hours, numeric, 2,date, date, 4/3/1992
+id, numeric, 799
+id, numeric, 296
+out,worked,hours, numeric, 7,date, date, 8/25/1987
+id, numeric, 1351
+id, numeric, 479
+out,worked,hours, numeric, 8,date, date, 12/28/2006
+id, numeric, 983
+id, numeric, 1157
+out,battled,hours, numeric, 6,date, date, 9/30/2010
+id, numeric, 796
+id, numeric, 512
+out,battled,hours, numeric, 2,date, date, 7/5/2003
+id, numeric, 1285
+id, numeric, 353
+out,worked,hours, numeric, 3,date, date, 6/27/2007
+id, numeric, 100
+id, numeric, 1043
+out,battled,hours, numeric, 2,date, date, 2/25/1999
+id, numeric, 136
+id, numeric, 331
+in,worked,hours, numeric, 4,date, date, 9/30/2011
+id, numeric, 440
+id, numeric, 233
+out,battled,hours, numeric, 6,date, date, 2/16/2011
+id, numeric, 125
+id, numeric, 8
+in,worked,hours, numeric, 8,date, date, 5/17/1995
+id, numeric, 215
+id, numeric, 591
+out,worked,hours, numeric, 3,date, date, 7/26/2006
+id, numeric, 375
+id, numeric, 355
+out,battled,hours, numeric, 2,date, date, 12/1/1980
+id, numeric, 1121
+id, numeric, 816
+out,worked,hours, numeric, 6,date, date, 10/24/1983
+id, numeric, 441
+id, numeric, 1207
+out,battled,hours, numeric, 2,date, date, 10/31/1981
+id, numeric, 433
+id, numeric, 718
+out,worked,hours, numeric, 8,date, date, 10/30/2002
+id, numeric, 452
+id, numeric, 1075
+out,worked,hours, numeric, 2,date, date, 6/16/1994
+id, numeric, 518
+id, numeric, 1161
+in,worked,hours, numeric, 4,date, date, 4/14/1987
+id, numeric, 745
+id, numeric, 617
+out,worked,hours, numeric, 2,date, date, 9/23/1989
+id, numeric, 56
+id, numeric, 662
+out,worked,hours, numeric, 7,date, date, 4/11/2000
+id, numeric, 720
+id, numeric, 676
+out,battled,hours, numeric, 3,date, date, 8/4/1983
+id, numeric, 150
+id, numeric, 614
+out,worked,hours, numeric, 8,date, date, 5/20/2006
+id, numeric, 1366
+id, numeric, 495
+in,worked,hours, numeric, 2,date, date, 11/11/2011
+id, numeric, 422
+id, numeric, 1362
+in,worked,hours, numeric, 4,date, date, 5/19/2005
+id, numeric, 118
+id, numeric, 967
+out,battled,hours, numeric, 7,date, date, 3/25/1994
+id, numeric, 1208
+id, numeric, 791
+out,battled,hours, numeric, 7,date, date, 9/5/1991
+id, numeric, 1082
+id, numeric, 1435
+out,battled,hours, numeric, 3,date, date, 11/28/1993
+id, numeric, 1270
+id, numeric, 1318
+in,battled,hours, numeric, 5,date, date, 8/3/2013
+id, numeric, 232
+id, numeric, 91
+out,battled,hours, numeric, 7,date, date, 2/16/1993
+id, numeric, 270
+id, numeric, 938
+out,worked,hours, numeric, 5,date, date, 4/25/1988
+id, numeric, 135
+id, numeric, 930
+out,battled,hours, numeric, 7,date, date, 10/22/2000
+id, numeric, 546
+id, numeric, 1049
+out,worked,hours, numeric, 7,date, date, 3/30/2001
+id, numeric, 93
+id, numeric, 1460
+in,battled,hours, numeric, 8,date, date, 4/11/2015
+id, numeric, 1417
+id, numeric, 170
+out,worked,hours, numeric, 1,date, date, 5/27/1990
+id, numeric, 630
+id, numeric, 685
+out,battled,hours, numeric, 2,date, date, 1/26/1981
+id, numeric, 382
+id, numeric, 584
+out,battled,hours, numeric, 2,date, date, 10/24/1997
+id, numeric, 854
+id, numeric, 1315
+out,battled,hours, numeric, 1,date, date, 4/3/2015
+id, numeric, 1425
+id, numeric, 1311
+out,battled,hours, numeric, 2,date, date, 11/16/2015
+id, numeric, 411
+id, numeric, 578
+out,worked,hours, numeric, 2,date, date, 3/9/2004
+id, numeric, 1412
+id, numeric, 128
+out,battled,hours, numeric, 7,date, date, 8/1/1980
+id, numeric, 1377
+id, numeric, 705
+out,worked,hours, numeric, 7,date, date, 4/29/1984
+id, numeric, 437
+id, numeric, 756
+in,battled,hours, numeric, 4,date, date, 3/9/2006
+id, numeric, 629
+id, numeric, 366
+out,battled,hours, numeric, 8,date, date, 8/10/2005
+id, numeric, 1400
+id, numeric, 325
+out,worked,hours, numeric, 1,date, date, 5/4/1991
+id, numeric, 276
+id, numeric, 497
+out,battled,hours, numeric, 8,date, date, 10/1/2000
+id, numeric, 1479
+id, numeric, 820
+out,battled,hours, numeric, 5,date, date, 2/11/2016
+id, numeric, 929
+id, numeric, 337
+out,battled,hours, numeric, 8,date, date, 3/15/1988
+id, numeric, 649
+id, numeric, 934
+out,battled,hours, numeric, 1,date, date, 9/5/2003
+id, numeric, 757
+id, numeric, 1401
+in,worked,hours, numeric, 2,date, date, 11/10/2004
+id, numeric, 142
+id, numeric, 1257
+in,battled,hours, numeric, 1,date, date, 12/2/1986
+id, numeric, 413
+id, numeric, 114
+out,battled,hours, numeric, 8,date, date, 11/8/2008
+id, numeric, 706
+id, numeric, 942
+out,battled,hours, numeric, 1,date, date, 5/30/1986
+id, numeric, 1139
+id, numeric, 131
+out,worked,hours, numeric, 4,date, date, 10/25/2007
+id, numeric, 1062
+id, numeric, 168
+in,battled,hours, numeric, 3,date, date, 6/7/2011
+id, numeric, 1364
+id, numeric, 564
+out,worked,hours, numeric, 7,date, date, 2/24/1992
+id, numeric, 444
+id, numeric, 754
+in,battled,hours, numeric, 2,date, date, 2/17/1997
+id, numeric, 179
+id, numeric, 243
+out,battled,hours, numeric, 4,date, date, 5/19/2002
+id, numeric, 909
+id, numeric, 112
+in,battled,hours, numeric, 8,date, date, 11/26/1986
+id, numeric, 181
+id, numeric, 1467
+out,worked,hours, numeric, 6,date, date, 12/4/2001
+id, numeric, 36
+id, numeric, 1005
+out,battled,hours, numeric, 8,date, date, 12/3/2005
+id, numeric, 1
+id, numeric, 465
+out,battled,hours, numeric, 4,date, date, 10/6/2011
+id, numeric, 1243
+id, numeric, 987
+out,battled,hours, numeric, 1,date, date, 2/9/1991
+id, numeric, 236
+id, numeric, 962
+out,battled,hours, numeric, 5,date, date, 6/15/1999
+id, numeric, 1324
+id, numeric, 262
+out,battled,hours, numeric, 4,date, date, 11/18/2012
+id, numeric, 442
+id, numeric, 626
+out,battled,hours, numeric, 2,date, date, 5/28/1998
+id, numeric, 451
+id, numeric, 37
+out,worked,hours, numeric, 7,date, date, 11/25/2006
+id, numeric, 1039
+id, numeric, 1084
+in,battled,hours, numeric, 7,date, date, 7/1/2004
+id, numeric, 1485
+id, numeric, 19
+out,worked,hours, numeric, 5,date, date, 1/9/2000
+id, numeric, 1156
+id, numeric, 1041
+in,worked,hours, numeric, 5,date, date, 10/29/2004
+id, numeric, 434
+id, numeric, 576
+in,battled,hours, numeric, 6,date, date, 11/20/1989
+id, numeric, 1263
+id, numeric, 362
+out,worked,hours, numeric, 5,date, date, 12/22/1986
+id, numeric, 888
+id, numeric, 1186
+out,battled,hours, numeric, 7,date, date, 7/17/1987
+id, numeric, 90
+id, numeric, 589
+in,worked,hours, numeric, 7,date, date, 3/23/1995
+id, numeric, 634
+id, numeric, 111
+in,worked,hours, numeric, 1,date, date, 7/9/1991
+id, numeric, 319
+id, numeric, 1136
+out,worked,hours, numeric, 1,date, date, 7/31/1987
+id, numeric, 183
+id, numeric, 87
+out,battled,hours, numeric, 5,date, date, 7/5/2006
+id, numeric, 838
+id, numeric, 369
+out,battled,hours, numeric, 3,date, date, 1/5/1992
+id, numeric, 1205
+id, numeric, 870
+in,battled,hours, numeric, 1,date, date, 8/2/1981
+id, numeric, 1303
+id, numeric, 1456
+in,worked,hours, numeric, 4,date, date, 1/23/1983
+id, numeric, 258
+id, numeric, 884
+out,worked,hours, numeric, 4,date, date, 11/6/1999
+id, numeric, 1330
+id, numeric, 1235
+out,battled,hours, numeric, 2,date, date, 11/2/2005
+id, numeric, 800
+id, numeric, 283
+out,battled,hours, numeric, 3,date, date, 3/2/2008
+id, numeric, 1281
+id, numeric, 119
+out,worked,hours, numeric, 8,date, date, 11/27/1986
+id, numeric, 306
+id, numeric, 1061
+in,battled,hours, numeric, 8,date, date, 12/21/1991
+id, numeric, 1441
+id, numeric, 351
+out,battled,hours, numeric, 2,date, date, 7/16/2009
+id, numeric, 724
+id, numeric, 1158
+in,worked,hours, numeric, 3,date, date, 8/20/2007
+id, numeric, 638
+id, numeric, 911
+in,battled,hours, numeric, 6,date, date, 11/3/1994
+id, numeric, 674
+id, numeric, 851
+out,worked,hours, numeric, 7,date, date, 9/20/1995
+id, numeric, 300
+id, numeric, 1147
+in,worked,hours, numeric, 8,date, date, 2/22/1993
+id, numeric, 1342
+id, numeric, 163
+out,worked,hours, numeric, 8,date, date, 7/17/1982
+id, numeric, 1327
+id, numeric, 712
+out,worked,hours, numeric, 8,date, date, 7/5/2001
+id, numeric, 509
+id, numeric, 1302
+out,worked,hours, numeric, 4,date, date, 1/30/1997
+id, numeric, 359
+id, numeric, 1076
+in,battled,hours, numeric, 5,date, date, 1/11/2016
+id, numeric, 61
+id, numeric, 1236
+out,battled,hours, numeric, 1,date, date, 10/18/1981
+id, numeric, 177
+id, numeric, 499
+in,worked,hours, numeric, 8,date, date, 4/5/1989
+id, numeric, 310
+id, numeric, 1248
+out,battled,hours, numeric, 5,date, date, 3/3/1980
+id, numeric, 646
+id, numeric, 333
+out,worked,hours, numeric, 1,date, date, 6/16/2005
+id, numeric, 599
+id, numeric, 877
+out,battled,hours, numeric, 5,date, date, 7/19/1992
+id, numeric, 305
+id, numeric, 312
+out,battled,hours, numeric, 8,date, date, 5/26/2002
+id, numeric, 320
+id, numeric, 1189
+in,worked,hours, numeric, 7,date, date, 4/12/2003
+id, numeric, 1268
+id, numeric, 88
+in,battled,hours, numeric, 1,date, date, 10/27/1996
+id, numeric, 190
+id, numeric, 30
+out,battled,hours, numeric, 7,date, date, 9/24/2011
+id, numeric, 23
+id, numeric, 32
+out,battled,hours, numeric, 2,date, date, 11/18/1991
+id, numeric, 257
+id, numeric, 547
+out,battled,hours, numeric, 3,date, date, 4/15/1989
+id, numeric, 1124
+id, numeric, 211
+out,battled,hours, numeric, 3,date, date, 1/18/2000
+id, numeric, 783
+id, numeric, 668
+out,battled,hours, numeric, 4,date, date, 6/8/1989
+id, numeric, 935
+id, numeric, 1146
+in,worked,hours, numeric, 6,date, date, 11/16/2008
+id, numeric, 462
+id, numeric, 1454
+out,worked,hours, numeric, 2,date, date, 5/22/1990
+id, numeric, 1152
+id, numeric, 1200
+out,worked,hours, numeric, 7,date, date, 1/12/1990
+id, numeric, 408
+id, numeric, 1321
+out,battled,hours, numeric, 7,date, date, 12/1/2004
+id, numeric, 920
+id, numeric, 517
+out,battled,hours, numeric, 8,date, date, 11/24/1981
+id, numeric, 84
+id, numeric, 384
+out,worked,hours, numeric, 6,date, date, 5/14/1981
+id, numeric, 1242
+id, numeric, 467
+out,worked,hours, numeric, 4,date, date, 2/29/1984
+id, numeric, 474
+id, numeric, 965
+in,battled,hours, numeric, 8,date, date, 7/30/2012
+id, numeric, 39
+id, numeric, 1192
+out,worked,hours, numeric, 5,date, date, 8/31/2005
+id, numeric, 1206
+id, numeric, 1430
+out,worked,hours, numeric, 6,date, date, 4/23/1997
+id, numeric, 1178
+id, numeric, 577
+out,battled,hours, numeric, 5,date, date, 8/21/1983
+id, numeric, 859
+id, numeric, 78
+out,worked,hours, numeric, 6,date, date, 1/15/2001
+id, numeric, 1168
+id, numeric, 476
+in,battled,hours, numeric, 4,date, date, 7/29/2003
+id, numeric, 94
+id, numeric, 1448
+out,worked,hours, numeric, 6,date, date, 9/13/1990
+id, numeric, 1007
+id, numeric, 553
+out,worked,hours, numeric, 4,date, date, 12/7/1986
+id, numeric, 390
+id, numeric, 28
+out,battled,hours, numeric, 1,date, date, 6/26/1992
+id, numeric, 1045
+id, numeric, 1155
+out,battled,hours, numeric, 4,date, date, 2/20/1994
+id, numeric, 557
+id, numeric, 540
+in,battled,hours, numeric, 2,date, date, 3/9/1989
+id, numeric, 20
+id, numeric, 1378
+out,battled,hours, numeric, 2,date, date, 1/8/1982
+id, numeric, 1424
+id, numeric, 1392
+in,battled,hours, numeric, 1,date, date, 8/4/2011
+id, numeric, 439
+id, numeric, 506
+in,worked,hours, numeric, 2,date, date, 4/19/1981
+id, numeric, 551
+id, numeric, 814
+out,battled,hours, numeric, 6,date, date, 10/7/2010
+id, numeric, 1326
+id, numeric, 41
+in,worked,hours, numeric, 6,date, date, 4/22/1999
+id, numeric, 1059
+id, numeric, 378
+in,worked,hours, numeric, 2,date, date, 2/20/1999
+id, numeric, 941
+id, numeric, 138
+out,worked,hours, numeric, 2,date, date, 5/3/2006
+id, numeric, 304
+id, numeric, 1308
+out,battled,hours, numeric, 3,date, date, 7/11/1987
+id, numeric, 1230
+id, numeric, 203
+in,battled,hours, numeric, 1,date, date, 6/5/2004
+id, numeric, 400
+id, numeric, 71
+out,worked,hours, numeric, 2,date, date, 7/1/2000
+id, numeric, 781
+id, numeric, 651
+out,battled,hours, numeric, 3,date, date, 6/7/1994
+id, numeric, 733
+id, numeric, 715
+out,battled,hours, numeric, 2,date, date, 8/13/2002
+id, numeric, 1466
+id, numeric, 318
+out,battled,hours, numeric, 8,date, date, 6/30/2008
+id, numeric, 1399
+id, numeric, 598
+in,worked,hours, numeric, 4,date, date, 12/26/2008
+id, numeric, 1255
+id, numeric, 1047
+in,battled,hours, numeric, 7,date, date, 10/31/1980
+id, numeric, 70
+id, numeric, 1353
+in,battled,hours, numeric, 2,date, date, 12/4/1980
+id, numeric, 314
+id, numeric, 658
+out,worked,hours, numeric, 1,date, date, 3/15/1985
+id, numeric, 850
+id, numeric, 619
+out,battled,hours, numeric, 4,date, date, 4/30/1985
+id, numeric, 832
+id, numeric, 525
+in,worked,hours, numeric, 6,date, date, 5/18/2011
+id, numeric, 97
+id, numeric, 1096
+out,worked,hours, numeric, 1,date, date, 8/1/1984
+id, numeric, 154
+id, numeric, 1065
+in,worked,hours, numeric, 3,date, date, 12/3/1981
+id, numeric, 924
+id, numeric, 1472
+out,battled,hours, numeric, 3,date, date, 8/21/2009
+id, numeric, 600
+id, numeric, 746
+in,worked,hours, numeric, 4,date, date, 6/18/2005
+id, numeric, 72
+id, numeric, 503
+out,battled,hours, numeric, 5,date, date, 6/27/1981
+id, numeric, 1055
+id, numeric, 922
+out,battled,hours, numeric, 5,date, date, 3/19/2004
+id, numeric, 1184
+id, numeric, 1295
+out,battled,hours, numeric, 5,date, date, 3/23/2013
+id, numeric, 146
+id, numeric, 99
+out,worked,hours, numeric, 5,date, date, 4/4/1986
+id, numeric, 363
+id, numeric, 1108
+in,battled,hours, numeric, 7,date, date, 4/29/2013
+id, numeric, 110
+id, numeric, 765
+in,worked,hours, numeric, 5,date, date, 9/25/2005
+id, numeric, 47
+id, numeric, 29
+out,battled,hours, numeric, 8,date, date, 7/20/1984
+id, numeric, 1274
+id, numeric, 1380
+in,worked,hours, numeric, 8,date, date, 7/14/1999
+id, numeric, 872
+id, numeric, 292
+out,battled,hours, numeric, 1,date, date, 6/22/2013
+id, numeric, 347
+id, numeric, 86
+out,battled,hours, numeric, 5,date, date, 7/16/1981
+id, numeric, 1450
+id, numeric, 178
+in,worked,hours, numeric, 8,date, date, 10/20/1986
+id, numeric, 339
+id, numeric, 1416
+in,worked,hours, numeric, 5,date, date, 7/28/2014
+id, numeric, 606
+id, numeric, 259
+out,battled,hours, numeric, 8,date, date, 9/3/1992
+id, numeric, 671
+id, numeric, 1389
+out,worked,hours, numeric, 1,date, date, 2/26/1996
+id, numeric, 248
+id, numeric, 1028
+out,battled,hours, numeric, 1,date, date, 4/24/1983
+id, numeric, 31
+id, numeric, 657
+out,battled,hours, numeric, 3,date, date, 5/1/1984
+id, numeric, 1269
+id, numeric, 453
+out,battled,hours, numeric, 1,date, date, 2/1/1983
+id, numeric, 792
+id, numeric, 822
+in,battled,hours, numeric, 2,date, date, 8/18/1994
+id, numeric, 171
+id, numeric, 975
+out,worked,hours, numeric, 2,date, date, 5/12/2002
+id, numeric, 842
+id, numeric, 1452
+out,battled,hours, numeric, 8,date, date, 12/5/2005
+id, numeric, 1432
+id, numeric, 1301
+in,battled,hours, numeric, 1,date, date, 6/26/1991
+id, numeric, 1091
+id, numeric, 1352
+out,worked,hours, numeric, 1,date, date, 12/31/2004
+id, numeric, 1286
+id, numeric, 308
+out,battled,hours, numeric, 6,date, date, 4/13/2000
+id, numeric, 885
+id, numeric, 1212
+in,worked,hours, numeric, 7,date, date, 5/27/1986
+id, numeric, 172
+id, numeric, 281
+out,worked,hours, numeric, 5,date, date, 6/22/1987
+id, numeric, 889
+id, numeric, 1118
+in,worked,hours, numeric, 4,date, date, 11/25/2009
+id, numeric, 246
+id, numeric, 1259
+in,worked,hours, numeric, 8,date, date, 8/26/2001
+id, numeric, 1260
+id, numeric, 1337
+in,battled,hours, numeric, 7,date, date, 5/20/2010
+id, numeric, 529
+id, numeric, 760
+out,worked,hours, numeric, 1,date, date, 7/25/1988
+id, numeric, 526
+id, numeric, 561
+out,worked,hours, numeric, 8,date, date, 4/8/1998
+id, numeric, 520
+id, numeric, 149
+out,battled,hours, numeric, 4,date, date, 6/21/1995
+id, numeric, 3
+id, numeric, 1201
+out,battled,hours, numeric, 2,date, date, 10/6/1994
+id, numeric, 887
+id, numeric, 904
+out,worked,hours, numeric, 1,date, date, 1/25/1987
+id, numeric, 607
+id, numeric, 575
+out,worked,hours, numeric, 3,date, date, 12/27/2003
+id, numeric, 1408
+id, numeric, 1120
+out,worked,hours, numeric, 8,date, date, 12/28/2008
+id, numeric, 1164
+id, numeric, 1444
+in,battled,hours, numeric, 1,date, date, 3/10/2011
+id, numeric, 883
+id, numeric, 759
+in,worked,hours, numeric, 3,date, date, 1/27/1982
+id, numeric, 782
+id, numeric, 68
+in,worked,hours, numeric, 6,date, date, 2/2/1992
+id, numeric, 940
+id, numeric, 541
+out,worked,hours, numeric, 2,date, date, 7/31/1981
+id, numeric, 504
+id, numeric, 240
+out,battled,hours, numeric, 1,date, date, 9/18/1987
+id, numeric, 199
+id, numeric, 871
+out,worked,hours, numeric, 7,date, date, 11/27/1984
+id, numeric, 33
+id, numeric, 1126
+in,worked,hours, numeric, 3,date, date, 4/25/1996
+id, numeric, 543
+id, numeric, 647
+in,battled,hours, numeric, 2,date, date, 2/26/2012
+id, numeric, 939
+id, numeric, 892
+in,battled,hours, numeric, 7,date, date, 7/28/1983
+id, numeric, 1459
+id, numeric, 391
+out,battled,hours, numeric, 7,date, date, 9/13/1989
+id, numeric, 688
+id, numeric, 334
+out,battled,hours, numeric, 5,date, date, 10/18/2013
+id, numeric, 985
+id, numeric, 174
+out,battled,hours, numeric, 3,date, date, 8/27/1992
+id, numeric, 819
+id, numeric, 1390
+out,worked,hours, numeric, 4,date, date, 1/13/2003
+id, numeric, 943
+id, numeric, 1307
+in,battled,hours, numeric, 6,date, date, 8/28/2011
+id, numeric, 1266
+id, numeric, 982
+out,battled,hours, numeric, 1,date, date, 1/7/1982
+id, numeric, 129
+id, numeric, 951
+out,battled,hours, numeric, 3,date, date, 7/12/1998
+id, numeric, 1171
+id, numeric, 839
+in,battled,hours, numeric, 2,date, date, 6/10/2004
+id, numeric, 396
+id, numeric, 1072
+out,worked,hours, numeric, 7,date, date, 2/10/1986
+id, numeric, 1226
+id, numeric, 225
+in,battled,hours, numeric, 3,date, date, 12/31/1984
+id, numeric, 770
+id, numeric, 222
+out,battled,hours, numeric, 6,date, date, 5/11/1982
+id, numeric, 361
+id, numeric, 1177
+in,worked,hours, numeric, 2,date, date, 9/19/1990
+id, numeric, 249
+id, numeric, 2
+in,battled,hours, numeric, 5,date, date, 7/23/2004
+id, numeric, 137
+id, numeric, 1409
+in,worked,hours, numeric, 2,date, date, 11/20/2002
+id, numeric, 747
+id, numeric, 46
+out,worked,hours, numeric, 6,date, date, 2/10/2014
+id, numeric, 726
+id, numeric, 323
+out,worked,hours, numeric, 1,date, date, 10/23/2000
+id, numeric, 996
+id, numeric, 1447
+out,battled,hours, numeric, 4,date, date, 4/2/2011
+id, numeric, 898
+id, numeric, 778
+out,battled,hours, numeric, 8,date, date, 7/6/2008
+id, numeric, 1413
+id, numeric, 307
+out,battled,hours, numeric, 7,date, date, 7/1/1991
+id, numeric, 502
+id, numeric, 1233
+in,worked,hours, numeric, 7,date, date, 12/30/1994
+id, numeric, 341
+id, numeric, 180
+in,worked,hours, numeric, 7,date, date, 7/13/1996
+id, numeric, 250
+id, numeric, 968
+in,battled,hours, numeric, 3,date, date, 9/12/1986
+id, numeric, 458
+id, numeric, 381
+out,worked,hours, numeric, 5,date, date, 10/7/2013
+id, numeric, 878
+id, numeric, 1407
+out,worked,hours, numeric, 4,date, date, 3/8/2002
+id, numeric, 457
+id, numeric, 1258
+out,battled,hours, numeric, 8,date, date, 2/16/2006
+id, numeric, 386
+id, numeric, 522
+out,worked,hours, numeric, 2,date, date, 7/28/1992
+id, numeric, 160
+id, numeric, 193
+out,battled,hours, numeric, 1,date, date, 4/23/1991
+id, numeric, 311
+id, numeric, 5
+out,worked,hours, numeric, 2,date, date, 6/5/1989
+id, numeric, 122
+id, numeric, 21
+out,worked,hours, numeric, 4,date, date, 7/4/2006
+id, numeric, 978
+id, numeric, 1437
+out,worked,hours, numeric, 6,date, date, 4/16/1988
+id, numeric, 530
+id, numeric, 890
+in,worked,hours, numeric, 2,date, date, 7/27/2007
+id, numeric, 919
+id, numeric, 1107
+out,worked,hours, numeric, 5,date, date, 11/11/1981
+id, numeric, 1001
+id, numeric, 1410
+out,worked,hours, numeric, 2,date, date, 3/8/1993
+id, numeric, 1369
+id, numeric, 868
+in,battled,hours, numeric, 3,date, date, 12/13/1990
+id, numeric, 1350
+id, numeric, 1368
+in,worked,hours, numeric, 8,date, date, 8/5/1997
+id, numeric, 443
+id, numeric, 274
+in,worked,hours, numeric, 2,date, date, 2/22/2004
+id, numeric, 69
+id, numeric, 762
+in,battled,hours, numeric, 7,date, date, 5/12/2005
+id, numeric, 535
+id, numeric, 1291
+out,worked,hours, numeric, 3,date, date, 5/1/2005
+id, numeric, 284
+id, numeric, 976
+out,worked,hours, numeric, 1,date, date, 11/2/2011
+id, numeric, 1122
+id, numeric, 635
+in,worked,hours, numeric, 6,date, date, 7/30/2008
+id, numeric, 267
+id, numeric, 74
+out,battled,hours, numeric, 1,date, date, 9/4/1995
+id, numeric, 1193
+id, numeric, 570
+in,battled,hours, numeric, 7,date, date, 9/2/1984
+id, numeric, 228
+id, numeric, 807
+in,worked,hours, numeric, 6,date, date, 12/8/2002
+id, numeric, 1458
+id, numeric, 1006
+in,battled,hours, numeric, 7,date, date, 8/22/1997
+id, numeric, 719
+id, numeric, 416
+in,battled,hours, numeric, 8,date, date, 3/6/1980
+id, numeric, 158
+id, numeric, 1358
+in,worked,hours, numeric, 1,date, date, 8/15/1996
+id, numeric, 1089
+id, numeric, 637
+in,battled,hours, numeric, 2,date, date, 8/13/2013
+id, numeric, 429
+id, numeric, 860
+in,worked,hours, numeric, 3,date, date, 8/16/2003
+id, numeric, 999
+id, numeric, 409
+in,worked,hours, numeric, 8,date, date, 11/27/1989
+id, numeric, 556
+id, numeric, 85
+out,worked,hours, numeric, 2,date, date, 3/14/1991
+id, numeric, 643
+id, numeric, 285
+out,battled,hours, numeric, 5,date, date, 7/4/2011
+id, numeric, 200
+id, numeric, 1348
+in,worked,hours, numeric, 3,date, date, 11/22/2005
+id, numeric, 266
+id, numeric, 1332
+out,battled,hours, numeric, 4,date, date, 7/23/1999
+id, numeric, 1187
+id, numeric, 755
+out,worked,hours, numeric, 4,date, date, 8/23/2002
+id, numeric, 1254
+id, numeric, 1078
+out,worked,hours, numeric, 3,date, date, 11/7/1985
+id, numeric, 536
+id, numeric, 1385
+out,battled,hours, numeric, 2,date, date, 8/29/2001
+id, numeric, 1138
+id, numeric, 1066
+out,worked,hours, numeric, 4,date, date, 2/17/1999
+id, numeric, 1202
+id, numeric, 271
+in,battled,hours, numeric, 1,date, date, 4/25/1996
+id, numeric, 1344
+id, numeric, 560
+in,worked,hours, numeric, 4,date, date, 9/29/2000
+id, numeric, 716
+id, numeric, 524
+out,battled,hours, numeric, 3,date, date, 4/27/1980
+id, numeric, 448
+id, numeric, 254
+out,battled,hours, numeric, 4,date, date, 6/28/2007
+id, numeric, 882
+id, numeric, 841
+out,battled,hours, numeric, 4,date, date, 2/14/1998
+id, numeric, 24
+id, numeric, 1223
+in,battled,hours, numeric, 2,date, date, 6/18/2014
+id, numeric, 1381
+id, numeric, 140
+out,worked,hours, numeric, 8,date, date, 11/6/1995
+id, numeric, 748
+id, numeric, 923
+out,battled,hours, numeric, 4,date, date, 9/14/2012
+id, numeric, 113
+id, numeric, 1093
+in,worked,hours, numeric, 7,date, date, 2/16/2013
+id, numeric, 406
+id, numeric, 357
+out,battled,hours, numeric, 5,date, date, 8/13/1994
+id, numeric, 192
+id, numeric, 134
+in,battled,hours, numeric, 6,date, date, 5/15/2001
+id, numeric, 956
+id, numeric, 784
+out,worked,hours, numeric, 7,date, date, 10/8/1991
+id, numeric, 953
+id, numeric, 1414
+out,worked,hours, numeric, 8,date, date, 10/1/2013
+id, numeric, 1095
+id, numeric, 1354
+out,worked,hours, numeric, 1,date, date, 7/19/1994
+id, numeric, 1473
+id, numeric, 694
+out,battled,hours, numeric, 1,date, date, 5/30/2014
+id, numeric, 768
+id, numeric, 64
+out,battled,hours, numeric, 7,date, date, 9/2/2010
+id, numeric, 360
+id, numeric, 175
+out,worked,hours, numeric, 5,date, date, 11/7/1984
+id, numeric, 648
+id, numeric, 1056
+out,battled,hours, numeric, 2,date, date, 2/13/1996
+id, numeric, 1098
+id, numeric, 812
+out,worked,hours, numeric, 3,date, date, 8/31/2001
+id, numeric, 17
+id, numeric, 1224
+in,worked,hours, numeric, 8,date, date, 2/8/2014
+id, numeric, 969
+id, numeric, 613
+out,worked,hours, numeric, 2,date, date, 7/24/1993
+id, numeric, 828
+id, numeric, 418
+out,worked,hours, numeric, 2,date, date, 7/3/2015
+id, numeric, 371
+id, numeric, 214
+out,worked,hours, numeric, 1,date, date, 4/1/1989
+id, numeric, 155
+id, numeric, 295
+out,battled,hours, numeric, 6,date, date, 6/16/2009
+id, numeric, 1182
+id, numeric, 1213
+out,worked,hours, numeric, 7,date, date, 12/6/2007
+id, numeric, 1203
+id, numeric, 50
+out,worked,hours, numeric, 1,date, date, 4/21/1982
+id, numeric, 1110
+id, numeric, 1092
+out,battled,hours, numeric, 5,date, date, 12/5/1995
+id, numeric, 963
+id, numeric, 655
+out,battled,hours, numeric, 8,date, date, 6/17/1990
+id, numeric, 1445
+id, numeric, 611
+out,worked,hours, numeric, 1,date, date, 5/28/2002
+id, numeric, 1100
+id, numeric, 809
+out,worked,hours, numeric, 8,date, date, 11/20/2015
+id, numeric, 1391
+id, numeric, 1115
+out,battled,hours, numeric, 6,date, date, 8/27/1983
+id, numeric, 1261
+id, numeric, 714
+out,worked,hours, numeric, 6,date, date, 6/8/1991
+id, numeric, 686
+id, numeric, 280
+in,battled,hours, numeric, 1,date, date, 9/10/2014
+id, numeric, 1251
+id, numeric, 423
+out,battled,hours, numeric, 8,date, date, 3/10/2005
+id, numeric, 737
+id, numeric, 656
+out,worked,hours, numeric, 2,date, date, 5/18/2015
+id, numeric, 823
+id, numeric, 383
+out,worked,hours, numeric, 4,date, date, 12/16/1990
+id, numeric, 689
+id, numeric, 326
+out,battled,hours, numeric, 4,date, date, 12/19/2015
+id, numeric, 682
+id, numeric, 736
+out,worked,hours, numeric, 5,date, date, 4/6/1994
+id, numeric, 379
+id, numeric, 417
+out,battled,hours, numeric, 7,date, date, 3/22/2015
+id, numeric, 1143
+id, numeric, 1232
+out,worked,hours, numeric, 1,date, date, 9/10/2004
+id, numeric, 587
+id, numeric, 1477
+in,battled,hours, numeric, 1,date, date, 11/30/1999
+id, numeric, 1346
+id, numeric, 82
+in,worked,hours, numeric, 5,date, date, 4/19/1984
+id, numeric, 1053
+id, numeric, 456
+out,worked,hours, numeric, 4,date, date, 8/30/1994
+id, numeric, 282
+id, numeric, 666
+out,battled,hours, numeric, 6,date, date, 11/3/2003
+id, numeric, 901
+id, numeric, 189
+out,battled,hours, numeric, 5,date, date, 4/11/1996
+id, numeric, 908
+id, numeric, 156
+out,worked,hours, numeric, 1,date, date, 7/22/2010
+id, numeric, 1204
+id, numeric, 959
+out,worked,hours, numeric, 8,date, date, 6/29/1982
+id, numeric, 51
+id, numeric, 845
+out,worked,hours, numeric, 2,date, date, 7/7/1980
+id, numeric, 1016
+id, numeric, 126
+out,battled,hours, numeric, 4,date, date, 2/21/2015
+id, numeric, 829
+id, numeric, 815
+out,battled,hours, numeric, 4,date, date, 12/25/2011
+id, numeric, 864
+id, numeric, 692
+out,battled,hours, numeric, 2,date, date, 5/24/1997
+id, numeric, 680
+id, numeric, 640
+out,battled,hours, numeric, 3,date, date, 5/3/1993
+id, numeric, 404
+id, numeric, 1298
+out,worked,hours, numeric, 1,date, date, 6/10/2005
+id, numeric, 966
+id, numeric, 1070
+out,battled,hours, numeric, 8,date, date, 7/19/2005
+id, numeric, 207
+id, numeric, 1468
+out,worked,hours, numeric, 8,date, date, 5/20/2009
+id, numeric, 673
+id, numeric, 973
+in,worked,hours, numeric, 5,date, date, 12/18/1990
+id, numeric, 1167
+id, numeric, 500
+out,battled,hours, numeric, 5,date, date, 1/20/2010
+id, numeric, 659
+id, numeric, 609
+out,battled,hours, numeric, 5,date, date, 4/30/1985
+id, numeric, 1231
+id, numeric, 1336
+out,battled,hours, numeric, 7,date, date, 1/12/1999
+id, numeric, 618
+id, numeric, 573
+out,battled,hours, numeric, 1,date, date, 5/2/1981
+id, numeric, 531
+id, numeric, 775
+in,battled,hours, numeric, 1,date, date, 2/9/1986
+id, numeric, 35
+id, numeric, 949
+in,battled,hours, numeric, 2,date, date, 11/6/1989
+id, numeric, 801
+id, numeric, 571
+in,battled,hours, numeric, 2,date, date, 7/10/1984
+id, numeric, 785
+id, numeric, 1482
+out,battled,hours, numeric, 1,date, date, 10/5/1980
+id, numeric, 642
+id, numeric, 550
+in,battled,hours, numeric, 2,date, date, 12/9/1980
+id, numeric, 811
+id, numeric, 1068
+out,worked,hours, numeric, 3,date, date, 4/29/2011
+id, numeric, 309
+id, numeric, 348
+out,worked,hours, numeric, 4,date, date, 3/1/2005
+id, numeric, 627
+id, numeric, 1289
+in,worked,hours, numeric, 2,date, date, 5/3/2000
+id, numeric, 678
+id, numeric, 753
+out,battled,hours, numeric, 3,date, date, 9/9/2012
+id, numeric, 605
+id, numeric, 478
+in,worked,hours, numeric, 4,date, date, 10/21/2001
+id, numeric, 767
+id, numeric, 1101
+out,worked,hours, numeric, 1,date, date, 5/25/2015
+id, numeric, 25
+id, numeric, 711
+in,worked,hours, numeric, 3,date, date, 4/29/1998
+id, numeric, 681
+id, numeric, 725
+out,worked,hours, numeric, 3,date, date, 4/6/2004
+id, numeric, 1272
+id, numeric, 1210
+in,worked,hours, numeric, 4,date, date, 6/20/2007
+id, numeric, 805
+id, numeric, 830
+out,battled,hours, numeric, 5,date, date, 1/6/1982
+id, numeric, 273
+id, numeric, 1347
+in,worked,hours, numeric, 2,date, date, 10/8/1991
+id, numeric, 463
+id, numeric, 511
+out,battled,hours, numeric, 5,date, date, 12/4/1995
+id, numeric, 1278
+id, numeric, 1166
+in,battled,hours, numeric, 4,date, date, 4/25/1983
+id, numeric, 368
+id, numeric, 1319
+out,worked,hours, numeric, 7,date, date, 10/13/1980
+id, numeric, 1246
+id, numeric, 1149
+out,worked,hours, numeric, 1,date, date, 5/2/1994
+id, numeric, 972
+id, numeric, 431
+out,worked,hours, numeric, 7,date, date, 12/29/2007
+id, numeric, 713
+id, numeric, 438
+out,worked,hours, numeric, 1,date, date, 8/17/1998
+id, numeric, 693
+id, numeric, 984
+out,battled,hours, numeric, 4,date, date, 1/10/2007
+id, numeric, 261
+id, numeric, 1264
+out,worked,hours, numeric, 6,date, date, 5/7/1987
+id, numeric, 702
+id, numeric, 1415
+out,battled,hours, numeric, 4,date, date, 10/23/1990
+id, numeric, 147
+id, numeric, 1404
+in,worked,hours, numeric, 4,date, date, 3/6/2010
+id, numeric, 661
+id, numeric, 743
+in,worked,hours, numeric, 5,date, date, 2/6/1993
+id, numeric, 77
+id, numeric, 473
+out,battled,hours, numeric, 2,date, date, 7/28/1981
+id, numeric, 1323
+id, numeric, 1195
+out,worked,hours, numeric, 6,date, date, 2/2/2001
+id, numeric, 322
+id, numeric, 373
+out,battled,hours, numeric, 1,date, date, 11/19/1997
+id, numeric, 471
+id, numeric, 670
+out,worked,hours, numeric, 8,date, date, 11/18/2014
+id, numeric, 1265
+id, numeric, 695
+out,battled,hours, numeric, 8,date, date, 12/4/1984
+id, numeric, 1180
+id, numeric, 527
+out,battled,hours, numeric, 3,date, date, 8/6/2013
+id, numeric, 231
+id, numeric, 593
+in,battled,hours, numeric, 8,date, date, 11/13/1992
+id, numeric, 1008
+id, numeric, 468
+out,worked,hours, numeric, 4,date, date, 2/18/2010
+id, numeric, 1462
+id, numeric, 672
+out,worked,hours, numeric, 4,date, date, 3/18/1984
+id, numeric, 1273
+id, numeric, 764
+out,battled,hours, numeric, 7,date, date, 8/25/1989
+id, numeric, 124
+id, numeric, 489
+in,worked,hours, numeric, 4,date, date, 5/29/1998
+id, numeric, 944
+id, numeric, 286
+out,battled,hours, numeric, 2,date, date, 12/28/1987
+id, numeric, 268
+id, numeric, 218
+in,worked,hours, numeric, 8,date, date, 8/5/1982
+id, numeric, 144
+id, numeric, 808
+out,battled,hours, numeric, 3,date, date, 7/28/2007
+id, numeric, 515
+id, numeric, 67
+in,battled,hours, numeric, 8,date, date, 4/19/2009
+id, numeric, 1220
+id, numeric, 1036
+out,battled,hours, numeric, 8,date, date, 12/14/2003
+id, numeric, 1074
+id, numeric, 1183
+out,worked,hours, numeric, 6,date, date, 4/22/2015
+id, numeric, 772
+id, numeric, 665
+out,battled,hours, numeric, 3,date, date, 1/4/1996
+id, numeric, 395
+id, numeric, 7
+out,worked,hours, numeric, 6,date, date, 9/3/1996
+id, numeric, 1111
+id, numeric, 1394
+in,worked,hours, numeric, 2,date, date, 9/24/2001
+id, numeric, 1313
+id, numeric, 798
+in,battled,hours, numeric, 2,date, date, 3/12/2015
+id, numeric, 960
+id, numeric, 388
+out,battled,hours, numeric, 7,date, date, 5/16/1996
+id, numeric, 1038
+id, numeric, 631
+out,worked,hours, numeric, 1,date, date, 8/29/1985
+id, numeric, 1245
+id, numeric, 1256
+out,worked,hours, numeric, 7,date, date, 7/22/1983
+id, numeric, 521
+id, numeric, 10
+out,battled,hours, numeric, 4,date, date, 7/3/2010
+id, numeric, 993
+id, numeric, 460
+in,battled,hours, numeric, 5,date, date, 12/9/1980
+id, numeric, 950
+id, numeric, 213
+out,battled,hours, numeric, 4,date, date, 8/21/1987
+id, numeric, 1154
+id, numeric, 1279
+in,battled,hours, numeric, 7,date, date, 11/4/2012
+id, numeric, 669
+id, numeric, 1042
+out,battled,hours, numeric, 2,date, date, 2/27/2000
+id, numeric, 699
+id, numeric, 358
+out,worked,hours, numeric, 2,date, date, 9/14/1999
+id, numeric, 1481
+id, numeric, 57
+out,worked,hours, numeric, 2,date, date, 4/7/1985
+id, numeric, 44
+id, numeric, 596
+in,battled,hours, numeric, 2,date, date, 7/19/1990
+id, numeric, 1305
+id, numeric, 862
+out,battled,hours, numeric, 7,date, date, 9/3/1985
+id, numeric, 1033
+id, numeric, 1090
+out,battled,hours, numeric, 5,date, date, 4/12/1985
+id, numeric, 206
+id, numeric, 1132
+out,battled,hours, numeric, 7,date, date, 10/31/1996
+id, numeric, 164
+id, numeric, 1439
+in,battled,hours, numeric, 6,date, date, 6/7/1981
+id, numeric, 272
+id, numeric, 926
+in,worked,hours, numeric, 8,date, date, 12/1/1993
+id, numeric, 66
+id, numeric, 758
+in,worked,hours, numeric, 1,date, date, 8/7/1994
+id, numeric, 1312
+id, numeric, 663
+in,worked,hours, numeric, 1,date, date, 4/22/1984
+id, numeric, 288
+id, numeric, 776
+out,worked,hours, numeric, 7,date, date, 10/30/1994
+id, numeric, 27
+id, numeric, 741
+out,worked,hours, numeric, 6,date, date, 4/10/2000
+id, numeric, 485
+id, numeric, 1280
+in,battled,hours, numeric, 2,date, date, 5/10/1986
+id, numeric, 1340
+id, numeric, 652
+in,worked,hours, numeric, 7,date, date, 9/9/1988
+id, numeric, 1176
+id, numeric, 1222
+in,battled,hours, numeric, 4,date, date, 9/2/2015
+id, numeric, 879
+id, numeric, 810
+out,battled,hours, numeric, 1,date, date, 12/14/1987
+id, numeric, 1135
+id, numeric, 204
+in,worked,hours, numeric, 5,date, date, 2/10/1999
+id, numeric, 1085
+id, numeric, 1153
+out,worked,hours, numeric, 8,date, date, 3/27/1996
+id, numeric, 1275
+id, numeric, 1317
+out,battled,hours, numeric, 6,date, date, 7/7/1988
+id, numeric, 621
+id, numeric, 763
+out,worked,hours, numeric, 3,date, date, 3/4/2006
+id, numeric, 813
+id, numeric, 241
+out,worked,hours, numeric, 8,date, date, 7/25/1984
+id, numeric, 354
+id, numeric, 239
+out,battled,hours, numeric, 6,date, date, 9/14/1988
+id, numeric, 1144
+id, numeric, 927
+out,worked,hours, numeric, 1,date, date, 4/24/1985
+id, numeric, 932
+id, numeric, 1029
+out,worked,hours, numeric, 7,date, date, 3/7/2008
+id, numeric, 896
+id, numeric, 1130
+out,battled,hours, numeric, 3,date, date, 1/23/2002
+id, numeric, 1420
+id, numeric, 802
+in,worked,hours, numeric, 8,date, date, 6/20/2015
+id, numeric, 780
+id, numeric, 625
+out,worked,hours, numeric, 7,date, date, 1/20/1981
+id, numeric, 897
+id, numeric, 209
+out,battled,hours, numeric, 5,date, date, 9/12/1997
+id, numeric, 1017
+id, numeric, 873
+out,battled,hours, numeric, 6,date, date, 12/1/2005
+id, numeric, 398
+id, numeric, 1013
+in,battled,hours, numeric, 3,date, date, 9/17/1982
+id, numeric, 96
+id, numeric, 1267
+out,battled,hours, numeric, 1,date, date, 5/17/2003
+id, numeric, 1181
+id, numeric, 399
+out,worked,hours, numeric, 2,date, date, 1/17/1995
+id, numeric, 420
+id, numeric, 169
+out,worked,hours, numeric, 4,date, date, 7/11/2015
+id, numeric, 894
+id, numeric, 1320
+out,worked,hours, numeric, 5,date, date, 1/20/2007
+id, numeric, 1239
+id, numeric, 946
+out,worked,hours, numeric, 6,date, date, 3/12/1999
+id, numeric, 234
+id, numeric, 13
+out,worked,hours, numeric, 2,date, date, 11/23/1982
+id, numeric, 81
+id, numeric, 751
+in,worked,hours, numeric, 5,date, date, 9/19/1994
+id, numeric, 105
+id, numeric, 961
+out,battled,hours, numeric, 2,date, date, 11/17/1998
+id, numeric, 336
+id, numeric, 1086
+out,battled,hours, numeric, 7,date, date, 8/28/2010
+id, numeric, 466
+id, numeric, 834
+in,worked,hours, numeric, 4,date, date, 10/14/2010
+id, numeric, 917
+id, numeric, 683
+in,worked,hours, numeric, 6,date, date, 3/20/1998
+id, numeric, 750
+id, numeric, 933
+out,battled,hours, numeric, 2,date, date, 4/12/2011
+id, numeric, 592
+id, numeric, 523
+in,worked,hours, numeric, 5,date, date, 10/28/1995
+id, numeric, 1131
+id, numeric, 722
+out,battled,hours, numeric, 8,date, date, 1/18/2011
+id, numeric, 1322
+id, numeric, 1241
+out,worked,hours, numeric, 4,date, date, 2/3/1989
+id, numeric, 1244
+id, numeric, 1427
+out,battled,hours, numeric, 5,date, date, 5/8/2014
+id, numeric, 980
+id, numeric, 994
+in,battled,hours, numeric, 2,date, date, 9/28/1984
+id, numeric, 709
+id, numeric, 1190
+out,battled,hours, numeric, 2,date, date, 11/8/1985
+id, numeric, 1357
+id, numeric, 881
+in,battled,hours, numeric, 4,date, date, 5/23/1985
+id, numeric, 277
+id, numeric, 997
+in,worked,hours, numeric, 3,date, date, 9/28/1981
+id, numeric, 34
+id, numeric, 1079
+out,worked,hours, numeric, 2,date, date, 9/24/1992
+id, numeric, 490
+id, numeric, 1463
+out,worked,hours, numeric, 7,date, date, 10/21/2006
+id, numeric, 1073
+id, numeric, 981
+out,battled,hours, numeric, 7,date, date, 4/20/1996
+id, numeric, 628
+id, numeric, 786
+out,worked,hours, numeric, 2,date, date, 1/27/1981
+id, numeric, 1443
+id, numeric, 990
+in,worked,hours, numeric, 1,date, date, 1/5/2005
+id, numeric, 1309
+id, numeric, 789
+out,worked,hours, numeric, 3,date, date, 3/22/2011
+id, numeric, 744
+id, numeric, 717
+out,worked,hours, numeric, 5,date, date, 6/14/2002
+id, numeric, 1434
+id, numeric, 393
+in,worked,hours, numeric, 5,date, date, 1/5/1988
+id, numeric, 92
+id, numeric, 101
+in,worked,hours, numeric, 5,date, date, 6/23/2009
+id, numeric, 1048
+id, numeric, 1284
+in,worked,hours, numeric, 7,date, date, 10/4/1987
+id, numeric, 275
+id, numeric, 298
+out,battled,hours, numeric, 8,date, date, 9/4/2013
+id, numeric, 151
+id, numeric, 216
+in,worked,hours, numeric, 1,date, date, 10/6/1981
+id, numeric, 572
+id, numeric, 1465
+in,battled,hours, numeric, 8,date, date, 9/22/1988
+id, numeric, 1423
+id, numeric, 252
+in,battled,hours, numeric, 5,date, date, 11/13/2013
+id, numeric, 1174
+id, numeric, 159
+out,battled,hours, numeric, 3,date, date, 11/30/1989
+id, numeric, 1310
+id, numeric, 977
+out,battled,hours, numeric, 1,date, date, 11/26/1990
+id, numeric, 1004
+id, numeric, 55
+out,battled,hours, numeric, 6,date, date, 1/20/2014
+id, numeric, 414
+id, numeric, 60
+in,worked,hours, numeric, 5,date, date, 10/28/1992
+id, numeric, 184
+id, numeric, 389
+in,worked,hours, numeric, 7,date, date, 8/14/1987
+id, numeric, 123
+id, numeric, 127
+in,battled,hours, numeric, 1,date, date, 10/12/2002
+id, numeric, 1299
+id, numeric, 644
+out,worked,hours, numeric, 3,date, date, 3/4/1988
+id, numeric, 294
+id, numeric, 1018
+in,worked,hours, numeric, 8,date, date, 12/15/1981
+id, numeric, 723
+id, numeric, 1306
+out,worked,hours, numeric, 6,date, date, 9/15/1993
+id, numeric, 701
+id, numeric, 1329
+out,battled,hours, numeric, 6,date, date, 8/20/1992
+id, numeric, 1021
+id, numeric, 1356
+out,worked,hours, numeric, 6,date, date, 8/29/1983
+id, numeric, 488
+id, numeric, 825
+out,worked,hours, numeric, 3,date, date, 12/2/2015
+id, numeric, 840
+id, numeric, 957
+out,battled,hours, numeric, 8,date, date, 1/2/2014
+id, numeric, 1250
+id, numeric, 691
+out,battled,hours, numeric, 5,date, date, 7/17/2005
+id, numeric, 749
+id, numeric, 974
+in,battled,hours, numeric, 1,date, date, 6/29/2001
+id, numeric, 1188
+id, numeric, 1128
+out,worked,hours, numeric, 5,date, date, 3/22/2012
+id, numeric, 1087
+id, numeric, 913
+out,worked,hours, numeric, 1,date, date, 10/4/1992
+id, numeric, 1405
+id, numeric, 446
+out,worked,hours, numeric, 3,date, date, 4/16/2006
+id, numeric, 1374
+id, numeric, 327
+out,battled,hours, numeric, 3,date, date, 1/1/2016
+id, numeric, 992
+id, numeric, 372
+out,battled,hours, numeric, 8,date, date, 5/4/1984
+id, numeric, 108
+id, numeric, 773
+out,battled,hours, numeric, 4,date, date, 1/30/2000
+id, numeric, 352
+id, numeric, 367
+in,battled,hours, numeric, 3,date, date, 10/16/1985
+id, numeric, 343
+id, numeric, 338
+out,battled,hours, numeric, 8,date, date, 2/11/2000
+id, numeric, 287
+id, numeric, 475
+in,worked,hours, numeric, 7,date, date, 7/1/1997
+id, numeric, 6
+id, numeric, 1331
+in,worked,hours, numeric, 2,date, date, 10/18/2010
+id, numeric, 727
+id, numeric, 301
+out,battled,hours, numeric, 5,date, date, 6/29/2007
+id, numeric, 1003
+id, numeric, 1292
+out,battled,hours, numeric, 8,date, date, 10/13/2014
+id, numeric, 1125
+id, numeric, 62
+out,worked,hours, numeric, 4,date, date, 11/8/1989
+id, numeric, 187
+id, numeric, 1117
+out,worked,hours, numeric, 2,date, date, 7/16/2013
+id, numeric, 991
+id, numeric, 925
+out,battled,hours, numeric, 5,date, date, 10/28/1981
+id, numeric, 846
+id, numeric, 1169
+out,battled,hours, numeric, 2,date, date, 3/5/2006
+id, numeric, 1010
+id, numeric, 195
+out,battled,hours, numeric, 8,date, date, 12/29/1994
+id, numeric, 704
+id, numeric, 597
+out,battled,hours, numeric, 3,date, date, 7/16/1994
+id, numeric, 970
+id, numeric, 1105
+out,battled,hours, numeric, 2,date, date, 10/11/2004
+id, numeric, 217
+id, numeric, 450
+in,worked,hours, numeric, 7,date, date, 10/4/1987
+id, numeric, 1419
+id, numeric, 328
+out,battled,hours, numeric, 7,date, date, 11/6/1998
+id, numeric, 106
+id, numeric, 955
+out,battled,hours, numeric, 4,date, date, 10/26/1997
+id, numeric, 1102
+id, numeric, 779
+out,battled,hours, numeric, 2,date, date, 7/7/1993
+id, numeric, 728
+id, numeric, 793
+out,battled,hours, numeric, 2,date, date, 6/24/1993
+id, numeric, 588
+id, numeric, 188
+in,battled,hours, numeric, 3,date, date, 4/10/1997
+id, numeric, 484
+id, numeric, 492
+in,battled,hours, numeric, 6,date, date, 8/12/2009
+id, numeric, 412
+id, numeric, 335
+out,battled,hours, numeric, 3,date, date, 9/28/2001
+id, numeric, 804
+id, numeric, 1361
+out,battled,hours, numeric, 5,date, date, 11/8/1988
+id, numeric, 880
+id, numeric, 679
+in,battled,hours, numeric, 1,date, date, 9/3/1993
+id, numeric, 1453
+id, numeric, 707
+out,battled,hours, numeric, 8,date, date, 8/14/1984
+id, numeric, 145
+id, numeric, 242
+out,worked,hours, numeric, 4,date, date, 3/18/2008
+id, numeric, 1372
+id, numeric, 342
+out,worked,hours, numeric, 6,date, date, 9/25/2008
+id, numeric, 1112
+id, numeric, 1386
+in,battled,hours, numeric, 4,date, date, 5/25/2003
+id, numeric, 176
+id, numeric, 806
+out,worked,hours, numeric, 3,date, date, 4/14/2011
+id, numeric, 1060
+id, numeric, 1011
+in,worked,hours, numeric, 8,date, date, 7/14/1986
+id, numeric, 202
+id, numeric, 1304
+in,worked,hours, numeric, 1,date, date, 3/15/1991
+id, numeric, 1218
+id, numeric, 427
+in,battled,hours, numeric, 2,date, date, 11/6/2005
+id, numeric, 76
+id, numeric, 1199
+out,battled,hours, numeric, 8,date, date, 7/4/1998
+id, numeric, 844
+id, numeric, 603
+out,battled,hours, numeric, 7,date, date, 7/27/2000
+id, numeric, 703
+id, numeric, 641
+out,worked,hours, numeric, 6,date, date, 5/17/2003
+id, numeric, 1283
+id, numeric, 1382
+out,battled,hours, numeric, 5,date, date, 7/29/2001
+id, numeric, 1387
+id, numeric, 1194
+out,worked,hours, numeric, 4,date, date, 1/1/2003
+id, numeric, 1314
+id, numeric, 1175
+in,worked,hours, numeric, 6,date, date, 5/26/2006
+id, numeric, 1376
+id, numeric, 548
+out,worked,hours, numeric, 8,date, date, 1/20/1984
+id, numeric, 77
+id, numeric, 279
+in,worked,hours, numeric, 8,date, date, 11/18/1987
+id, numeric, 752
+id, numeric, 824
+in,worked,hours, numeric, 4,date, date, 7/7/1981
+id, numeric, 165
+id, numeric, 1475
+out,battled,hours, numeric, 1,date, date, 10/26/1983
+id, numeric, 1009
+id, numeric, 212
+in,battled,hours, numeric, 1,date, date, 7/22/2008
+id, numeric, 344
+id, numeric, 1440
+out,battled,hours, numeric, 4,date, date, 11/2/2004
+id, numeric, 1185
+id, numeric, 1373
+out,battled,hours, numeric, 7,date, date, 5/31/1989
+id, numeric, 130
+id, numeric, 1030
+out,worked,hours, numeric, 1,date, date, 11/11/1988
+id, numeric, 675
+id, numeric, 227
+in,worked,hours, numeric, 4,date, date, 6/14/1984
+id, numeric, 774
+id, numeric, 989
+in,battled,hours, numeric, 3,date, date, 7/16/1994
+id, numeric, 1343
+id, numeric, 392
+out,battled,hours, numeric, 1,date, date, 8/8/1994
+id, numeric, 1398
+id, numeric, 581
+in,worked,hours, numeric, 2,date, date, 10/28/2011
+id, numeric, 1077
+id, numeric, 415
+in,battled,hours, numeric, 6,date, date, 11/4/1997
+id, numeric, 1052
+id, numeric, 519
+out,battled,hours, numeric, 6,date, date, 10/25/1990
+id, numeric, 293
+id, numeric, 788
+out,battled,hours, numeric, 3,date, date, 11/28/2009
+id, numeric, 1379
+id, numeric, 1172
+out,battled,hours, numeric, 2,date, date, 3/15/1980
+id, numeric, 80
+id, numeric, 918
+in,battled,hours, numeric, 6,date, date, 12/19/1987
+id, numeric, 615
+id, numeric, 552
+in,worked,hours, numeric, 5,date, date, 9/18/1988
+id, numeric, 402
+id, numeric, 1058
+out,worked,hours, numeric, 5,date, date, 4/23/2011
+id, numeric, 1179
+id, numeric, 650
+out,battled,hours, numeric, 8,date, date, 5/11/2012
+id, numeric, 907
+id, numeric, 345
+out,battled,hours, numeric, 4,date, date, 7/15/2005
+id, numeric, 194
+id, numeric, 26
+in,worked,hours, numeric, 6,date, date, 6/18/1985
+id, numeric, 566
+id, numeric, 1044
+out,battled,hours, numeric, 7,date, date, 6/13/2005
+id, numeric, 14
+id, numeric, 869
+in,battled,hours, numeric, 6,date, date, 11/27/1984
+id, numeric, 843
+id, numeric, 574
+out,battled,hours, numeric, 8,date, date, 4/4/2004
+id, numeric, 948
+id, numeric, 1225
+in,battled,hours, numeric, 7,date, date, 11/8/1999
+id, numeric, 910
+id, numeric, 1446
+in,worked,hours, numeric, 4,date, date, 12/9/2009
+id, numeric, 505
+id, numeric, 223
+in,worked,hours, numeric, 3,date, date, 5/24/1982
+id, numeric, 1119
+id, numeric, 432
+out,worked,hours, numeric, 4,date, date, 6/6/2000
+id, numeric, 899
+id, numeric, 380
+in,battled,hours, numeric, 4,date, date, 4/30/1992
+id, numeric, 639
+id, numeric, 1150
+in,worked,hours, numeric, 6,date, date, 7/2/1997
+id, numeric, 528
+id, numeric, 740
+out,battled,hours, numeric, 6,date, date, 8/8/1980
+id, numeric, 1198
+id, numeric, 952
+out,battled,hours, numeric, 8,date, date, 6/11/2005
+id, numeric, 1316
+id, numeric, 848
+out,worked,hours, numeric, 2,date, date, 4/28/2002
+id, numeric, 874
+id, numeric, 186
+out,battled,hours, numeric, 6,date, date, 10/25/2010
+id, numeric, 636
+id, numeric, 794
+out,worked,hours, numeric, 7,date, date, 8/22/2006
+id, numeric, 1196
+id, numeric, 549
+out,battled,hours, numeric, 2,date, date, 8/14/1992
+id, numeric, 52
+id, numeric, 1113
+in,worked,hours, numeric, 5,date, date, 12/23/2007
+id, numeric, 1238
+id, numeric, 1046
+out,battled,hours, numeric, 3,date, date, 11/17/1995
+id, numeric, 1024
+id, numeric, 387
+in,battled,hours, numeric, 6,date, date, 4/27/2013
+id, numeric, 237
+id, numeric, 964
+out,worked,hours, numeric, 5,date, date, 11/14/2001
+id, numeric, 1031
+id, numeric, 340
+out,worked,hours, numeric, 1,date, date, 3/28/2006
+id, numeric, 513
+id, numeric, 1064
+out,battled,hours, numeric, 1,date, date, 12/25/1993
+id, numeric, 436
+id, numeric, 1057
+out,battled,hours, numeric, 5,date, date, 11/14/2010
+id, numeric, 407
+id, numeric, 1349
+out,battled,hours, numeric, 1,date, date, 7/26/2002
+id, numeric, 698
+id, numeric, 559
+out,battled,hours, numeric, 1,date, date, 2/11/2009
+id, numeric, 895
+id, numeric, 1461
+out,worked,hours, numeric, 3,date, date, 1/23/1990
+id, numeric, 1215
+id, numeric, 986
+in,worked,hours, numeric, 3,date, date, 1/25/2006
+id, numeric, 53
+id, numeric, 166
+in,worked,hours, numeric, 8,date, date, 5/29/2004
+id, numeric, 1094
+id, numeric, 690
+out,worked,hours, numeric, 4,date, date, 3/9/2005
+id, numeric, 1229
+id, numeric, 201
+out,battled,hours, numeric, 4,date, date, 10/13/1991
+id, numeric, 1334
+id, numeric, 1026
+out,battled,hours, numeric, 2,date, date, 7/9/2015
+id, numeric, 855
+id, numeric, 1428
+in,battled,hours, numeric, 3,date, date, 3/29/2012
+id, numeric, 1170
+id, numeric, 1363
+out,battled,hours, numeric, 2,date, date, 6/19/1991
+id, numeric, 1422
+id, numeric, 75
+out,battled,hours, numeric, 5,date, date, 3/9/2014
+id, numeric, 1408
+id, numeric, 1322
+out,worked,hours, numeric, 5,date, date, 7/21/2009
+id, numeric, 1067
+id, numeric, 1317
+out,worked,hours, numeric, 6,date, date, 1/13/1994
+id, numeric, 21
+id, numeric, 1225
+out,worked,hours, numeric, 5,date, date, 11/5/2005
+id, numeric, 204
+id, numeric, 106
+out,battled,hours, numeric, 7,date, date, 9/11/2001
+id, numeric, 265
+id, numeric, 718
+out,battled,hours, numeric, 3,date, date, 7/15/1988
+id, numeric, 685
+id, numeric, 1251
+in,worked,hours, numeric, 5,date, date, 6/12/1992
+id, numeric, 636
+id, numeric, 862
+in,battled,hours, numeric, 3,date, date, 4/8/2000
+id, numeric, 243
+id, numeric, 1273
+out,worked,hours, numeric, 1,date, date, 10/28/1980
+id, numeric, 279
+id, numeric, 466
+out,worked,hours, numeric, 3,date, date, 10/6/1989
+id, numeric, 645
+id, numeric, 123
+out,worked,hours, numeric, 3,date, date, 4/4/1981
+id, numeric, 372
+id, numeric, 531
+out,battled,hours, numeric, 8,date, date, 1/29/2014
+id, numeric, 733
+id, numeric, 57
+out,battled,hours, numeric, 7,date, date, 8/9/1989
+id, numeric, 1320
+id, numeric, 713
+out,worked,hours, numeric, 2,date, date, 2/2/1993
+id, numeric, 195
+id, numeric, 296
+out,battled,hours, numeric, 8,date, date, 2/20/1983
+id, numeric, 1133
+id, numeric, 46
+out,battled,hours, numeric, 3,date, date, 10/14/1980
+id, numeric, 213
+id, numeric, 1275
+in,battled,hours, numeric, 8,date, date, 11/9/2015
+id, numeric, 391
+id, numeric, 883
+out,worked,hours, numeric, 6,date, date, 4/13/1993
+id, numeric, 1136
+id, numeric, 1088
+in,battled,hours, numeric, 5,date, date, 7/23/1988
+id, numeric, 341
+id, numeric, 117
+out,battled,hours, numeric, 6,date, date, 6/6/1985
+id, numeric, 257
+id, numeric, 292
+in,worked,hours, numeric, 2,date, date, 1/18/1995
+id, numeric, 203
+id, numeric, 1224
+in,battled,hours, numeric, 2,date, date, 10/26/2003
+id, numeric, 133
+id, numeric, 1131
+out,worked,hours, numeric, 6,date, date, 6/20/1981
+id, numeric, 384
+id, numeric, 808
+out,worked,hours, numeric, 5,date, date, 6/15/2009
+id, numeric, 397
+id, numeric, 464
+in,battled,hours, numeric, 3,date, date, 8/1/2008
+id, numeric, 1434
+id, numeric, 1308
+in,worked,hours, numeric, 4,date, date, 2/2/1999
+id, numeric, 1191
+id, numeric, 944
+in,battled,hours, numeric, 4,date, date, 3/24/1982
+id, numeric, 1204
+id, numeric, 952
+out,battled,hours, numeric, 8,date, date, 9/24/1991
+id, numeric, 390
+id, numeric, 1263
+in,battled,hours, numeric, 5,date, date, 9/9/2007
+id, numeric, 1373
+id, numeric, 1254
+out,worked,hours, numeric, 7,date, date, 2/23/1988
+id, numeric, 27
+id, numeric, 906
+out,worked,hours, numeric, 7,date, date, 11/29/1981
+id, numeric, 492
+id, numeric, 1048
+out,battled,hours, numeric, 5,date, date, 2/2/1985
+id, numeric, 1227
+id, numeric, 1424
+out,battled,hours, numeric, 3,date, date, 2/15/2012
+id, numeric, 534
+id, numeric, 224
+out,battled,hours, numeric, 2,date, date, 2/28/2008
+id, numeric, 253
+id, numeric, 294
+out,battled,hours, numeric, 6,date, date, 7/22/1984
+id, numeric, 754
+id, numeric, 283
+out,worked,hours, numeric, 1,date, date, 3/29/1989
+id, numeric, 140
+id, numeric, 1361
+in,worked,hours, numeric, 8,date, date, 8/19/1992
+id, numeric, 1061
+id, numeric, 1318
+out,battled,hours, numeric, 6,date, date, 5/10/1995
+id, numeric, 559
+id, numeric, 275
+out,worked,hours, numeric, 4,date, date, 3/13/1997
+id, numeric, 66
+id, numeric, 475
+out,battled,hours, numeric, 5,date, date, 5/18/1996
+id, numeric, 882
+id, numeric, 301
+out,battled,hours, numeric, 6,date, date, 10/24/1999
+id, numeric, 83
+id, numeric, 352
+out,worked,hours, numeric, 1,date, date, 6/18/2013
+id, numeric, 1187
+id, numeric, 1108
+in,worked,hours, numeric, 4,date, date, 8/29/1996
+id, numeric, 33
+id, numeric, 590
+out,worked,hours, numeric, 1,date, date, 5/21/1992
+id, numeric, 109
+id, numeric, 1188
+out,battled,hours, numeric, 4,date, date, 12/29/1995
+id, numeric, 513
+id, numeric, 1217
+out,worked,hours, numeric, 1,date, date, 9/11/1995
+id, numeric, 1475
+id, numeric, 1387
+out,battled,hours, numeric, 7,date, date, 7/15/1989
+id, numeric, 760
+id, numeric, 517
+out,worked,hours, numeric, 8,date, date, 3/24/2011
+id, numeric, 1115
+id, numeric, 417
+in,battled,hours, numeric, 8,date, date, 3/31/1990
+id, numeric, 1103
+id, numeric, 605
+out,worked,hours, numeric, 7,date, date, 9/16/2002
+id, numeric, 649
+id, numeric, 1232
+out,battled,hours, numeric, 4,date, date, 4/17/1993
+id, numeric, 300
+id, numeric, 762
+in,battled,hours, numeric, 2,date, date, 7/18/1988
+id, numeric, 737
+id, numeric, 340
+in,worked,hours, numeric, 8,date, date, 10/31/2013
+id, numeric, 897
+id, numeric, 1286
+in,worked,hours, numeric, 2,date, date, 1/1/2002
+id, numeric, 803
+id, numeric, 940
+out,battled,hours, numeric, 4,date, date, 11/26/1995
+id, numeric, 104
+id, numeric, 169
+out,worked,hours, numeric, 7,date, date, 11/18/2015
+id, numeric, 164
+id, numeric, 1451
+out,battled,hours, numeric, 8,date, date, 4/22/2007
+id, numeric, 750
+id, numeric, 855
+out,battled,hours, numeric, 8,date, date, 6/25/1982
+id, numeric, 1129
+id, numeric, 637
+out,battled,hours, numeric, 4,date, date, 11/23/2009
+id, numeric, 1172
+id, numeric, 540
+in,battled,hours, numeric, 1,date, date, 7/25/2012
+id, numeric, 1279
+id, numeric, 673
+out,battled,hours, numeric, 7,date, date, 5/28/2006
+id, numeric, 714
+id, numeric, 560
+in,battled,hours, numeric, 7,date, date, 9/25/1985
+id, numeric, 473
+id, numeric, 988
+in,worked,hours, numeric, 8,date, date, 8/8/2015
+id, numeric, 316
+id, numeric, 1160
+out,battled,hours, numeric, 1,date, date, 4/19/2003
+id, numeric, 739
+id, numeric, 1120
+in,battled,hours, numeric, 4,date, date, 5/24/2007
+id, numeric, 405
+id, numeric, 142
+in,battled,hours, numeric, 5,date, date, 5/29/2011
+id, numeric, 1410
+id, numeric, 859
+out,worked,hours, numeric, 8,date, date, 12/2/2005
+id, numeric, 717
+id, numeric, 218
+out,worked,hours, numeric, 7,date, date, 3/2/1980
+id, numeric, 633
+id, numeric, 736
+in,battled,hours, numeric, 3,date, date, 5/23/2002
+id, numeric, 98
+id, numeric, 907
+out,battled,hours, numeric, 8,date, date, 12/2/1990
+id, numeric, 813
+id, numeric, 1154
+in,battled,hours, numeric, 8,date, date, 10/8/2006
+id, numeric, 995
+id, numeric, 1179
+out,worked,hours, numeric, 5,date, date, 9/23/1990
+id, numeric, 834
+id, numeric, 442
+out,battled,hours, numeric, 8,date, date, 6/29/2015
+id, numeric, 1105
+id, numeric, 373
+out,worked,hours, numeric, 4,date, date, 1/2/2003
+id, numeric, 359
+id, numeric, 779
+out,worked,hours, numeric, 3,date, date, 11/7/2015
+id, numeric, 387
+id, numeric, 1284
+out,worked,hours, numeric, 1,date, date, 8/24/2015
+id, numeric, 708
+id, numeric, 1247
+out,battled,hours, numeric, 6,date, date, 7/20/2007
+id, numeric, 579
+id, numeric, 297
+out,battled,hours, numeric, 5,date, date, 2/14/2006
+id, numeric, 7
+id, numeric, 904
+out,battled,hours, numeric, 8,date, date, 8/30/2003
+id, numeric, 447
+id, numeric, 42
+out,worked,hours, numeric, 6,date, date, 5/29/2008
+id, numeric, 982
+id, numeric, 1183
+in,battled,hours, numeric, 3,date, date, 12/15/1993
+id, numeric, 1218
+id, numeric, 207
+out,worked,hours, numeric, 4,date, date, 9/3/2007
+id, numeric, 660
+id, numeric, 734
+out,battled,hours, numeric, 7,date, date, 8/25/2001
+id, numeric, 180
+id, numeric, 720
+out,battled,hours, numeric, 2,date, date, 4/22/1981
+id, numeric, 191
+id, numeric, 948
+in,worked,hours, numeric, 4,date, date, 9/4/1987
+id, numeric, 173
+id, numeric, 928
+in,worked,hours, numeric, 3,date, date, 11/8/1997
+id, numeric, 695
+id, numeric, 355
+out,worked,hours, numeric, 6,date, date, 6/18/1990
+id, numeric, 764
+id, numeric, 30
+out,worked,hours, numeric, 5,date, date, 12/18/1996
+id, numeric, 302
+id, numeric, 1038
+out,worked,hours, numeric, 2,date, date, 8/17/2015
+id, numeric, 1165
+id, numeric, 874
+in,battled,hours, numeric, 1,date, date, 12/3/2006
+id, numeric, 226
+id, numeric, 291
+out,battled,hours, numeric, 6,date, date, 5/20/1992
+id, numeric, 498
+id, numeric, 765
+out,battled,hours, numeric, 7,date, date, 4/9/1980
+id, numeric, 1353
+id, numeric, 1244
+out,battled,hours, numeric, 3,date, date, 10/28/2002
+id, numeric, 429
+id, numeric, 1031
+out,battled,hours, numeric, 1,date, date, 12/24/1997
+id, numeric, 50
+id, numeric, 1399
+out,worked,hours, numeric, 2,date, date, 2/4/1981
+id, numeric, 182
+id, numeric, 408
+out,worked,hours, numeric, 2,date, date, 9/16/1989
+id, numeric, 1079
+id, numeric, 1076
+out,battled,hours, numeric, 8,date, date, 3/19/1993
+id, numeric, 631
+id, numeric, 1259
+in,battled,hours, numeric, 1,date, date, 8/14/2014
+id, numeric, 824
+id, numeric, 1065
+in,battled,hours, numeric, 3,date, date, 6/24/2000
+id, numeric, 607
+id, numeric, 1189
+in,worked,hours, numeric, 7,date, date, 7/10/1989
+id, numeric, 452
+id, numeric, 635
+in,worked,hours, numeric, 8,date, date, 2/18/1999
+id, numeric, 1028
+id, numeric, 1482
+out,battled,hours, numeric, 3,date, date, 12/1/2005
+id, numeric, 680
+id, numeric, 1420
+in,worked,hours, numeric, 7,date, date, 3/20/1980
+id, numeric, 1122
+id, numeric, 412
+out,battled,hours, numeric, 1,date, date, 1/29/1997
+id, numeric, 1064
+id, numeric, 801
+out,worked,hours, numeric, 1,date, date, 12/20/1982
+id, numeric, 100
+id, numeric, 858
+out,worked,hours, numeric, 2,date, date, 3/9/1991
+id, numeric, 974
+id, numeric, 895
+out,worked,hours, numeric, 7,date, date, 9/17/2006
+id, numeric, 1483
+id, numeric, 362
+in,worked,hours, numeric, 3,date, date, 2/13/1991
+id, numeric, 867
+id, numeric, 893
+out,battled,hours, numeric, 5,date, date, 3/28/1993
+id, numeric, 157
+id, numeric, 1141
+out,battled,hours, numeric, 1,date, date, 6/15/1995
+id, numeric, 73
+id, numeric, 139
+in,worked,hours, numeric, 5,date, date, 5/2/2013
+id, numeric, 1100
+id, numeric, 1052
+out,battled,hours, numeric, 2,date, date, 12/31/2010
+id, numeric, 34
+id, numeric, 16
+in,battled,hours, numeric, 2,date, date, 7/16/1983
+id, numeric, 1407
+id, numeric, 664
+out,battled,hours, numeric, 7,date, date, 10/23/2000
+id, numeric, 679
+id, numeric, 761
+out,worked,hours, numeric, 5,date, date, 12/18/2003
+id, numeric, 809
+id, numeric, 91
+in,battled,hours, numeric, 2,date, date, 7/17/2007
+id, numeric, 629
+id, numeric, 814
+out,battled,hours, numeric, 2,date, date, 6/17/1993
+id, numeric, 1307
+id, numeric, 1441
+out,worked,hours, numeric, 3,date, date, 11/17/2013
+id, numeric, 769
+id, numeric, 438
+out,battled,hours, numeric, 5,date, date, 12/28/2015
+id, numeric, 1272
+id, numeric, 383
+in,worked,hours, numeric, 6,date, date, 4/25/2009
+id, numeric, 1016
+id, numeric, 53
+in,worked,hours, numeric, 3,date, date, 7/3/2004
+id, numeric, 856
+id, numeric, 732
+out,battled,hours, numeric, 7,date, date, 3/1/1988
+id, numeric, 382
+id, numeric, 776
+out,worked,hours, numeric, 8,date, date, 4/2/1992
+id, numeric, 609
+id, numeric, 780
+in,battled,hours, numeric, 8,date, date, 9/27/2002
+id, numeric, 1372
+id, numeric, 1445
+out,battled,hours, numeric, 8,date, date, 6/13/1985
+id, numeric, 437
+id, numeric, 1070
+out,battled,hours, numeric, 2,date, date, 8/12/1985
+id, numeric, 51
+id, numeric, 494
+in,battled,hours, numeric, 3,date, date, 12/15/2011
+id, numeric, 719
+id, numeric, 1062
+out,worked,hours, numeric, 3,date, date, 4/29/1996
+id, numeric, 342
+id, numeric, 239
+out,battled,hours, numeric, 2,date, date, 9/24/2004
+id, numeric, 554
+id, numeric, 12
+out,worked,hours, numeric, 8,date, date, 12/26/2014
+id, numeric, 364
+id, numeric, 1219
+in,battled,hours, numeric, 1,date, date, 1/31/2002
+id, numeric, 1040
+id, numeric, 287
+out,worked,hours, numeric, 5,date, date, 6/26/2013
+id, numeric, 1148
+id, numeric, 1223
+in,worked,hours, numeric, 6,date, date, 9/29/2015
+id, numeric, 1101
+id, numeric, 329
+in,worked,hours, numeric, 3,date, date, 11/12/2007
+id, numeric, 247
+id, numeric, 1207
+out,battled,hours, numeric, 3,date, date, 1/26/1982
+id, numeric, 440
+id, numeric, 926
+out,battled,hours, numeric, 5,date, date, 12/26/1993
+id, numeric, 1199
+id, numeric, 958
+out,battled,hours, numeric, 7,date, date, 12/3/2014
+id, numeric, 1416
+id, numeric, 1463
+out,worked,hours, numeric, 1,date, date, 8/28/1985
+id, numeric, 916
+id, numeric, 347
+out,worked,hours, numeric, 7,date, date, 4/21/1997
+id, numeric, 1094
+id, numeric, 249
+in,battled,hours, numeric, 4,date, date, 6/23/1991
+id, numeric, 1469
+id, numeric, 1169
+in,battled,hours, numeric, 7,date, date, 8/14/1989
+id, numeric, 415
+id, numeric, 1081
+in,worked,hours, numeric, 4,date, date, 4/19/1983
+id, numeric, 167
+id, numeric, 767
+out,worked,hours, numeric, 3,date, date, 5/12/2005
+id, numeric, 306
+id, numeric, 431
+out,battled,hours, numeric, 8,date, date, 11/15/2014
+id, numeric, 1039
+id, numeric, 784
+out,battled,hours, numeric, 6,date, date, 7/7/2001
+id, numeric, 652
+id, numeric, 232
+out,worked,hours, numeric, 7,date, date, 10/3/2015
+id, numeric, 1026
+id, numeric, 973
+in,battled,hours, numeric, 5,date, date, 2/16/1998
+id, numeric, 293
+id, numeric, 1260
+out,worked,hours, numeric, 2,date, date, 2/2/1992
+id, numeric, 63
+id, numeric, 193
+in,battled,hours, numeric, 6,date, date, 6/7/2000
+id, numeric, 909
+id, numeric, 97
+out,worked,hours, numeric, 7,date, date, 4/1/1995
+id, numeric, 1268
+id, numeric, 738
+out,battled,hours, numeric, 8,date, date, 11/20/2010
+id, numeric, 1195
+id, numeric, 281
+out,battled,hours, numeric, 5,date, date, 6/5/2004
+id, numeric, 255
+id, numeric, 159
+in,battled,hours, numeric, 3,date, date, 3/23/1993
+id, numeric, 154
+id, numeric, 1473
+out,battled,hours, numeric, 3,date, date, 3/16/2011
+id, numeric, 538
+id, numeric, 1149
+out,worked,hours, numeric, 7,date, date, 5/5/2006
+id, numeric, 4
+id, numeric, 1201
+out,worked,hours, numeric, 7,date, date, 1/3/2005
+id, numeric, 1460
+id, numeric, 425
+out,battled,hours, numeric, 8,date, date, 5/8/2009
+id, numeric, 1380
+id, numeric, 1304
+out,battled,hours, numeric, 6,date, date, 1/26/2010
+id, numeric, 998
+id, numeric, 826
+out,battled,hours, numeric, 3,date, date, 9/18/2004
+id, numeric, 518
+id, numeric, 78
+out,battled,hours, numeric, 3,date, date, 2/8/2002
+id, numeric, 1337
+id, numeric, 1365
+in,worked,hours, numeric, 6,date, date, 9/6/1989
+id, numeric, 942
+id, numeric, 1226
+out,worked,hours, numeric, 8,date, date, 8/21/2014
+id, numeric, 1377
+id, numeric, 71
+out,worked,hours, numeric, 7,date, date, 10/14/2009
+id, numeric, 689
+id, numeric, 335
+in,battled,hours, numeric, 6,date, date, 12/26/2000
+id, numeric, 1110
+id, numeric, 1359
+out,worked,hours, numeric, 3,date, date, 7/5/2006
+id, numeric, 28
+id, numeric, 1313
+out,worked,hours, numeric, 4,date, date, 2/7/1991
+id, numeric, 1390
+id, numeric, 1360
+out,battled,hours, numeric, 2,date, date, 10/9/1986
+id, numeric, 797
+id, numeric, 773
+out,battled,hours, numeric, 6,date, date, 10/1/2005
+id, numeric, 1009
+id, numeric, 1237
+in,battled,hours, numeric, 7,date, date, 1/28/2009
+id, numeric, 528
+id, numeric, 44
+out,battled,hours, numeric, 8,date, date, 9/27/1980
+id, numeric, 725
+id, numeric, 933
+out,battled,hours, numeric, 4,date, date, 10/11/1982
+id, numeric, 126
+id, numeric, 955
+in,battled,hours, numeric, 3,date, date, 5/5/2004
+id, numeric, 508
+id, numeric, 413
+out,worked,hours, numeric, 1,date, date, 7/9/1991
+id, numeric, 1485
+id, numeric, 208
+in,worked,hours, numeric, 8,date, date, 4/28/2015
+id, numeric, 876
+id, numeric, 915
+out,battled,hours, numeric, 1,date, date, 1/7/1990
+id, numeric, 658
+id, numeric, 831
+in,battled,hours, numeric, 3,date, date, 1/13/1994
+id, numeric, 624
+id, numeric, 1163
+in,battled,hours, numeric, 8,date, date, 12/18/2014
+id, numeric, 1338
+id, numeric, 177
+out,worked,hours, numeric, 1,date, date, 9/20/1994
+id, numeric, 404
+id, numeric, 54
+out,worked,hours, numeric, 7,date, date, 6/2/2002
+id, numeric, 327
+id, numeric, 1477
+out,worked,hours, numeric, 6,date, date, 2/25/1981
+id, numeric, 1145
+id, numeric, 1326
+in,worked,hours, numeric, 1,date, date, 8/27/1996
+id, numeric, 62
+id, numeric, 19
+out,worked,hours, numeric, 2,date, date, 2/10/2013
+id, numeric, 1027
+id, numeric, 1328
+in,battled,hours, numeric, 5,date, date, 10/2/2011
+id, numeric, 1144
+id, numeric, 166
+out,worked,hours, numeric, 6,date, date, 8/20/1984
+id, numeric, 701
+id, numeric, 1341
+out,worked,hours, numeric, 1,date, date, 11/6/2009
+id, numeric, 1006
+id, numeric, 1344
+in,worked,hours, numeric, 1,date, date, 12/2/2007
+id, numeric, 1011
+id, numeric, 594
+in,worked,hours, numeric, 8,date, date, 10/26/1985
+id, numeric, 1092
+id, numeric, 357
+out,worked,hours, numeric, 7,date, date, 9/6/1981
+id, numeric, 887
+id, numeric, 694
+out,worked,hours, numeric, 6,date, date, 11/22/1983
+id, numeric, 850
+id, numeric, 842
+in,worked,hours, numeric, 7,date, date, 11/19/2007
+id, numeric, 280
+id, numeric, 1471
+in,battled,hours, numeric, 7,date, date, 1/8/1983
+id, numeric, 606
+id, numeric, 370
+in,battled,hours, numeric, 2,date, date, 5/13/2006
+id, numeric, 1157
+id, numeric, 1454
+out,battled,hours, numeric, 7,date, date, 5/25/1990
+id, numeric, 1330
+id, numeric, 1447
+out,battled,hours, numeric, 4,date, date, 3/24/1998
+id, numeric, 183
+id, numeric, 542
+out,worked,hours, numeric, 6,date, date, 1/13/1990
+id, numeric, 322
+id, numeric, 925
+out,worked,hours, numeric, 1,date, date, 11/15/2000
+id, numeric, 1213
+id, numeric, 399
+out,battled,hours, numeric, 6,date, date, 4/17/1996
+id, numeric, 530
+id, numeric, 455
+out,worked,hours, numeric, 6,date, date, 12/6/1984
+id, numeric, 572
+id, numeric, 593
+out,battled,hours, numeric, 1,date, date, 1/30/2013
+id, numeric, 1018
+id, numeric, 1288
+out,battled,hours, numeric, 4,date, date, 9/12/2013
+id, numeric, 211
+id, numeric, 477
+out,battled,hours, numeric, 5,date, date, 10/17/1996
+id, numeric, 934
+id, numeric, 1306
+out,battled,hours, numeric, 1,date, date, 5/26/2001
+id, numeric, 1073
+id, numeric, 959
+out,battled,hours, numeric, 6,date, date, 12/12/1992
+id, numeric, 866
+id, numeric, 946
+out,battled,hours, numeric, 3,date, date, 8/12/1994
+id, numeric, 1121
+id, numeric, 1369
+out,battled,hours, numeric, 2,date, date, 4/3/1992
+id, numeric, 1352
+id, numeric, 1200
+out,worked,hours, numeric, 7,date, date, 8/25/1987
+id, numeric, 971
+id, numeric, 3
+out,worked,hours, numeric, 8,date, date, 12/28/2006
+id, numeric, 38
+id, numeric, 1277
+out,battled,hours, numeric, 6,date, date, 9/30/2010
+id, numeric, 945
+id, numeric, 124
+out,battled,hours, numeric, 2,date, date, 7/5/2003
+id, numeric, 1220
+id, numeric, 656
+out,worked,hours, numeric, 3,date, date, 6/27/2007
+id, numeric, 1371
+id, numeric, 1086
+out,battled,hours, numeric, 2,date, date, 2/25/1999
+id, numeric, 406
+id, numeric, 426
+in,worked,hours, numeric, 4,date, date, 9/30/2011
+id, numeric, 687
+id, numeric, 460
+out,battled,hours, numeric, 6,date, date, 2/16/2011
+id, numeric, 214
+id, numeric, 1050
+in,worked,hours, numeric, 8,date, date, 5/17/1995
+id, numeric, 782
+id, numeric, 723
+out,worked,hours, numeric, 3,date, date, 7/26/2006
+id, numeric, 1132
+id, numeric, 790
+out,battled,hours, numeric, 2,date, date, 12/1/1980
+id, numeric, 627
+id, numeric, 81
+out,worked,hours, numeric, 6,date, date, 10/24/1983
+id, numeric, 1126
+id, numeric, 1347
+out,battled,hours, numeric, 2,date, date, 10/31/1981
+id, numeric, 478
+id, numeric, 811
+out,worked,hours, numeric, 8,date, date, 10/30/2002
+id, numeric, 1045
+id, numeric, 829
+out,worked,hours, numeric, 2,date, date, 6/16/1994
+id, numeric, 1356
+id, numeric, 755
+in,worked,hours, numeric, 4,date, date, 4/14/1987
+id, numeric, 899
+id, numeric, 1476
+out,worked,hours, numeric, 2,date, date, 9/23/1989
+id, numeric, 639
+id, numeric, 137
+out,worked,hours, numeric, 7,date, date, 4/11/2000
+id, numeric, 461
+id, numeric, 330
+out,battled,hours, numeric, 3,date, date, 8/4/1983
+id, numeric, 743
+id, numeric, 225
+out,worked,hours, numeric, 8,date, date, 5/20/2006
+id, numeric, 1419
+id, numeric, 678
+in,worked,hours, numeric, 2,date, date, 11/11/2011
+id, numeric, 131
+id, numeric, 64
+in,worked,hours, numeric, 4,date, date, 5/19/2005
+id, numeric, 951
+id, numeric, 1431
+out,battled,hours, numeric, 7,date, date, 3/25/1994
+id, numeric, 650
+id, numeric, 348
+out,battled,hours, numeric, 7,date, date, 9/5/1991
+id, numeric, 371
+id, numeric, 1426
+out,battled,hours, numeric, 3,date, date, 11/28/1993
+id, numeric, 501
+id, numeric, 1215
+in,battled,hours, numeric, 5,date, date, 8/3/2013
+id, numeric, 587
+id, numeric, 930
+out,battled,hours, numeric, 7,date, date, 2/16/1993
+id, numeric, 1010
+id, numeric, 84
+out,worked,hours, numeric, 5,date, date, 4/25/1988
+id, numeric, 229
+id, numeric, 1119
+out,battled,hours, numeric, 7,date, date, 10/22/2000
+id, numeric, 569
+id, numeric, 1265
+out,worked,hours, numeric, 7,date, date, 3/30/2001
+id, numeric, 1174
+id, numeric, 41
+in,battled,hours, numeric, 8,date, date, 4/11/2015
+id, numeric, 400
+id, numeric, 547
+out,worked,hours, numeric, 1,date, date, 5/27/1990
+id, numeric, 1333
+id, numeric, 778
+out,battled,hours, numeric, 2,date, date, 1/26/1981
+id, numeric, 936
+id, numeric, 965
+out,battled,hours, numeric, 2,date, date, 10/24/1997
+id, numeric, 1032
+id, numeric, 321
+out,battled,hours, numeric, 1,date, date, 4/3/2015
+id, numeric, 484
+id, numeric, 1209
+out,battled,hours, numeric, 2,date, date, 11/16/2015
+id, numeric, 570
+id, numeric, 1167
+out,worked,hours, numeric, 2,date, date, 3/9/2004
+id, numeric, 1003
+id, numeric, 1287
+out,battled,hours, numeric, 7,date, date, 8/1/1980
+id, numeric, 32
+id, numeric, 463
+out,worked,hours, numeric, 7,date, date, 4/29/1984
+id, numeric, 18
+id, numeric, 970
+in,battled,hours, numeric, 4,date, date, 3/9/2006
+id, numeric, 1246
+id, numeric, 879
+out,battled,hours, numeric, 8,date, date, 8/10/2005
+id, numeric, 1467
+id, numeric, 1293
+out,worked,hours, numeric, 1,date, date, 5/4/1991
+id, numeric, 575
+id, numeric, 1063
+out,battled,hours, numeric, 8,date, date, 10/1/2000
+id, numeric, 237
+id, numeric, 1358
+out,battled,hours, numeric, 5,date, date, 2/11/2016
+id, numeric, 403
+id, numeric, 807
+out,battled,hours, numeric, 8,date, date, 3/15/1988
+id, numeric, 1230
+id, numeric, 278
+out,battled,hours, numeric, 1,date, date, 9/5/2003
+id, numeric, 800
+id, numeric, 848
+in,worked,hours, numeric, 2,date, date, 11/10/2004
+id, numeric, 82
+id, numeric, 987
+in,battled,hours, numeric, 1,date, date, 12/2/1986
+id, numeric, 505
+id, numeric, 519
+out,battled,hours, numeric, 8,date, date, 11/8/2008
+id, numeric, 1127
+id, numeric, 532
+out,battled,hours, numeric, 1,date, date, 5/30/1986
+id, numeric, 377
+id, numeric, 666
+out,worked,hours, numeric, 4,date, date, 10/25/2007
+id, numeric, 1305
+id, numeric, 1401
+in,battled,hours, numeric, 3,date, date, 6/7/2011
+id, numeric, 420
+id, numeric, 618
+out,worked,hours, numeric, 7,date, date, 2/24/1992
+id, numeric, 29
+id, numeric, 22
+in,battled,hours, numeric, 2,date, date, 2/17/1997
+id, numeric, 1044
+id, numeric, 1140
+out,battled,hours, numeric, 4,date, date, 5/19/2002
+id, numeric, 268
+id, numeric, 1343
+in,battled,hours, numeric, 8,date, date, 11/26/1986
+id, numeric, 997
+id, numeric, 852
+out,worked,hours, numeric, 6,date, date, 12/4/2001
+id, numeric, 1021
+id, numeric, 870
+out,battled,hours, numeric, 8,date, date, 12/3/2005
+id, numeric, 1114
+id, numeric, 394
+out,battled,hours, numeric, 4,date, date, 10/6/2011
+id, numeric, 116
+id, numeric, 721
+out,battled,hours, numeric, 1,date, date, 2/9/1991
+id, numeric, 1014
+id, numeric, 5
+out,battled,hours, numeric, 5,date, date, 6/15/1999
+id, numeric, 1301
+id, numeric, 980
+out,battled,hours, numeric, 4,date, date, 11/18/2012
+id, numeric, 1292
+id, numeric, 599
+out,battled,hours, numeric, 2,date, date, 5/28/1998
+id, numeric, 1243
+id, numeric, 179
+out,worked,hours, numeric, 7,date, date, 11/25/2006
+id, numeric, 509
+id, numeric, 1072
+in,battled,hours, numeric, 7,date, date, 7/1/2004
+id, numeric, 786
+id, numeric, 890
+out,worked,hours, numeric, 5,date, date, 1/9/2000
+id, numeric, 1388
+id, numeric, 1171
+in,worked,hours, numeric, 5,date, date, 10/29/2004
+id, numeric, 144
+id, numeric, 1098
+in,battled,hours, numeric, 6,date, date, 11/20/1989
+id, numeric, 1433
+id, numeric, 72
+out,worked,hours, numeric, 5,date, date, 12/22/1986
+id, numeric, 1161
+id, numeric, 644
+out,battled,hours, numeric, 7,date, date, 7/17/1987
+id, numeric, 827
+id, numeric, 230
+in,worked,hours, numeric, 7,date, date, 3/23/1995
+id, numeric, 469
+id, numeric, 1479
+in,worked,hours, numeric, 1,date, date, 7/9/1991
+id, numeric, 1340
+id, numeric, 1294
+out,worked,hours, numeric, 1,date, date, 7/31/1987
+id, numeric, 206
+id, numeric, 956
+out,battled,hours, numeric, 5,date, date, 7/5/2006
+id, numeric, 1478
+id, numeric, 674
+out,battled,hours, numeric, 3,date, date, 1/5/1992
+id, numeric, 336
+id, numeric, 777
+in,battled,hours, numeric, 1,date, date, 8/2/1981
+id, numeric, 149
+id, numeric, 957
+in,worked,hours, numeric, 4,date, date, 1/23/1983
+id, numeric, 1047
+id, numeric, 806
+out,worked,hours, numeric, 4,date, date, 11/6/1999
+id, numeric, 878
+id, numeric, 961
+out,battled,hours, numeric, 2,date, date, 11/2/2005
+id, numeric, 1222
+id, numeric, 160
+out,battled,hours, numeric, 3,date, date, 3/2/2008
+id, numeric, 496
+id, numeric, 966
+out,worked,hours, numeric, 8,date, date, 11/27/1986
+id, numeric, 260
+id, numeric, 993
+in,battled,hours, numeric, 8,date, date, 12/21/1991
+id, numeric, 541
+id, numeric, 1314
+out,battled,hours, numeric, 2,date, date, 7/16/2009
+id, numeric, 369
+id, numeric, 1193
+in,worked,hours, numeric, 3,date, date, 8/20/2007
+id, numeric, 418
+id, numeric, 584
+in,battled,hours, numeric, 6,date, date, 11/3/1994
+id, numeric, 1143
+id, numeric, 435
+out,worked,hours, numeric, 7,date, date, 9/20/1995
+id, numeric, 746
+id, numeric, 514
+in,worked,hours, numeric, 8,date, date, 2/22/1993
+id, numeric, 512
+id, numeric, 1036
+out,worked,hours, numeric, 8,date, date, 7/17/1982
+id, numeric, 1060
+id, numeric, 1291
+out,worked,hours, numeric, 8,date, date, 7/5/2001
+id, numeric, 789
+id, numeric, 1329
+out,worked,hours, numeric, 4,date, date, 1/30/1997
+id, numeric, 1384
+id, numeric, 1412
+in,battled,hours, numeric, 5,date, date, 1/11/2016
+id, numeric, 935
+id, numeric, 181
+out,battled,hours, numeric, 1,date, date, 10/18/1981
+id, numeric, 52
+id, numeric, 640
+in,worked,hours, numeric, 8,date, date, 4/5/1989
+id, numeric, 45
+id, numeric, 1166
+out,battled,hours, numeric, 5,date, date, 3/3/1980
+id, numeric, 87
+id, numeric, 1345
+out,worked,hours, numeric, 1,date, date, 6/16/2005
+id, numeric, 1192
+id, numeric, 1443
+out,battled,hours, numeric, 5,date, date, 7/19/1992
+id, numeric, 393
+id, numeric, 1446
+out,battled,hours, numeric, 8,date, date, 5/26/2002
+id, numeric, 1449
+id, numeric, 389
+in,worked,hours, numeric, 7,date, date, 4/12/2003
+id, numeric, 1245
+id, numeric, 1266
+in,battled,hours, numeric, 1,date, date, 10/27/1996
+id, numeric, 1474
+id, numeric, 96
+out,battled,hours, numeric, 7,date, date, 9/24/2011
+id, numeric, 1386
+id, numeric, 1429
+out,battled,hours, numeric, 2,date, date, 11/18/1991
+id, numeric, 716
+id, numeric, 108
+out,battled,hours, numeric, 3,date, date, 4/15/1989
+id, numeric, 818
+id, numeric, 1235
+out,battled,hours, numeric, 3,date, date, 1/18/2000
+id, numeric, 1024
+id, numeric, 128
+out,battled,hours, numeric, 4,date, date, 6/8/1989
+id, numeric, 969
+id, numeric, 20
+in,worked,hours, numeric, 6,date, date, 11/16/2008
+id, numeric, 1099
+id, numeric, 1228
+out,worked,hours, numeric, 2,date, date, 5/22/1990
+id, numeric, 603
+id, numeric, 949
+out,worked,hours, numeric, 7,date, date, 1/12/1990
+id, numeric, 693
+id, numeric, 1020
+out,battled,hours, numeric, 7,date, date, 12/1/2004
+id, numeric, 241
+id, numeric, 122
+out,battled,hours, numeric, 8,date, date, 11/24/1981
+id, numeric, 210
+id, numeric, 1214
+out,worked,hours, numeric, 6,date, date, 5/14/1981
+id, numeric, 338
+id, numeric, 1034
+out,worked,hours, numeric, 4,date, date, 2/29/1984
+id, numeric, 1470
+id, numeric, 269
+in,battled,hours, numeric, 8,date, date, 7/30/2012
+id, numeric, 863
+id, numeric, 59
+out,worked,hours, numeric, 5,date, date, 8/31/2005
+id, numeric, 589
+id, numeric, 869
+out,worked,hours, numeric, 6,date, date, 4/23/1997
+id, numeric, 844
+id, numeric, 591
+out,battled,hours, numeric, 5,date, date, 8/21/1983
+id, numeric, 1334
+id, numeric, 621
+out,worked,hours, numeric, 6,date, date, 1/15/2001
+id, numeric, 634
+id, numeric, 919
+in,battled,hours, numeric, 4,date, date, 7/29/2003
+id, numeric, 188
+id, numeric, 1104
+out,worked,hours, numeric, 6,date, date, 9/13/1990
+id, numeric, 119
+id, numeric, 562
+out,worked,hours, numeric, 4,date, date, 12/7/1986
+id, numeric, 433
+id, numeric, 186
+out,battled,hours, numeric, 1,date, date, 6/26/1992
+id, numeric, 482
+id, numeric, 1137
+out,battled,hours, numeric, 4,date, date, 2/20/1994
+id, numeric, 924
+id, numeric, 1138
+in,battled,hours, numeric, 2,date, date, 3/9/1989
+id, numeric, 709
+id, numeric, 838
+out,battled,hours, numeric, 2,date, date, 1/8/1982
+id, numeric, 132
+id, numeric, 1005
+in,battled,hours, numeric, 1,date, date, 8/4/2011
+id, numeric, 1083
+id, numeric, 597
+in,worked,hours, numeric, 2,date, date, 4/19/1981
+id, numeric, 290
+id, numeric, 804
+out,battled,hours, numeric, 6,date, date, 10/7/2010
+id, numeric, 628
+id, numeric, 26
+in,worked,hours, numeric, 6,date, date, 4/22/1999
+id, numeric, 843
+id, numeric, 76
+in,worked,hours, numeric, 2,date, date, 2/20/1999
+id, numeric, 638
+id, numeric, 165
+out,worked,hours, numeric, 2,date, date, 5/3/2006
+id, numeric, 1466
+id, numeric, 722
+out,battled,hours, numeric, 3,date, date, 7/11/1987
+id, numeric, 1182
+id, numeric, 267
+in,battled,hours, numeric, 1,date, date, 6/5/2004
+id, numeric, 1113
+id, numeric, 1280
+out,worked,hours, numeric, 2,date, date, 7/1/2000
+id, numeric, 217
+id, numeric, 810
+out,battled,hours, numeric, 3,date, date, 6/7/1994
+id, numeric, 963
+id, numeric, 1053
+out,battled,hours, numeric, 2,date, date, 8/13/2002
+id, numeric, 871
+id, numeric, 386
+out,battled,hours, numeric, 8,date, date, 6/30/2008
+id, numeric, 1382
+id, numeric, 343
+in,worked,hours, numeric, 4,date, date, 12/26/2008
+id, numeric, 1240
+id, numeric, 324
+in,battled,hours, numeric, 7,date, date, 10/31/1980
+id, numeric, 231
+id, numeric, 25
+in,battled,hours, numeric, 2,date, date, 12/4/1980
+id, numeric, 328
+id, numeric, 1128
+out,worked,hours, numeric, 1,date, date, 3/15/1985
+id, numeric, 1102
+id, numeric, 1007
+out,battled,hours, numeric, 4,date, date, 4/30/1985
+id, numeric, 130
+id, numeric, 646
+in,worked,hours, numeric, 6,date, date, 5/18/2011
+id, numeric, 107
+id, numeric, 1002
+out,worked,hours, numeric, 1,date, date, 8/1/1984
+id, numeric, 1462
+id, numeric, 134
+in,worked,hours, numeric, 3,date, date, 12/3/1981
+id, numeric, 672
+id, numeric, 1091
+out,battled,hours, numeric, 3,date, date, 8/21/2009
+id, numeric, 522
+id, numeric, 700
+in,worked,hours, numeric, 4,date, date, 6/18/2005
+id, numeric, 668
+id, numeric, 1376
+out,battled,hours, numeric, 5,date, date, 6/27/1981
+id, numeric, 1170
+id, numeric, 992
+out,battled,hours, numeric, 5,date, date, 3/19/2004
+id, numeric, 392
+id, numeric, 1123
+out,battled,hours, numeric, 5,date, date, 3/23/2013
+id, numeric, 92
+id, numeric, 527
+out,worked,hours, numeric, 5,date, date, 4/4/1986
+id, numeric, 1210
+id, numeric, 922
+in,battled,hours, numeric, 7,date, date, 4/29/2013
+id, numeric, 1269
+id, numeric, 176
+in,worked,hours, numeric, 5,date, date, 9/25/2005
+id, numeric, 490
+id, numeric, 886
+out,battled,hours, numeric, 8,date, date, 7/20/1984
+id, numeric, 1008
+id, numeric, 1239
+in,worked,hours, numeric, 8,date, date, 7/14/1999
+id, numeric, 314
+id, numeric, 363
+out,battled,hours, numeric, 1,date, date, 6/22/2013
+id, numeric, 1090
+id, numeric, 563
+out,battled,hours, numeric, 5,date, date, 7/16/1981
+id, numeric, 77
+id, numeric, 75
+in,worked,hours, numeric, 8,date, date, 10/20/1986
+id, numeric, 202
+id, numeric, 115
+in,worked,hours, numeric, 5,date, date, 7/28/2014
+id, numeric, 745
+id, numeric, 10
+out,battled,hours, numeric, 8,date, date, 9/3/1992
+id, numeric, 136
+id, numeric, 849
+out,worked,hours, numeric, 1,date, date, 2/26/1996
+id, numeric, 914
+id, numeric, 585
+out,battled,hours, numeric, 1,date, date, 4/24/1983
+id, numeric, 550
+id, numeric, 68
+out,battled,hours, numeric, 3,date, date, 5/1/1984
+id, numeric, 105
+id, numeric, 1017
+out,battled,hours, numeric, 1,date, date, 2/1/1983
+id, numeric, 1208
+id, numeric, 854
+in,battled,hours, numeric, 2,date, date, 8/18/1994
+id, numeric, 56
+id, numeric, 552
+out,worked,hours, numeric, 2,date, date, 5/12/2002
+id, numeric, 1229
+id, numeric, 654
+out,battled,hours, numeric, 8,date, date, 12/5/2005
+id, numeric, 1299
+id, numeric, 1405
+in,battled,hours, numeric, 1,date, date, 6/26/1991
+id, numeric, 69
+id, numeric, 707
+out,worked,hours, numeric, 1,date, date, 12/31/2004
+id, numeric, 427
+id, numeric, 337
+out,battled,hours, numeric, 6,date, date, 4/13/2000
+id, numeric, 1256
+id, numeric, 845
+in,worked,hours, numeric, 7,date, date, 5/27/1986
+id, numeric, 219
+id, numeric, 1435
+out,worked,hours, numeric, 5,date, date, 6/22/1987
+id, numeric, 1342
+id, numeric, 772
+in,worked,hours, numeric, 4,date, date, 11/25/2009
+id, numeric, 1241
+id, numeric, 315
+in,worked,hours, numeric, 8,date, date, 8/26/2001
+id, numeric, 1177
+id, numeric, 274
+in,battled,hours, numeric, 7,date, date, 5/20/2010
+id, numeric, 885
+id, numeric, 1
+out,worked,hours, numeric, 1,date, date, 7/25/1988
+id, numeric, 366
+id, numeric, 47
+out,worked,hours, numeric, 8,date, date, 4/8/1998
+id, numeric, 80
+id, numeric, 888
+out,battled,hours, numeric, 4,date, date, 6/21/1995
+id, numeric, 90
+id, numeric, 1134
+out,battled,hours, numeric, 2,date, date, 10/6/1994
+id, numeric, 145
+id, numeric, 148
+out,worked,hours, numeric, 1,date, date, 1/25/1987
+id, numeric, 409
+id, numeric, 1316
+out,worked,hours, numeric, 3,date, date, 12/27/2003
+id, numeric, 1289
+id, numeric, 2
+out,worked,hours, numeric, 8,date, date, 12/28/2008
+id, numeric, 1068
+id, numeric, 536
+in,battled,hours, numeric, 1,date, date, 3/10/2011
+id, numeric, 23
+id, numeric, 1004
+in,worked,hours, numeric, 3,date, date, 1/27/1982
+id, numeric, 289
+id, numeric, 846
+in,worked,hours, numeric, 6,date, date, 2/2/1992
+id, numeric, 535
+id, numeric, 1432
+out,worked,hours, numeric, 2,date, date, 7/31/1981
+id, numeric, 67
+id, numeric, 360
+out,battled,hours, numeric, 1,date, date, 9/18/1987
+id, numeric, 49
+id, numeric, 598
+out,worked,hours, numeric, 7,date, date, 11/27/1984
+id, numeric, 1264
+id, numeric, 487
+in,worked,hours, numeric, 3,date, date, 4/25/1996
+id, numeric, 270
+id, numeric, 395
+in,battled,hours, numeric, 2,date, date, 2/26/2012
+id, numeric, 1448
+id, numeric, 912
+in,battled,hours, numeric, 7,date, date, 7/28/1983
+id, numeric, 913
+id, numeric, 841
+out,battled,hours, numeric, 7,date, date, 9/13/1989
+id, numeric, 380
+id, numeric, 1022
+out,battled,hours, numeric, 5,date, date, 10/18/2013
+id, numeric, 198
+id, numeric, 860
+out,battled,hours, numeric, 3,date, date, 8/27/1992
+id, numeric, 1436
+id, numeric, 561
+out,worked,hours, numeric, 4,date, date, 1/13/2003
+id, numeric, 564
+id, numeric, 817
+in,battled,hours, numeric, 6,date, date, 8/28/2011
+id, numeric, 1325
+id, numeric, 147
+out,battled,hours, numeric, 1,date, date, 1/7/1982
+id, numeric, 553
+id, numeric, 285
+out,battled,hours, numeric, 3,date, date, 7/12/1998
+id, numeric, 1366
+id, numeric, 1198
+in,battled,hours, numeric, 2,date, date, 6/10/2004
+id, numeric, 698
+id, numeric, 991
+out,worked,hours, numeric, 7,date, date, 2/10/1986
+id, numeric, 1267
+id, numeric, 351
+in,battled,hours, numeric, 3,date, date, 12/31/1984
+id, numeric, 309
+id, numeric, 74
+out,battled,hours, numeric, 6,date, date, 5/11/1982
+id, numeric, 533
+id, numeric, 85
+in,worked,hours, numeric, 2,date, date, 9/19/1990
+id, numeric, 1394
+id, numeric, 994
+in,battled,hours, numeric, 5,date, date, 7/23/2004
+id, numeric, 1453
+id, numeric, 1107
+in,worked,hours, numeric, 2,date, date, 11/20/2002
+id, numeric, 367
+id, numeric, 805
+out,worked,hours, numeric, 6,date, date, 2/10/2014
+id, numeric, 954
+id, numeric, 975
+out,worked,hours, numeric, 1,date, date, 10/23/2000
+id, numeric, 608
+id, numeric, 770
+out,battled,hours, numeric, 4,date, date, 4/2/2011
+id, numeric, 1395
+id, numeric, 839
+out,battled,hours, numeric, 8,date, date, 7/6/2008
+id, numeric, 1458
+id, numeric, 793
+out,battled,hours, numeric, 7,date, date, 7/1/1991
+id, numeric, 1355
+id, numeric, 731
+in,worked,hours, numeric, 7,date, date, 12/30/1994
+id, numeric, 1205
+id, numeric, 171
+in,worked,hours, numeric, 7,date, date, 7/13/1996
+id, numeric, 121
+id, numeric, 932
+in,battled,hours, numeric, 3,date, date, 9/12/1986
+id, numeric, 170
+id, numeric, 1465
+out,worked,hours, numeric, 5,date, date, 10/7/2013
+id, numeric, 9
+id, numeric, 1261
+out,worked,hours, numeric, 4,date, date, 3/8/2002
+id, numeric, 1406
+id, numeric, 577
+out,battled,hours, numeric, 8,date, date, 2/16/2006
+id, numeric, 1278
+id, numeric, 318
+out,worked,hours, numeric, 2,date, date, 7/28/1992
+id, numeric, 419
+id, numeric, 812
+out,battled,hours, numeric, 1,date, date, 4/23/1991
+id, numeric, 416
+id, numeric, 785
+out,worked,hours, numeric, 2,date, date, 6/5/1989
+id, numeric, 868
+id, numeric, 1106
+out,worked,hours, numeric, 4,date, date, 7/4/2006
+id, numeric, 506
+id, numeric, 986
+out,worked,hours, numeric, 6,date, date, 4/16/1988
+id, numeric, 728
+id, numeric, 350
+in,worked,hours, numeric, 2,date, date, 7/27/2007
+id, numeric, 8
+id, numeric, 376
+out,worked,hours, numeric, 5,date, date, 11/11/1981
+id, numeric, 308
+id, numeric, 365
+out,worked,hours, numeric, 2,date, date, 3/8/1993
+id, numeric, 1472
+id, numeric, 228
+in,battled,hours, numeric, 3,date, date, 12/13/1990
+id, numeric, 1197
+id, numeric, 847
+in,worked,hours, numeric, 8,date, date, 8/5/1997
+id, numeric, 220
+id, numeric, 1440
+in,worked,hours, numeric, 2,date, date, 2/22/2004
+id, numeric, 1339
+id, numeric, 77
+in,battled,hours, numeric, 7,date, date, 5/12/2005
+id, numeric, 1054
+id, numeric, 1332
+out,worked,hours, numeric, 3,date, date, 5/1/2005
+id, numeric, 641
+id, numeric, 592
+out,worked,hours, numeric, 1,date, date, 11/2/2011
+id, numeric, 299
+id, numeric, 37
+in,worked,hours, numeric, 6,date, date, 7/30/2008
+id, numeric, 1282
+id, numeric, 702
+out,battled,hours, numeric, 1,date, date, 9/4/1995
+id, numeric, 690
+id, numeric, 1450
+in,battled,hours, numeric, 7,date, date, 9/2/1984
+id, numeric, 1427
+id, numeric, 1013
+in,worked,hours, numeric, 6,date, date, 12/8/2002
+id, numeric, 11
+id, numeric, 967
+in,battled,hours, numeric, 7,date, date, 8/22/1997
+id, numeric, 1242
+id, numeric, 910
+in,battled,hours, numeric, 8,date, date, 3/6/1980
+id, numeric, 474
+id, numeric, 900
+in,worked,hours, numeric, 1,date, date, 8/15/1996
+id, numeric, 310
+id, numeric, 1271
+in,battled,hours, numeric, 2,date, date, 8/13/2013
+id, numeric, 1468
+id, numeric, 612
+in,worked,hours, numeric, 3,date, date, 8/16/2003
+id, numeric, 671
+id, numeric, 1411
+in,worked,hours, numeric, 8,date, date, 11/27/1989
+id, numeric, 388
+id, numeric, 1153
+out,worked,hours, numeric, 2,date, date, 3/14/1991
+id, numeric, 1178
+id, numeric, 676
+out,battled,hours, numeric, 5,date, date, 7/4/2011
+id, numeric, 99
+id, numeric, 1363
+in,worked,hours, numeric, 3,date, date, 11/22/2005
+id, numeric, 1295
+id, numeric, 820
+out,battled,hours, numeric, 4,date, date, 7/23/1999
+id, numeric, 1389
+id, numeric, 1216
+out,worked,hours, numeric, 4,date, date, 8/23/2002
+id, numeric, 1082
+id, numeric, 1423
+out,worked,hours, numeric, 3,date, date, 11/7/1985
+id, numeric, 1455
+id, numeric, 1403
+out,battled,hours, numeric, 2,date, date, 8/29/2001
+id, numeric, 402
+id, numeric, 1185
+out,worked,hours, numeric, 4,date, date, 2/17/1999
+id, numeric, 385
+id, numeric, 744
+in,battled,hours, numeric, 1,date, date, 4/25/1996
+id, numeric, 102
+id, numeric, 251
+in,worked,hours, numeric, 4,date, date, 9/29/2000
+id, numeric, 1379
+id, numeric, 424
+out,battled,hours, numeric, 3,date, date, 4/27/1980
+id, numeric, 95
+id, numeric, 1383
+out,battled,hours, numeric, 4,date, date, 6/28/2007
+id, numeric, 282
+id, numeric, 454
+out,battled,hours, numeric, 4,date, date, 2/14/1998
+id, numeric, 153
+id, numeric, 150
+in,battled,hours, numeric, 2,date, date, 6/18/2014
+id, numeric, 246
+id, numeric, 1457
+out,worked,hours, numeric, 8,date, date, 11/6/1995
+id, numeric, 448
+id, numeric, 201
+out,battled,hours, numeric, 4,date, date, 9/14/2012
+id, numeric, 1001
+id, numeric, 1093
+in,worked,hours, numeric, 7,date, date, 2/16/2013
+id, numeric, 1442
+id, numeric, 457
+out,battled,hours, numeric, 5,date, date, 8/13/1994
+id, numeric, 1112
+id, numeric, 284
+in,battled,hours, numeric, 6,date, date, 5/15/2001
+id, numeric, 851
+id, numeric, 927
+out,worked,hours, numeric, 7,date, date, 10/8/1991
+id, numeric, 1296
+id, numeric, 833
+out,worked,hours, numeric, 8,date, date, 10/1/2013
+id, numeric, 821
+id, numeric, 908
+out,worked,hours, numeric, 1,date, date, 7/19/1994
+id, numeric, 1233
+id, numeric, 1404
+out,battled,hours, numeric, 1,date, date, 5/30/2014
+id, numeric, 58
+id, numeric, 960
+out,battled,hours, numeric, 7,date, date, 9/2/2010
+id, numeric, 1484
+id, numeric, 1285
+out,worked,hours, numeric, 5,date, date, 11/7/1984
+id, numeric, 648
+id, numeric, 840
+out,battled,hours, numeric, 2,date, date, 2/13/1996
+id, numeric, 873
+id, numeric, 151
+out,worked,hours, numeric, 3,date, date, 8/31/2001
+id, numeric, 757
+id, numeric, 565
+in,worked,hours, numeric, 8,date, date, 2/8/2014
+id, numeric, 981
+id, numeric, 622
+out,worked,hours, numeric, 2,date, date, 7/24/1993
+id, numeric, 93
+id, numeric, 691
+out,worked,hours, numeric, 2,date, date, 7/3/2015
+id, numeric, 580
+id, numeric, 1350
+out,worked,hours, numeric, 1,date, date, 4/1/1989
+id, numeric, 161
+id, numeric, 710
+out,battled,hours, numeric, 6,date, date, 6/16/2009
+id, numeric, 185
+id, numeric, 766
+out,worked,hours, numeric, 7,date, date, 12/6/2007
+id, numeric, 1255
+id, numeric, 1421
+out,worked,hours, numeric, 1,date, date, 4/21/1982
+id, numeric, 174
+id, numeric, 875
+out,battled,hours, numeric, 5,date, date, 12/5/1995
+id, numeric, 692
+id, numeric, 1298
+out,battled,hours, numeric, 8,date, date, 6/17/1990
+id, numeric, 242
+id, numeric, 894
+out,worked,hours, numeric, 1,date, date, 5/28/2002
+id, numeric, 428
+id, numeric, 1248
+out,worked,hours, numeric, 8,date, date, 11/20/2015
+id, numeric, 715
+id, numeric, 1181
+out,battled,hours, numeric, 6,date, date, 8/27/1983
+id, numeric, 497
+id, numeric, 24
+out,worked,hours, numeric, 6,date, date, 6/8/1991
+id, numeric, 903
+id, numeric, 1058
+in,battled,hours, numeric, 1,date, date, 9/10/2014
+id, numeric, 938
+id, numeric, 1075
+out,battled,hours, numeric, 8,date, date, 3/10/2005
+id, numeric, 822
+id, numeric, 543
+out,worked,hours, numeric, 2,date, date, 5/18/2015
+id, numeric, 742
+id, numeric, 263
+out,worked,hours, numeric, 4,date, date, 12/16/1990
+id, numeric, 884
+id, numeric, 500
+out,battled,hours, numeric, 4,date, date, 12/19/2015
+id, numeric, 288
+id, numeric, 286
+out,worked,hours, numeric, 5,date, date, 4/6/1994
+id, numeric, 1414
+id, numeric, 1418
+out,battled,hours, numeric, 7,date, date, 3/22/2015
+id, numeric, 1354
+id, numeric, 1190
+out,worked,hours, numeric, 1,date, date, 9/10/2004
+id, numeric, 235
+id, numeric, 544
+in,battled,hours, numeric, 1,date, date, 11/30/1999
+id, numeric, 1439
+id, numeric, 178
+in,worked,hours, numeric, 5,date, date, 4/19/1984
+id, numeric, 1309
+id, numeric, 1396
+out,worked,hours, numeric, 4,date, date, 8/30/1994
+id, numeric, 187
+id, numeric, 1069
+out,battled,hours, numeric, 6,date, date, 11/3/2003
+id, numeric, 748
+id, numeric, 655
+out,battled,hours, numeric, 5,date, date, 4/11/1996
+id, numeric, 705
+id, numeric, 947
+out,worked,hours, numeric, 1,date, date, 7/22/2010
+id, numeric, 600
+id, numeric, 480
+out,worked,hours, numeric, 8,date, date, 6/29/1982
+id, numeric, 307
+id, numeric, 623
+out,worked,hours, numeric, 2,date, date, 7/7/1980
+id, numeric, 449
+id, numeric, 156
+out,battled,hours, numeric, 4,date, date, 2/21/2015
+id, numeric, 984
+id, numeric, 892
+out,battled,hours, numeric, 4,date, date, 12/25/2011
+id, numeric, 141
+id, numeric, 1211
+out,battled,hours, numeric, 2,date, date, 5/24/1997
+id, numeric, 197
+id, numeric, 523
+out,battled,hours, numeric, 3,date, date, 5/3/1993
+id, numeric, 1351
+id, numeric, 1152
+out,worked,hours, numeric, 1,date, date, 6/10/2005
+id, numeric, 941
+id, numeric, 1158
+out,battled,hours, numeric, 8,date, date, 7/19/2005
+id, numeric, 1077
+id, numeric, 1080
+out,worked,hours, numeric, 8,date, date, 5/20/2009
+id, numeric, 1056
+id, numeric, 516
+in,worked,hours, numeric, 5,date, date, 12/18/1990
+id, numeric, 194
+id, numeric, 968
+out,battled,hours, numeric, 5,date, date, 1/20/2010
+id, numeric, 17
+id, numeric, 601
+out,battled,hours, numeric, 5,date, date, 4/30/1985
+id, numeric, 830
+id, numeric, 1236
+out,battled,hours, numeric, 7,date, date, 1/12/1999
+id, numeric, 127
+id, numeric, 272
+out,battled,hours, numeric, 1,date, date, 5/2/1981
+id, numeric, 699
+id, numeric, 647
+in,battled,hours, numeric, 1,date, date, 2/9/1986
+id, numeric, 422
+id, numeric, 1397
+in,battled,hours, numeric, 2,date, date, 11/6/1989
+id, numeric, 259
+id, numeric, 1151
+in,battled,hours, numeric, 2,date, date, 7/10/1984
+id, numeric, 548
+id, numeric, 1315
+out,battled,hours, numeric, 1,date, date, 10/5/1980
+id, numeric, 304
+id, numeric, 1428
+in,battled,hours, numeric, 2,date, date, 12/9/1980
+id, numeric, 313
+id, numeric, 1368
+out,worked,hours, numeric, 3,date, date, 4/29/2011
+id, numeric, 489
+id, numeric, 751
+out,worked,hours, numeric, 4,date, date, 3/1/2005
+id, numeric, 264
+id, numeric, 451
+in,worked,hours, numeric, 2,date, date, 5/3/2000
+id, numeric, 441
+id, numeric, 86
+out,battled,hours, numeric, 3,date, date, 9/9/2012
+id, numeric, 758
+id, numeric, 1364
+in,worked,hours, numeric, 4,date, date, 10/21/2001
+id, numeric, 1438
+id, numeric, 502
+out,worked,hours, numeric, 1,date, date, 5/25/2015
+id, numeric, 273
+id, numeric, 711
+in,worked,hours, numeric, 3,date, date, 4/29/1998
+id, numeric, 112
+id, numeric, 65
+out,worked,hours, numeric, 3,date, date, 4/6/2004
+id, numeric, 1033
+id, numeric, 1150
+in,worked,hours, numeric, 4,date, date, 6/20/2007
+id, numeric, 1139
+id, numeric, 158
+out,battled,hours, numeric, 5,date, date, 1/6/1982
+id, numeric, 630
+id, numeric, 262
+in,worked,hours, numeric, 2,date, date, 10/8/1991
+id, numeric, 89
+id, numeric, 659
+out,battled,hours, numeric, 5,date, date, 12/4/1995
+id, numeric, 1331
+id, numeric, 1452
+in,battled,hours, numeric, 4,date, date, 4/25/1983
+id, numeric, 1392
+id, numeric, 1290
+out,worked,hours, numeric, 7,date, date, 10/13/1980
+id, numeric, 891
+id, numeric, 488
+out,worked,hours, numeric, 1,date, date, 5/2/1994
+id, numeric, 617
+id, numeric, 1327
+out,worked,hours, numeric, 7,date, date, 12/29/2007
+id, numeric, 836
+id, numeric, 325
+out,worked,hours, numeric, 1,date, date, 8/17/1998
+id, numeric, 943
+id, numeric, 1055
+out,battled,hours, numeric, 4,date, date, 1/10/2007
+id, numeric, 138
+id, numeric, 468
+out,worked,hours, numeric, 6,date, date, 5/7/1987
+id, numeric, 727
+id, numeric, 1370
+out,battled,hours, numeric, 4,date, date, 10/23/1990
+id, numeric, 423
+id, numeric, 613
+in,worked,hours, numeric, 4,date, date, 3/6/2010
+id, numeric, 1035
+id, numeric, 1456
+in,worked,hours, numeric, 5,date, date, 2/6/1993
+id, numeric, 979
+id, numeric, 1042
+out,battled,hours, numeric, 2,date, date, 7/28/1981
+id, numeric, 697
+id, numeric, 135
+out,worked,hours, numeric, 6,date, date, 2/2/2001
+id, numeric, 1186
+id, numeric, 1087
+out,battled,hours, numeric, 1,date, date, 11/19/1997
+id, numeric, 583
+id, numeric, 735
+out,worked,hours, numeric, 8,date, date, 11/18/2014
+id, numeric, 615
+id, numeric, 113
+out,battled,hours, numeric, 8,date, date, 12/4/1984
+id, numeric, 1367
+id, numeric, 334
+out,battled,hours, numeric, 3,date, date, 8/6/2013
+id, numeric, 1257
+id, numeric, 905
+in,battled,hours, numeric, 8,date, date, 11/13/1992
+id, numeric, 642
+id, numeric, 670
+out,worked,hours, numeric, 4,date, date, 2/18/2010
+id, numeric, 901
+id, numeric, 339
+out,worked,hours, numeric, 4,date, date, 3/18/1984
+id, numeric, 920
+id, numeric, 798
+out,battled,hours, numeric, 7,date, date, 8/25/1989
+id, numeric, 568
+id, numeric, 236
+in,worked,hours, numeric, 4,date, date, 5/29/1998
+id, numeric, 212
+id, numeric, 504
+out,battled,hours, numeric, 2,date, date, 12/28/1987
+id, numeric, 611
+id, numeric, 521
+in,worked,hours, numeric, 8,date, date, 8/5/1982
+id, numeric, 1425
+id, numeric, 632
+out,battled,hours, numeric, 3,date, date, 7/28/2007
+id, numeric, 537
+id, numeric, 696
+in,battled,hours, numeric, 8,date, date, 4/19/2009
+id, numeric, 1155
+id, numeric, 665
+out,battled,hours, numeric, 8,date, date, 12/14/2003
+id, numeric, 1459
+id, numeric, 1111
+out,worked,hours, numeric, 6,date, date, 4/22/2015
+id, numeric, 1146
+id, numeric, 1276
+out,battled,hours, numeric, 3,date, date, 1/4/1996
+id, numeric, 503
+id, numeric, 1402
+out,worked,hours, numeric, 6,date, date, 9/3/1996
+id, numeric, 1349
+id, numeric, 436
+in,worked,hours, numeric, 2,date, date, 9/24/2001
+id, numeric, 556
+id, numeric, 771
+in,battled,hours, numeric, 2,date, date, 3/12/2015
+id, numeric, 354
+id, numeric, 196
+out,battled,hours, numeric, 7,date, date, 5/16/1996
+id, numeric, 120
+id, numeric, 6
+out,worked,hours, numeric, 1,date, date, 8/29/1985
+id, numeric, 729
+id, numeric, 1019
+out,worked,hours, numeric, 7,date, date, 7/22/1983
+id, numeric, 238
+id, numeric, 857
+out,battled,hours, numeric, 4,date, date, 7/3/2010
+id, numeric, 1324
+id, numeric, 1249
+in,battled,hours, numeric, 5,date, date, 12/9/1980
+id, numeric, 881
+id, numeric, 184
+out,battled,hours, numeric, 4,date, date, 8/21/1987
+id, numeric, 222
+id, numeric, 795
+in,battled,hours, numeric, 7,date, date, 11/4/2012
+id, numeric, 439
+id, numeric, 976
+out,battled,hours, numeric, 2,date, date, 2/27/2000
+id, numeric, 571
+id, numeric, 1253
+out,worked,hours, numeric, 2,date, date, 9/14/1999
+id, numeric, 669
+id, numeric, 378
+out,worked,hours, numeric, 2,date, date, 4/7/1985
+id, numeric, 558
+id, numeric, 407
+in,battled,hours, numeric, 2,date, date, 7/19/1990
+id, numeric, 937
+id, numeric, 1059
+out,battled,hours, numeric, 7,date, date, 9/3/1985
+id, numeric, 1000
+id, numeric, 143
+out,battled,hours, numeric, 5,date, date, 4/12/1985
+id, numeric, 792
+id, numeric, 588
+out,battled,hours, numeric, 7,date, date, 10/31/1996
+id, numeric, 168
+id, numeric, 581
+in,battled,hours, numeric, 6,date, date, 6/7/1981
+id, numeric, 216
+id, numeric, 227
+in,worked,hours, numeric, 8,date, date, 12/1/1993
+id, numeric, 445
+id, numeric, 595
+in,worked,hours, numeric, 1,date, date, 8/7/1994
+id, numeric, 200
+id, numeric, 551
+in,worked,hours, numeric, 1,date, date, 4/22/1984
+id, numeric, 653
+id, numeric, 319
+out,worked,hours, numeric, 7,date, date, 10/30/1994
+id, numeric, 103
+id, numeric, 277
+out,worked,hours, numeric, 6,date, date, 4/10/2000
+id, numeric, 526
+id, numeric, 1095
+in,battled,hours, numeric, 2,date, date, 5/10/1986
+id, numeric, 663
+id, numeric, 40
+in,worked,hours, numeric, 7,date, date, 9/9/1988
+id, numeric, 114
+id, numeric, 898
+in,battled,hours, numeric, 4,date, date, 9/2/2015
+id, numeric, 1124
+id, numeric, 1312
+out,battled,hours, numeric, 1,date, date, 12/14/1987
+id, numeric, 1051
+id, numeric, 1156
+in,worked,hours, numeric, 5,date, date, 2/10/1999
+id, numeric, 1037
+id, numeric, 832
+out,worked,hours, numeric, 8,date, date, 3/27/1996
+id, numeric, 573
+id, numeric, 1283
+out,battled,hours, numeric, 6,date, date, 7/7/1988
+id, numeric, 1184
+id, numeric, 312
+out,worked,hours, numeric, 3,date, date, 3/4/2006
+id, numeric, 1168
+id, numeric, 576
+out,worked,hours, numeric, 8,date, date, 7/25/1984
+id, numeric, 479
+id, numeric, 759
+out,battled,hours, numeric, 6,date, date, 9/14/1988
+id, numeric, 990
+id, numeric, 1046
+out,worked,hours, numeric, 1,date, date, 4/24/1985
+id, numeric, 13
+id, numeric, 555
+out,worked,hours, numeric, 7,date, date, 3/7/2008
+id, numeric, 250
+id, numeric, 861
+out,battled,hours, numeric, 3,date, date, 1/23/2002
+id, numeric, 1321
+id, numeric, 1262
+in,worked,hours, numeric, 8,date, date, 6/20/2015
+id, numeric, 486
+id, numeric, 752
+out,worked,hours, numeric, 7,date, date, 1/20/1981
+id, numeric, 374
+id, numeric, 1444
+out,battled,hours, numeric, 5,date, date, 9/12/1997
+id, numeric, 326
+id, numeric, 706
+out,battled,hours, numeric, 6,date, date, 12/1/2005
+id, numeric, 768
+id, numeric, 1270
+in,battled,hours, numeric, 3,date, date, 9/17/1982
+id, numeric, 929
+id, numeric, 476
+out,battled,hours, numeric, 1,date, date, 5/17/2003
+id, numeric, 1142
+id, numeric, 1221
+out,worked,hours, numeric, 2,date, date, 1/17/1995
+id, numeric, 1375
+id, numeric, 162
+out,worked,hours, numeric, 4,date, date, 7/11/2015
+id, numeric, 917
+id, numeric, 1400
+out,worked,hours, numeric, 5,date, date, 1/20/2007
+id, numeric, 485
+id, numeric, 756
+out,worked,hours, numeric, 6,date, date, 3/12/1999
+id, numeric, 677
+id, numeric, 1097
+out,worked,hours, numeric, 2,date, date, 11/23/1982
+id, numeric, 791
+id, numeric, 467
+in,worked,hours, numeric, 5,date, date, 9/19/1994
+id, numeric, 889
+id, numeric, 1057
+out,battled,hours, numeric, 2,date, date, 11/17/1998
+id, numeric, 1089
+id, numeric, 1303
+out,battled,hours, numeric, 7,date, date, 8/28/2010
+id, numeric, 837
+id, numeric, 1231
+in,worked,hours, numeric, 4,date, date, 10/14/2010
+id, numeric, 60
+id, numeric, 520
+in,worked,hours, numeric, 6,date, date, 3/20/1998
+id, numeric, 146
+id, numeric, 446
+out,battled,hours, numeric, 2,date, date, 4/12/2011
+id, numeric, 234
+id, numeric, 911
+in,worked,hours, numeric, 5,date, date, 10/28/1995
+id, numeric, 781
+id, numeric, 266
+out,battled,hours, numeric, 8,date, date, 1/18/2011
+id, numeric, 763
+id, numeric, 317
+out,worked,hours, numeric, 4,date, date, 2/3/1989
+id, numeric, 471
+id, numeric, 675
+out,battled,hours, numeric, 5,date, date, 5/8/2014
+id, numeric, 557
+id, numeric, 1015
+in,battled,hours, numeric, 2,date, date, 9/28/1984
+id, numeric, 401
+id, numeric, 515
+out,battled,hours, numeric, 2,date, date, 11/8/1985
+id, numeric, 495
+id, numeric, 459
+in,battled,hours, numeric, 4,date, date, 5/23/1985
+id, numeric, 1117
+id, numeric, 539
+in,worked,hours, numeric, 3,date, date, 9/28/1981
+id, numeric, 1109
+id, numeric, 864
+out,worked,hours, numeric, 2,date, date, 9/24/1992
+id, numeric, 1084
+id, numeric, 740
+out,worked,hours, numeric, 7,date, date, 10/21/2006
+id, numeric, 1164
+id, numeric, 1393
+out,battled,hours, numeric, 7,date, date, 4/20/1996
+id, numeric, 703
+id, numeric, 311
+out,worked,hours, numeric, 2,date, date, 1/27/1981
+id, numeric, 1480
+id, numeric, 880
+in,worked,hours, numeric, 1,date, date, 1/5/2005
+id, numeric, 333
+id, numeric, 432
+out,worked,hours, numeric, 3,date, date, 3/22/2011
+id, numeric, 794
+id, numeric, 1096
+out,worked,hours, numeric, 5,date, date, 6/14/2002
+id, numeric, 872
+id, numeric, 983
+in,worked,hours, numeric, 5,date, date, 1/5/1988
+id, numeric, 361
+id, numeric, 964
+in,worked,hours, numeric, 5,date, date, 6/23/2009
+id, numeric, 271
+id, numeric, 35
+in,worked,hours, numeric, 7,date, date, 10/4/1987
+id, numeric, 175
+id, numeric, 118
+out,battled,hours, numeric, 8,date, date, 9/4/2013
+id, numeric, 344
+id, numeric, 643
+in,worked,hours, numeric, 1,date, date, 10/6/1981
+id, numeric, 529
+id, numeric, 1374
+in,battled,hours, numeric, 8,date, date, 9/22/1988
+id, numeric, 254
+id, numeric, 1234
+in,battled,hours, numeric, 5,date, date, 11/13/2013
+id, numeric, 332
+id, numeric, 1066
+out,battled,hours, numeric, 3,date, date, 11/30/1989
+id, numeric, 545
+id, numeric, 190
+out,battled,hours, numeric, 1,date, date, 11/26/1990
+id, numeric, 625
+id, numeric, 578
+out,battled,hours, numeric, 6,date, date, 1/20/2014
+id, numeric, 444
+id, numeric, 802
+in,worked,hours, numeric, 5,date, date, 10/28/1992
+id, numeric, 1302
+id, numeric, 775
+in,worked,hours, numeric, 7,date, date, 8/14/1987
+id, numeric, 1348
+id, numeric, 753
+in,battled,hours, numeric, 1,date, date, 10/12/2002
+id, numeric, 1409
+id, numeric, 256
+out,worked,hours, numeric, 3,date, date, 3/4/1988
+id, numeric, 1023
+id, numeric, 1135
+in,worked,hours, numeric, 8,date, date, 12/15/1981
+id, numeric, 712
+id, numeric, 303
+out,worked,hours, numeric, 6,date, date, 9/15/1993
+id, numeric, 1203
+id, numeric, 1238
+out,battled,hours, numeric, 6,date, date, 8/20/1992
+id, numeric, 215
+id, numeric, 1196
+out,worked,hours, numeric, 6,date, date, 8/29/1983
+id, numeric, 320
+id, numeric, 1085
+out,worked,hours, numeric, 3,date, date, 12/2/2015
+id, numeric, 1413
+id, numeric, 1378
+out,battled,hours, numeric, 8,date, date, 1/2/2014
+id, numeric, 381
+id, numeric, 88
+out,battled,hours, numeric, 5,date, date, 7/17/2005
+id, numeric, 1417
+id, numeric, 1391
+in,battled,hours, numeric, 1,date, date, 6/29/2001
+id, numeric, 819
+id, numeric, 346
+out,worked,hours, numeric, 5,date, date, 3/22/2012
+id, numeric, 730
+id, numeric, 747
+out,worked,hours, numeric, 1,date, date, 10/4/1992
+id, numeric, 582
+id, numeric, 396
+out,worked,hours, numeric, 3,date, date, 4/16/2006
+id, numeric, 1025
+id, numeric, 921
+out,battled,hours, numeric, 3,date, date, 1/1/2016
+id, numeric, 358
+id, numeric, 48
+out,battled,hours, numeric, 8,date, date, 5/4/1984
+id, numeric, 1194
+id, numeric, 877
+out,battled,hours, numeric, 4,date, date, 1/30/2000
+id, numeric, 129
+id, numeric, 896
+in,battled,hours, numeric, 3,date, date, 10/16/1985
+id, numeric, 704
+id, numeric, 620
+out,battled,hours, numeric, 8,date, date, 2/11/2000
+id, numeric, 31
+id, numeric, 125
+in,worked,hours, numeric, 7,date, date, 7/1/1997
+id, numeric, 491
+id, numeric, 835
+in,worked,hours, numeric, 2,date, date, 10/18/2010
+id, numeric, 244
+id, numeric, 379
+out,battled,hours, numeric, 5,date, date, 6/29/2007
+id, numeric, 1297
+id, numeric, 1274
+out,battled,hours, numeric, 8,date, date, 10/13/2014
+id, numeric, 199
+id, numeric, 1415
+out,worked,hours, numeric, 4,date, date, 11/8/1989
+id, numeric, 252
+id, numeric, 1202
+out,worked,hours, numeric, 2,date, date, 7/16/2013
+id, numeric, 686
+id, numeric, 681
+out,battled,hours, numeric, 5,date, date, 10/28/1981
+id, numeric, 610
+id, numeric, 985
+out,battled,hours, numeric, 2,date, date, 3/5/2006
+id, numeric, 661
+id, numeric, 1071
+out,battled,hours, numeric, 8,date, date, 12/29/1994
+id, numeric, 1300
+id, numeric, 799
+out,battled,hours, numeric, 3,date, date, 7/16/1994
+id, numeric, 1130
+id, numeric, 1464
+out,battled,hours, numeric, 2,date, date, 10/11/2004
+id, numeric, 989
+id, numeric, 939
+in,worked,hours, numeric, 7,date, date, 10/4/1987
+id, numeric, 410
+id, numeric, 511
+out,battled,hours, numeric, 7,date, date, 11/6/1998
+id, numeric, 1311
+id, numeric, 223
+out,battled,hours, numeric, 4,date, date, 10/26/1997
+id, numeric, 1041
+id, numeric, 111
+out,battled,hours, numeric, 2,date, date, 7/7/1993
+id, numeric, 815
+id, numeric, 470
+out,battled,hours, numeric, 2,date, date, 6/24/1993
+id, numeric, 421
+id, numeric, 1176
+in,battled,hours, numeric, 3,date, date, 4/10/1997
+id, numeric, 626
+id, numeric, 853
+in,battled,hours, numeric, 6,date, date, 8/12/2009
+id, numeric, 507
+id, numeric, 616
+out,battled,hours, numeric, 3,date, date, 9/28/2001
+id, numeric, 788
+id, numeric, 1125
+out,battled,hours, numeric, 5,date, date, 11/8/1988
+id, numeric, 962
+id, numeric, 245
+in,battled,hours, numeric, 1,date, date, 9/3/1993
+id, numeric, 682
+id, numeric, 1030
+out,battled,hours, numeric, 8,date, date, 8/14/1984
+id, numeric, 1357
+id, numeric, 353
+out,worked,hours, numeric, 4,date, date, 3/18/2008
+id, numeric, 70
+id, numeric, 221
+out,worked,hours, numeric, 6,date, date, 9/25/2008
+id, numeric, 1250
+id, numeric, 602
+in,battled,hours, numeric, 4,date, date, 5/25/2003
+id, numeric, 345
+id, numeric, 953
+out,worked,hours, numeric, 3,date, date, 4/14/2011
+id, numeric, 1206
+id, numeric, 816
+in,worked,hours, numeric, 8,date, date, 7/14/1986
+id, numeric, 614
+id, numeric, 36
+in,worked,hours, numeric, 1,date, date, 3/15/1991
+id, numeric, 918
+id, numeric, 398
+in,battled,hours, numeric, 2,date, date, 11/6/2005
+id, numeric, 356
+id, numeric, 331
+out,battled,hours, numeric, 8,date, date, 7/4/1998
+id, numeric, 1336
+id, numeric, 248
+out,battled,hours, numeric, 7,date, date, 7/27/2000
+id, numeric, 1481
+id, numeric, 152
+out,worked,hours, numeric, 6,date, date, 5/17/2003
+id, numeric, 1437
+id, numeric, 596
+out,battled,hours, numeric, 5,date, date, 7/29/2001
+id, numeric, 209
+id, numeric, 1116
+out,worked,hours, numeric, 4,date, date, 1/1/2003
+id, numeric, 684
+id, numeric, 43
+in,worked,hours, numeric, 6,date, date, 5/26/2006
+id, numeric, 1430
+id, numeric, 688
+out,worked,hours, numeric, 8,date, date, 1/20/1984
+id, numeric, 657
+id, numeric, 79
+in,worked,hours, numeric, 8,date, date, 11/18/1987
+id, numeric, 414
+id, numeric, 110
+in,worked,hours, numeric, 4,date, date, 7/7/1981
+id, numeric, 1147
+id, numeric, 172
+out,battled,hours, numeric, 1,date, date, 10/26/1983
+id, numeric, 741
+id, numeric, 430
+in,battled,hours, numeric, 1,date, date, 7/22/2008
+id, numeric, 566
+id, numeric, 524
+out,battled,hours, numeric, 4,date, date, 11/2/2004
+id, numeric, 1422
+id, numeric, 1173
+out,battled,hours, numeric, 7,date, date, 5/31/1989
+id, numeric, 1381
+id, numeric, 999
+out,worked,hours, numeric, 1,date, date, 11/11/1988
+id, numeric, 787
+id, numeric, 465
+in,worked,hours, numeric, 4,date, date, 6/14/1984
+id, numeric, 1319
+id, numeric, 1335
+in,battled,hours, numeric, 3,date, date, 7/16/1994
+id, numeric, 411
+id, numeric, 189
+out,battled,hours, numeric, 1,date, date, 8/8/1994
+id, numeric, 567
+id, numeric, 434
+in,worked,hours, numeric, 2,date, date, 10/28/2011
+id, numeric, 94
+id, numeric, 865
+in,battled,hours, numeric, 6,date, date, 11/4/1997
+id, numeric, 667
+id, numeric, 950
+out,battled,hours, numeric, 6,date, date, 10/25/1990
+id, numeric, 586
+id, numeric, 978
+out,battled,hours, numeric, 3,date, date, 11/28/2009
+id, numeric, 828
+id, numeric, 1310
+out,battled,hours, numeric, 2,date, date, 3/15/1980
+id, numeric, 823
+id, numeric, 1461
+in,battled,hours, numeric, 6,date, date, 12/19/1987
+id, numeric, 1180
+id, numeric, 233
+in,worked,hours, numeric, 5,date, date, 9/18/1988
+id, numeric, 298
+id, numeric, 155
+out,worked,hours, numeric, 5,date, date, 4/23/2011
+id, numeric, 14
+id, numeric, 996
+out,battled,hours, numeric, 8,date, date, 5/11/2012
+id, numeric, 55
+id, numeric, 472
+out,battled,hours, numeric, 4,date, date, 7/15/2005
+id, numeric, 923
+id, numeric, 662
+in,worked,hours, numeric, 6,date, date, 6/18/1985
+id, numeric, 1252
+id, numeric, 493
+out,battled,hours, numeric, 7,date, date, 6/13/2005
+id, numeric, 276
+id, numeric, 163
+in,battled,hours, numeric, 6,date, date, 11/27/1984
+id, numeric, 258
+id, numeric, 1323
+out,battled,hours, numeric, 8,date, date, 4/4/2004
+id, numeric, 825
+id, numeric, 481
+in,battled,hours, numeric, 7,date, date, 11/8/1999
+id, numeric, 192
+id, numeric, 323
+in,worked,hours, numeric, 4,date, date, 12/9/2009
+id, numeric, 1175
+id, numeric, 295
+in,worked,hours, numeric, 3,date, date, 5/24/1982
+id, numeric, 1049
+id, numeric, 61
+out,worked,hours, numeric, 4,date, date, 6/6/2000
+id, numeric, 443
+id, numeric, 205
+in,battled,hours, numeric, 4,date, date, 4/30/1992
+id, numeric, 39
+id, numeric, 1118
+in,worked,hours, numeric, 6,date, date, 7/2/1997
+id, numeric, 1258
+id, numeric, 1078
+out,battled,hours, numeric, 6,date, date, 8/8/1980
+id, numeric, 651
+id, numeric, 453
+out,battled,hours, numeric, 8,date, date, 6/11/2005
+id, numeric, 349
+id, numeric, 1346
+out,worked,hours, numeric, 2,date, date, 4/28/2002
+id, numeric, 1159
+id, numeric, 1362
+out,battled,hours, numeric, 6,date, date, 10/25/2010
+id, numeric, 499
+id, numeric, 456
+out,worked,hours, numeric, 7,date, date, 8/22/2006
+id, numeric, 1043
+id, numeric, 462
+out,battled,hours, numeric, 2,date, date, 8/14/1992
+id, numeric, 749
+id, numeric, 683
+in,worked,hours, numeric, 5,date, date, 12/23/2007
+id, numeric, 1281
+id, numeric, 525
+out,battled,hours, numeric, 3,date, date, 11/17/1995
+id, numeric, 977
+id, numeric, 1212
+in,battled,hours, numeric, 6,date, date, 4/27/2013
+id, numeric, 549
+id, numeric, 931
+out,worked,hours, numeric, 5,date, date, 11/14/2001
+id, numeric, 368
+id, numeric, 604
+out,worked,hours, numeric, 1,date, date, 3/28/2006
+id, numeric, 240
+id, numeric, 458
+out,battled,hours, numeric, 1,date, date, 12/25/1993
+id, numeric, 1398
+id, numeric, 726
+out,battled,hours, numeric, 5,date, date, 11/14/2010
+id, numeric, 101
+id, numeric, 783
+out,battled,hours, numeric, 1,date, date, 7/26/2002
+id, numeric, 774
+id, numeric, 972
+out,battled,hours, numeric, 1,date, date, 2/11/2009
+id, numeric, 546
+id, numeric, 261
+out,worked,hours, numeric, 3,date, date, 1/23/1990
+id, numeric, 510
+id, numeric, 450
+in,worked,hours, numeric, 3,date, date, 1/25/2006
+id, numeric, 15
+id, numeric, 1162
+in,worked,hours, numeric, 8,date, date, 5/29/2004
+id, numeric, 796
+id, numeric, 902
+out,worked,hours, numeric, 4,date, date, 3/9/2005
+id, numeric, 1029
+id, numeric, 1012
+out,battled,hours, numeric, 4,date, date, 10/13/1991
+id, numeric, 619
+id, numeric, 574
+out,battled,hours, numeric, 2,date, date, 7/9/2015
+id, numeric, 1385
+id, numeric, 1074
+in,battled,hours, numeric, 3,date, date, 3/29/2012
+id, numeric, 483
+id, numeric, 724
+out,battled,hours, numeric, 2,date, date, 6/19/1991
+id, numeric, 305
+id, numeric, 375
+out,battled,hours, numeric, 5,date, date, 3/9/2014
+id, numeric, 331
+id, numeric, 812
+out,worked,hours, numeric, 5,date, date, 7/21/2009
+id, numeric, 62
+id, numeric, 945
+out,worked,hours, numeric, 6,date, date, 1/13/1994
+id, numeric, 1471
+id, numeric, 691
+out,worked,hours, numeric, 5,date, date, 11/5/2005
+id, numeric, 649
+id, numeric, 1085
+out,battled,hours, numeric, 7,date, date, 9/11/2001
+id, numeric, 763
+id, numeric, 84
+out,battled,hours, numeric, 3,date, date, 7/15/1988
+id, numeric, 1214
+id, numeric, 1176
+in,worked,hours, numeric, 5,date, date, 6/12/1992
+id, numeric, 635
+id, numeric, 1237
+in,battled,hours, numeric, 3,date, date, 4/8/2000
+id, numeric, 56
+id, numeric, 497
+out,worked,hours, numeric, 1,date, date, 10/28/1980
+id, numeric, 553
+id, numeric, 672
+out,worked,hours, numeric, 3,date, date, 10/6/1989
+id, numeric, 1397
+id, numeric, 330
+out,worked,hours, numeric, 3,date, date, 4/4/1981
+id, numeric, 900
+id, numeric, 311
+out,battled,hours, numeric, 8,date, date, 1/29/2014
+id, numeric, 1163
+id, numeric, 931
+out,battled,hours, numeric, 7,date, date, 8/9/1989
+id, numeric, 794
+id, numeric, 150
+out,worked,hours, numeric, 2,date, date, 2/2/1993
+id, numeric, 1361
+id, numeric, 608
+out,battled,hours, numeric, 8,date, date, 2/20/1983
+id, numeric, 1165
+id, numeric, 1211
+out,battled,hours, numeric, 3,date, date, 10/14/1980
+id, numeric, 1217
+id, numeric, 1169
+in,battled,hours, numeric, 8,date, date, 11/9/2015
+id, numeric, 244
+id, numeric, 1405
+out,worked,hours, numeric, 6,date, date, 4/13/1993
+id, numeric, 956
+id, numeric, 1477
+in,battled,hours, numeric, 5,date, date, 7/23/1988
+id, numeric, 151
+id, numeric, 1070
+out,battled,hours, numeric, 6,date, date, 6/6/1985
+id, numeric, 1398
+id, numeric, 195
+in,worked,hours, numeric, 2,date, date, 1/18/1995
+id, numeric, 1343
+id, numeric, 616
+in,battled,hours, numeric, 2,date, date, 10/26/2003
+id, numeric, 619
+id, numeric, 1168
+out,worked,hours, numeric, 6,date, date, 6/20/1981
+id, numeric, 611
+id, numeric, 1234
+out,worked,hours, numeric, 5,date, date, 6/15/2009
+id, numeric, 234
+id, numeric, 671
+in,battled,hours, numeric, 3,date, date, 8/1/2008
+id, numeric, 219
+id, numeric, 627
+in,worked,hours, numeric, 4,date, date, 2/2/1999
+id, numeric, 343
+id, numeric, 580
+in,battled,hours, numeric, 4,date, date, 3/24/1982
+id, numeric, 1175
+id, numeric, 378
+out,battled,hours, numeric, 8,date, date, 9/24/1991
+id, numeric, 551
+id, numeric, 1453
+in,battled,hours, numeric, 5,date, date, 9/9/2007
+id, numeric, 170
+id, numeric, 916
+out,worked,hours, numeric, 7,date, date, 2/23/1988
+id, numeric, 494
+id, numeric, 854
+out,worked,hours, numeric, 7,date, date, 11/29/1981
+id, numeric, 1436
+id, numeric, 507
+out,battled,hours, numeric, 5,date, date, 2/2/1985
+id, numeric, 963
+id, numeric, 1013
+out,battled,hours, numeric, 3,date, date, 2/15/2012
+id, numeric, 736
+id, numeric, 1299
+out,battled,hours, numeric, 2,date, date, 2/28/2008
+id, numeric, 6
+id, numeric, 1329
+out,battled,hours, numeric, 6,date, date, 7/22/1984
+id, numeric, 877
+id, numeric, 1196
+out,worked,hours, numeric, 1,date, date, 3/29/1989
+id, numeric, 907
+id, numeric, 578
+in,worked,hours, numeric, 8,date, date, 8/19/1992
+id, numeric, 965
+id, numeric, 826
+out,battled,hours, numeric, 6,date, date, 5/10/1995
+id, numeric, 72
+id, numeric, 995
+out,worked,hours, numeric, 4,date, date, 3/13/1997
+id, numeric, 499
+id, numeric, 887
+out,battled,hours, numeric, 5,date, date, 5/18/1996
+id, numeric, 192
+id, numeric, 1264
+out,battled,hours, numeric, 6,date, date, 10/24/1999
+id, numeric, 1308
+id, numeric, 566
+out,worked,hours, numeric, 1,date, date, 6/18/2013
+id, numeric, 1016
+id, numeric, 1290
+in,worked,hours, numeric, 4,date, date, 8/29/1996
+id, numeric, 1245
+id, numeric, 388
+out,worked,hours, numeric, 1,date, date, 5/21/1992
+id, numeric, 647
+id, numeric, 751
+out,battled,hours, numeric, 4,date, date, 12/29/1995
+id, numeric, 1243
+id, numeric, 1059
+out,worked,hours, numeric, 1,date, date, 9/11/1995
+id, numeric, 629
+id, numeric, 454
+out,battled,hours, numeric, 7,date, date, 7/15/1989
+id, numeric, 135
+id, numeric, 1425
+out,worked,hours, numeric, 8,date, date, 3/24/2011
+id, numeric, 802
+id, numeric, 318
+in,battled,hours, numeric, 8,date, date, 3/31/1990
+id, numeric, 66
+id, numeric, 792
+out,worked,hours, numeric, 7,date, date, 9/16/2002
+id, numeric, 1178
+id, numeric, 811
+out,battled,hours, numeric, 4,date, date, 4/17/1993
+id, numeric, 279
+id, numeric, 11
+in,battled,hours, numeric, 2,date, date, 7/18/1988
+id, numeric, 1132
+id, numeric, 1155
+in,worked,hours, numeric, 8,date, date, 10/31/2013
+id, numeric, 249
+id, numeric, 242
+in,worked,hours, numeric, 2,date, date, 1/1/2002
+id, numeric, 579
+id, numeric, 712
+out,battled,hours, numeric, 4,date, date, 11/26/1995
+id, numeric, 901
+id, numeric, 14
+out,worked,hours, numeric, 7,date, date, 11/18/2015
+id, numeric, 664
+id, numeric, 1378
+out,battled,hours, numeric, 8,date, date, 4/22/2007
+id, numeric, 413
+id, numeric, 1063
+out,battled,hours, numeric, 8,date, date, 6/25/1982
+id, numeric, 458
+id, numeric, 436
+out,battled,hours, numeric, 4,date, date, 11/23/2009
+id, numeric, 110
+id, numeric, 1418
+in,battled,hours, numeric, 1,date, date, 7/25/2012
+id, numeric, 1305
+id, numeric, 592
+out,battled,hours, numeric, 7,date, date, 5/28/2006
+id, numeric, 665
+id, numeric, 382
+in,battled,hours, numeric, 7,date, date, 9/25/1985
+id, numeric, 268
+id, numeric, 104
+in,worked,hours, numeric, 8,date, date, 8/8/2015
+id, numeric, 1184
+id, numeric, 554
+out,battled,hours, numeric, 1,date, date, 4/19/2003
+id, numeric, 1235
+id, numeric, 946
+in,battled,hours, numeric, 4,date, date, 5/24/2007
+id, numeric, 666
+id, numeric, 357
+in,battled,hours, numeric, 5,date, date, 5/29/2011
+id, numeric, 954
+id, numeric, 847
+out,worked,hours, numeric, 8,date, date, 12/2/2005
+id, numeric, 1212
+id, numeric, 194
+out,worked,hours, numeric, 7,date, date, 3/2/1980
+id, numeric, 1048
+id, numeric, 618
+in,battled,hours, numeric, 3,date, date, 5/23/2002
+id, numeric, 986
+id, numeric, 680
+out,battled,hours, numeric, 8,date, date, 12/2/1990
+id, numeric, 15
+id, numeric, 1449
+in,battled,hours, numeric, 8,date, date, 10/8/2006
+id, numeric, 107
+id, numeric, 127
+out,worked,hours, numeric, 5,date, date, 9/23/1990
+id, numeric, 1394
+id, numeric, 603
+out,battled,hours, numeric, 8,date, date, 6/29/2015
+id, numeric, 81
+id, numeric, 401
+out,worked,hours, numeric, 4,date, date, 1/2/2003
+id, numeric, 545
+id, numeric, 1024
+out,worked,hours, numeric, 3,date, date, 11/7/2015
+id, numeric, 480
+id, numeric, 1407
+out,worked,hours, numeric, 1,date, date, 8/24/2015
+id, numeric, 22
+id, numeric, 883
+out,battled,hours, numeric, 6,date, date, 7/20/2007
+id, numeric, 844
+id, numeric, 103
+out,battled,hours, numeric, 5,date, date, 2/14/2006
+id, numeric, 1227
+id, numeric, 53
+out,battled,hours, numeric, 8,date, date, 8/30/2003
+id, numeric, 171
+id, numeric, 1401
+out,worked,hours, numeric, 6,date, date, 5/29/2008
+id, numeric, 335
+id, numeric, 1286
+in,battled,hours, numeric, 3,date, date, 12/15/1993
+id, numeric, 869
+id, numeric, 1053
+out,worked,hours, numeric, 4,date, date, 9/3/2007
+id, numeric, 518
+id, numeric, 508
+out,battled,hours, numeric, 7,date, date, 8/25/2001
+id, numeric, 444
+id, numeric, 936
+out,battled,hours, numeric, 2,date, date, 4/22/1981
+id, numeric, 59
+id, numeric, 638
+in,worked,hours, numeric, 4,date, date, 9/4/1987
+id, numeric, 978
+id, numeric, 124
+in,worked,hours, numeric, 3,date, date, 11/8/1997
+id, numeric, 415
+id, numeric, 300
+out,worked,hours, numeric, 6,date, date, 6/18/1990
+id, numeric, 1429
+id, numeric, 327
+out,worked,hours, numeric, 5,date, date, 12/18/1996
+id, numeric, 434
+id, numeric, 362
+out,worked,hours, numeric, 2,date, date, 8/17/2015
+id, numeric, 998
+id, numeric, 1374
+in,battled,hours, numeric, 1,date, date, 12/3/2006
+id, numeric, 1470
+id, numeric, 123
+out,battled,hours, numeric, 6,date, date, 5/20/1992
+id, numeric, 147
+id, numeric, 418
+out,battled,hours, numeric, 7,date, date, 4/9/1980
+id, numeric, 228
+id, numeric, 1283
+out,battled,hours, numeric, 3,date, date, 10/28/2002
+id, numeric, 178
+id, numeric, 1386
+out,battled,hours, numeric, 1,date, date, 12/24/1997
+id, numeric, 1198
+id, numeric, 1005
+out,worked,hours, numeric, 2,date, date, 2/4/1981
+id, numeric, 67
+id, numeric, 304
+out,worked,hours, numeric, 2,date, date, 9/16/1989
+id, numeric, 1034
+id, numeric, 865
+out,battled,hours, numeric, 8,date, date, 3/19/1993
+id, numeric, 199
+id, numeric, 838
+in,battled,hours, numeric, 1,date, date, 8/14/2014
+id, numeric, 607
+id, numeric, 602
+in,battled,hours, numeric, 3,date, date, 6/24/2000
+id, numeric, 336
+id, numeric, 940
+in,worked,hours, numeric, 7,date, date, 7/10/1989
+id, numeric, 1
+id, numeric, 1280
+in,worked,hours, numeric, 8,date, date, 2/18/1999
+id, numeric, 567
+id, numeric, 1384
+out,battled,hours, numeric, 3,date, date, 12/1/2005
+id, numeric, 310
+id, numeric, 112
+in,worked,hours, numeric, 7,date, date, 3/20/1980
+id, numeric, 999
+id, numeric, 633
+out,battled,hours, numeric, 1,date, date, 1/29/1997
+id, numeric, 690
+id, numeric, 440
+out,worked,hours, numeric, 1,date, date, 12/20/1982
+id, numeric, 185
+id, numeric, 683
+out,worked,hours, numeric, 2,date, date, 3/9/1991
+id, numeric, 808
+id, numeric, 367
+out,worked,hours, numeric, 7,date, date, 9/17/2006
+id, numeric, 537
+id, numeric, 445
+in,worked,hours, numeric, 3,date, date, 2/13/1991
+id, numeric, 719
+id, numeric, 1001
+out,battled,hours, numeric, 5,date, date, 3/28/1993
+id, numeric, 404
+id, numeric, 432
+out,battled,hours, numeric, 1,date, date, 6/15/1995
+id, numeric, 256
+id, numeric, 729
+in,worked,hours, numeric, 5,date, date, 5/2/2013
+id, numeric, 95
+id, numeric, 456
+out,battled,hours, numeric, 2,date, date, 12/31/2010
+id, numeric, 704
+id, numeric, 1419
+in,battled,hours, numeric, 2,date, date, 7/16/1983
+id, numeric, 1042
+id, numeric, 1038
+out,battled,hours, numeric, 7,date, date, 10/23/2000
+id, numeric, 1044
+id, numeric, 1233
+out,worked,hours, numeric, 5,date, date, 12/18/2003
+id, numeric, 293
+id, numeric, 172
+in,battled,hours, numeric, 2,date, date, 7/17/2007
+id, numeric, 1315
+id, numeric, 64
+out,battled,hours, numeric, 2,date, date, 6/17/1993
+id, numeric, 1151
+id, numeric, 1220
+out,worked,hours, numeric, 3,date, date, 11/17/2013
+id, numeric, 639
+id, numeric, 305
+out,battled,hours, numeric, 5,date, date, 12/28/2015
+id, numeric, 175
+id, numeric, 39
+in,worked,hours, numeric, 6,date, date, 4/25/2009
+id, numeric, 1249
+id, numeric, 1162
+in,worked,hours, numeric, 3,date, date, 7/3/2004
+id, numeric, 453
+id, numeric, 43
+out,battled,hours, numeric, 7,date, date, 3/1/1988
+id, numeric, 169
+id, numeric, 1356
+out,worked,hours, numeric, 8,date, date, 4/2/1992
+id, numeric, 1228
+id, numeric, 166
+in,battled,hours, numeric, 8,date, date, 9/27/2002
+id, numeric, 805
+id, numeric, 968
+out,battled,hours, numeric, 8,date, date, 6/13/1985
+id, numeric, 47
+id, numeric, 560
+out,battled,hours, numeric, 2,date, date, 8/12/1985
+id, numeric, 1266
+id, numeric, 1390
+in,battled,hours, numeric, 3,date, date, 12/15/2011
+id, numeric, 187
+id, numeric, 757
+out,worked,hours, numeric, 3,date, date, 4/29/1996
+id, numeric, 721
+id, numeric, 231
+out,battled,hours, numeric, 2,date, date, 9/24/2004
+id, numeric, 448
+id, numeric, 748
+out,worked,hours, numeric, 8,date, date, 12/26/2014
+id, numeric, 250
+id, numeric, 924
+in,battled,hours, numeric, 1,date, date, 1/31/2002
+id, numeric, 161
+id, numeric, 1080
+out,worked,hours, numeric, 5,date, date, 6/26/2013
+id, numeric, 517
+id, numeric, 159
+in,worked,hours, numeric, 6,date, date, 9/29/2015
+id, numeric, 1022
+id, numeric, 615
+in,worked,hours, numeric, 3,date, date, 11/12/2007
+id, numeric, 54
+id, numeric, 1047
+out,battled,hours, numeric, 3,date, date, 1/26/1982
+id, numeric, 1359
+id, numeric, 1084
+out,battled,hours, numeric, 5,date, date, 12/26/1993
+id, numeric, 312
+id, numeric, 1142
+out,battled,hours, numeric, 7,date, date, 12/3/2014
+id, numeric, 644
+id, numeric, 9
+out,worked,hours, numeric, 1,date, date, 8/28/1985
+id, numeric, 641
+id, numeric, 1288
+out,worked,hours, numeric, 7,date, date, 4/21/1997
+id, numeric, 76
+id, numeric, 793
+in,battled,hours, numeric, 4,date, date, 6/23/1991
+id, numeric, 738
+id, numeric, 775
+in,battled,hours, numeric, 7,date, date, 8/14/1989
+id, numeric, 1043
+id, numeric, 1353
+in,worked,hours, numeric, 4,date, date, 4/19/1983
+id, numeric, 163
+id, numeric, 538
+out,worked,hours, numeric, 3,date, date, 5/12/2005
+id, numeric, 621
+id, numeric, 422
+out,battled,hours, numeric, 8,date, date, 11/15/2014
+id, numeric, 1412
+id, numeric, 1287
+out,battled,hours, numeric, 6,date, date, 7/7/2001
+id, numeric, 1236
+id, numeric, 1313
+out,worked,hours, numeric, 7,date, date, 10/3/2015
+id, numeric, 96
+id, numeric, 419
+in,battled,hours, numeric, 5,date, date, 2/16/1998
+id, numeric, 463
+id, numeric, 252
+out,worked,hours, numeric, 2,date, date, 2/2/1992
+id, numeric, 935
+id, numeric, 1183
+in,battled,hours, numeric, 6,date, date, 6/7/2000
+id, numeric, 520
+id, numeric, 679
+out,worked,hours, numeric, 7,date, date, 4/1/1995
+id, numeric, 209
+id, numeric, 1219
+out,battled,hours, numeric, 8,date, date, 11/20/2010
+id, numeric, 1380
+id, numeric, 1251
+out,battled,hours, numeric, 5,date, date, 6/5/2004
+id, numeric, 1012
+id, numeric, 373
+in,battled,hours, numeric, 3,date, date, 3/23/1993
+id, numeric, 609
+id, numeric, 718
+out,battled,hours, numeric, 3,date, date, 3/16/2011
+id, numeric, 1312
+id, numeric, 1107
+out,worked,hours, numeric, 7,date, date, 5/5/2006
+id, numeric, 1431
+id, numeric, 109
+out,worked,hours, numeric, 7,date, date, 1/3/2005
+id, numeric, 63
+id, numeric, 1231
+out,battled,hours, numeric, 8,date, date, 5/8/2009
+id, numeric, 652
+id, numeric, 479
+out,battled,hours, numeric, 6,date, date, 1/26/2010
+id, numeric, 1206
+id, numeric, 402
+out,battled,hours, numeric, 3,date, date, 9/18/2004
+id, numeric, 552
+id, numeric, 832
+out,battled,hours, numeric, 3,date, date, 2/8/2002
+id, numeric, 780
+id, numeric, 859
+in,worked,hours, numeric, 6,date, date, 9/6/1989
+id, numeric, 1166
+id, numeric, 1447
+out,worked,hours, numeric, 8,date, date, 8/21/2014
+id, numeric, 952
+id, numeric, 342
+out,worked,hours, numeric, 7,date, date, 10/14/2009
+id, numeric, 906
+id, numeric, 1428
+in,battled,hours, numeric, 6,date, date, 12/26/2000
+id, numeric, 1229
+id, numeric, 144
+out,worked,hours, numeric, 3,date, date, 7/5/2006
+id, numeric, 466
+id, numeric, 836
+out,worked,hours, numeric, 4,date, date, 2/7/1991
+id, numeric, 181
+id, numeric, 251
+out,battled,hours, numeric, 2,date, date, 10/9/1986
+id, numeric, 597
+id, numeric, 1199
+out,battled,hours, numeric, 6,date, date, 10/1/2005
+id, numeric, 694
+id, numeric, 898
+in,battled,hours, numeric, 7,date, date, 1/28/2009
+id, numeric, 541
+id, numeric, 1323
+out,battled,hours, numeric, 8,date, date, 9/27/1980
+id, numeric, 412
+id, numeric, 512
+out,battled,hours, numeric, 4,date, date, 10/11/1982
+id, numeric, 1314
+id, numeric, 1202
+in,battled,hours, numeric, 3,date, date, 5/5/2004
+id, numeric, 1383
+id, numeric, 659
+out,worked,hours, numeric, 1,date, date, 7/9/1991
+id, numeric, 1318
+id, numeric, 661
+in,worked,hours, numeric, 8,date, date, 4/28/2015
+id, numeric, 319
+id, numeric, 1316
+out,battled,hours, numeric, 1,date, date, 1/7/1990
+id, numeric, 911
+id, numeric, 617
+in,battled,hours, numeric, 3,date, date, 1/13/1994
+id, numeric, 723
+id, numeric, 646
+in,battled,hours, numeric, 8,date, date, 12/18/2014
+id, numeric, 1007
+id, numeric, 214
+out,worked,hours, numeric, 1,date, date, 9/20/1994
+id, numeric, 953
+id, numeric, 955
+out,worked,hours, numeric, 7,date, date, 6/2/2002
+id, numeric, 57
+id, numeric, 399
+out,worked,hours, numeric, 6,date, date, 2/25/1981
+id, numeric, 1244
+id, numeric, 596
+in,worked,hours, numeric, 1,date, date, 8/27/1996
+id, numeric, 511
+id, numeric, 842
+out,worked,hours, numeric, 2,date, date, 2/10/2013
+id, numeric, 856
+id, numeric, 1225
+in,battled,hours, numeric, 5,date, date, 10/2/2011
+id, numeric, 140
+id, numeric, 1480
+out,worked,hours, numeric, 6,date, date, 8/20/1984
+id, numeric, 1242
+id, numeric, 563
+out,worked,hours, numeric, 1,date, date, 11/6/2009
+id, numeric, 443
+id, numeric, 323
+in,worked,hours, numeric, 1,date, date, 12/2/2007
+id, numeric, 1278
+id, numeric, 1260
+in,worked,hours, numeric, 8,date, date, 10/26/1985
+id, numeric, 1010
+id, numeric, 885
+out,worked,hours, numeric, 7,date, date, 9/6/1981
+id, numeric, 7
+id, numeric, 1441
+out,worked,hours, numeric, 6,date, date, 11/22/1983
+id, numeric, 992
+id, numeric, 1439
+in,worked,hours, numeric, 7,date, date, 11/19/2007
+id, numeric, 374
+id, numeric, 492
+in,battled,hours, numeric, 7,date, date, 1/8/1983
+id, numeric, 380
+id, numeric, 105
+in,battled,hours, numeric, 2,date, date, 5/13/2006
+id, numeric, 539
+id, numeric, 1420
+out,battled,hours, numeric, 7,date, date, 5/25/1990
+id, numeric, 102
+id, numeric, 912
+out,battled,hours, numeric, 4,date, date, 3/24/1998
+id, numeric, 297
+id, numeric, 1402
+out,worked,hours, numeric, 6,date, date, 1/13/1990
+id, numeric, 743
+id, numeric, 117
+out,worked,hours, numeric, 1,date, date, 11/15/2000
+id, numeric, 167
+id, numeric, 558
+out,battled,hours, numeric, 6,date, date, 4/17/1996
+id, numeric, 821
+id, numeric, 575
+out,worked,hours, numeric, 6,date, date, 12/6/1984
+id, numeric, 295
+id, numeric, 356
+out,battled,hours, numeric, 1,date, date, 1/30/2013
+id, numeric, 922
+id, numeric, 1139
+out,battled,hours, numeric, 4,date, date, 9/12/2013
+id, numeric, 371
+id, numeric, 1422
+out,battled,hours, numeric, 5,date, date, 10/17/1996
+id, numeric, 457
+id, numeric, 858
+out,battled,hours, numeric, 1,date, date, 5/26/2001
+id, numeric, 686
+id, numeric, 932
+out,battled,hours, numeric, 6,date, date, 12/12/1992
+id, numeric, 688
+id, numeric, 1276
+out,battled,hours, numeric, 3,date, date, 8/12/1994
+id, numeric, 1019
+id, numeric, 106
+out,battled,hours, numeric, 2,date, date, 4/3/1992
+id, numeric, 87
+id, numeric, 1185
+out,worked,hours, numeric, 7,date, date, 8/25/1987
+id, numeric, 1213
+id, numeric, 1455
+out,worked,hours, numeric, 8,date, date, 12/28/2006
+id, numeric, 459
+id, numeric, 1362
+out,battled,hours, numeric, 6,date, date, 9/30/2010
+id, numeric, 1179
+id, numeric, 726
+out,battled,hours, numeric, 2,date, date, 7/5/2003
+id, numeric, 233
+id, numeric, 834
+out,worked,hours, numeric, 3,date, date, 6/27/2007
+id, numeric, 1148
+id, numeric, 749
+out,battled,hours, numeric, 2,date, date, 2/25/1999
+id, numeric, 1086
+id, numeric, 860
+in,worked,hours, numeric, 4,date, date, 9/30/2011
+id, numeric, 31
+id, numeric, 1066
+out,battled,hours, numeric, 6,date, date, 2/16/2011
+id, numeric, 202
+id, numeric, 1051
+in,worked,hours, numeric, 8,date, date, 5/17/1995
+id, numeric, 364
+id, numeric, 1193
+out,worked,hours, numeric, 3,date, date, 7/26/2006
+id, numeric, 184
+id, numeric, 111
+out,battled,hours, numeric, 2,date, date, 12/1/1980
+id, numeric, 825
+id, numeric, 1331
+out,worked,hours, numeric, 6,date, date, 10/24/1983
+id, numeric, 1445
+id, numeric, 582
+out,battled,hours, numeric, 2,date, date, 10/31/1981
+id, numeric, 796
+id, numeric, 509
+out,worked,hours, numeric, 8,date, date, 10/30/2002
+id, numeric, 1147
+id, numeric, 1365
+out,worked,hours, numeric, 2,date, date, 6/16/1994
+id, numeric, 386
+id, numeric, 1221
+in,worked,hours, numeric, 4,date, date, 4/14/1987
+id, numeric, 1427
+id, numeric, 1058
+out,worked,hours, numeric, 2,date, date, 9/23/1989
+id, numeric, 1167
+id, numeric, 536
+out,worked,hours, numeric, 7,date, date, 4/11/2000
+id, numeric, 470
+id, numeric, 1152
+out,battled,hours, numeric, 3,date, date, 8/4/1983
+id, numeric, 1275
+id, numeric, 750
+out,worked,hours, numeric, 8,date, date, 5/20/2006
+id, numeric, 853
+id, numeric, 1382
+in,worked,hours, numeric, 2,date, date, 11/11/2011
+id, numeric, 510
+id, numeric, 426
+in,worked,hours, numeric, 4,date, date, 5/19/2005
+id, numeric, 221
+id, numeric, 1120
+out,battled,hours, numeric, 7,date, date, 3/25/1994
+id, numeric, 897
+id, numeric, 1023
+out,battled,hours, numeric, 7,date, date, 9/5/1991
+id, numeric, 1054
+id, numeric, 759
+out,battled,hours, numeric, 3,date, date, 11/28/1993
+id, numeric, 769
+id, numeric, 153
+in,battled,hours, numeric, 5,date, date, 8/3/2013
+id, numeric, 677
+id, numeric, 543
+out,battled,hours, numeric, 7,date, date, 2/16/1993
+id, numeric, 714
+id, numeric, 351
+out,worked,hours, numeric, 5,date, date, 4/25/1988
+id, numeric, 400
+id, numeric, 765
+out,battled,hours, numeric, 7,date, date, 10/22/2000
+id, numeric, 138
+id, numeric, 678
+out,worked,hours, numeric, 7,date, date, 3/30/2001
+id, numeric, 19
+id, numeric, 1102
+in,battled,hours, numeric, 8,date, date, 4/11/2015
+id, numeric, 1476
+id, numeric, 1097
+out,worked,hours, numeric, 1,date, date, 5/27/1990
+id, numeric, 93
+id, numeric, 1357
+out,battled,hours, numeric, 2,date, date, 1/26/1981
+id, numeric, 324
+id, numeric, 568
+out,battled,hours, numeric, 2,date, date, 10/24/1997
+id, numeric, 1474
+id, numeric, 1444
+out,battled,hours, numeric, 1,date, date, 4/3/2015
+id, numeric, 476
+id, numeric, 1309
+out,battled,hours, numeric, 2,date, date, 11/16/2015
+id, numeric, 654
+id, numeric, 530
+out,worked,hours, numeric, 2,date, date, 3/9/2004
+id, numeric, 1215
+id, numeric, 51
+out,battled,hours, numeric, 7,date, date, 8/1/1980
+id, numeric, 361
+id, numeric, 905
+out,worked,hours, numeric, 7,date, date, 4/29/1984
+id, numeric, 795
+id, numeric, 590
+in,battled,hours, numeric, 4,date, date, 3/9/2006
+id, numeric, 962
+id, numeric, 559
+out,battled,hours, numeric, 8,date, date, 8/10/2005
+id, numeric, 996
+id, numeric, 134
+out,worked,hours, numeric, 1,date, date, 5/4/1991
+id, numeric, 38
+id, numeric, 52
+out,battled,hours, numeric, 8,date, date, 10/1/2000
+id, numeric, 340
+id, numeric, 363
+out,battled,hours, numeric, 5,date, date, 2/11/2016
+id, numeric, 938
+id, numeric, 1468
+out,battled,hours, numeric, 8,date, date, 3/15/1988
+id, numeric, 689
+id, numeric, 781
+out,battled,hours, numeric, 1,date, date, 9/5/2003
+id, numeric, 1340
+id, numeric, 591
+in,worked,hours, numeric, 2,date, date, 11/10/2004
+id, numeric, 1371
+id, numeric, 243
+in,battled,hours, numeric, 1,date, date, 12/2/1986
+id, numeric, 1377
+id, numeric, 1321
+out,battled,hours, numeric, 8,date, date, 11/8/2008
+id, numeric, 338
+id, numeric, 861
+out,battled,hours, numeric, 1,date, date, 5/30/1986
+id, numeric, 69
+id, numeric, 863
+out,worked,hours, numeric, 4,date, date, 10/25/2007
+id, numeric, 815
+id, numeric, 700
+in,battled,hours, numeric, 3,date, date, 6/7/2011
+id, numeric, 1391
+id, numeric, 1461
+out,worked,hours, numeric, 7,date, date, 2/24/1992
+id, numeric, 874
+id, numeric, 958
+in,battled,hours, numeric, 2,date, date, 2/17/1997
+id, numeric, 1465
+id, numeric, 658
+out,battled,hours, numeric, 4,date, date, 5/19/2002
+id, numeric, 977
+id, numeric, 37
+in,battled,hours, numeric, 8,date, date, 11/26/1986
+id, numeric, 176
+id, numeric, 727
+out,worked,hours, numeric, 6,date, date, 12/4/2001
+id, numeric, 1158
+id, numeric, 758
+out,battled,hours, numeric, 8,date, date, 12/3/2005
+id, numeric, 914
+id, numeric, 581
+out,battled,hours, numeric, 4,date, date, 10/6/2011
+id, numeric, 981
+id, numeric, 1485
+out,battled,hours, numeric, 1,date, date, 2/9/1991
+id, numeric, 1479
+id, numeric, 137
+out,battled,hours, numeric, 5,date, date, 6/15/1999
+id, numeric, 90
+id, numeric, 715
+out,battled,hours, numeric, 4,date, date, 11/18/2012
+id, numeric, 88
+id, numeric, 1224
+out,battled,hours, numeric, 2,date, date, 5/28/1998
+id, numeric, 1180
+id, numeric, 1339
+out,worked,hours, numeric, 7,date, date, 11/25/2006
+id, numeric, 1254
+id, numeric, 1294
+in,battled,hours, numeric, 7,date, date, 7/1/2004
+id, numeric, 1416
+id, numeric, 1484
+out,worked,hours, numeric, 5,date, date, 1/9/2000
+id, numeric, 306
+id, numeric, 204
+in,worked,hours, numeric, 5,date, date, 10/29/2004
+id, numeric, 557
+id, numeric, 928
+in,battled,hours, numeric, 6,date, date, 11/20/1989
+id, numeric, 396
+id, numeric, 852
+out,worked,hours, numeric, 5,date, date, 12/22/1986
+id, numeric, 760
+id, numeric, 1116
+out,battled,hours, numeric, 7,date, date, 7/17/1987
+id, numeric, 83
+id, numeric, 985
+in,worked,hours, numeric, 7,date, date, 3/23/1995
+id, numeric, 1174
+id, numeric, 1363
+in,worked,hours, numeric, 1,date, date, 7/9/1991
+id, numeric, 375
+id, numeric, 1257
+out,worked,hours, numeric, 1,date, date, 7/31/1987
+id, numeric, 752
+id, numeric, 685
+out,battled,hours, numeric, 5,date, date, 7/5/2006
+id, numeric, 469
+id, numeric, 827
+out,battled,hours, numeric, 3,date, date, 1/5/1992
+id, numeric, 1156
+id, numeric, 264
+in,battled,hours, numeric, 1,date, date, 8/2/1981
+id, numeric, 1046
+id, numeric, 1119
+in,worked,hours, numeric, 4,date, date, 1/23/1983
+id, numeric, 673
+id, numeric, 1262
+out,worked,hours, numeric, 4,date, date, 11/6/1999
+id, numeric, 269
+id, numeric, 800
+out,battled,hours, numeric, 2,date, date, 11/2/2005
+id, numeric, 489
+id, numeric, 1433
+out,battled,hours, numeric, 3,date, date, 3/2/2008
+id, numeric, 879
+id, numeric, 255
+out,worked,hours, numeric, 8,date, date, 11/27/1986
+id, numeric, 650
+id, numeric, 833
+in,battled,hours, numeric, 8,date, date, 12/21/1991
+id, numeric, 882
+id, numeric, 496
+out,battled,hours, numeric, 2,date, date, 7/16/2009
+id, numeric, 1322
+id, numeric, 186
+in,worked,hours, numeric, 3,date, date, 8/20/2007
+id, numeric, 317
+id, numeric, 12
+in,battled,hours, numeric, 6,date, date, 11/3/1994
+id, numeric, 947
+id, numeric, 165
+out,worked,hours, numeric, 7,date, date, 9/20/1995
+id, numeric, 506
+id, numeric, 1216
+in,worked,hours, numeric, 8,date, date, 2/22/1993
+id, numeric, 472
+id, numeric, 308
+out,worked,hours, numeric, 8,date, date, 7/17/1982
+id, numeric, 174
+id, numeric, 241
+out,worked,hours, numeric, 8,date, date, 7/5/2001
+id, numeric, 1150
+id, numeric, 1000
+out,worked,hours, numeric, 4,date, date, 1/30/1997
+id, numeric, 767
+id, numeric, 424
+in,battled,hours, numeric, 5,date, date, 1/11/2016
+id, numeric, 818
+id, numeric, 1055
+out,battled,hours, numeric, 1,date, date, 10/18/1981
+id, numeric, 1122
+id, numeric, 612
+in,worked,hours, numeric, 8,date, date, 4/5/1989
+id, numeric, 1201
+id, numeric, 1141
+out,battled,hours, numeric, 5,date, date, 3/3/1980
+id, numeric, 663
+id, numeric, 481
+out,worked,hours, numeric, 1,date, date, 6/16/2005
+id, numeric, 1036
+id, numeric, 421
+out,battled,hours, numeric, 5,date, date, 7/19/1992
+id, numeric, 1207
+id, numeric, 593
+out,battled,hours, numeric, 8,date, date, 5/26/2002
+id, numeric, 1277
+id, numeric, 734
+in,worked,hours, numeric, 7,date, date, 4/12/2003
+id, numeric, 783
+id, numeric, 368
+in,battled,hours, numeric, 1,date, date, 10/27/1996
+id, numeric, 1458
+id, numeric, 1123
+out,battled,hours, numeric, 7,date, date, 9/24/2011
+id, numeric, 745
+id, numeric, 196
+out,battled,hours, numeric, 2,date, date, 11/18/1991
+id, numeric, 1030
+id, numeric, 1138
+out,battled,hours, numeric, 3,date, date, 4/15/1989
+id, numeric, 254
+id, numeric, 949
+out,battled,hours, numeric, 3,date, date, 1/18/2000
+id, numeric, 1099
+id, numeric, 394
+out,battled,hours, numeric, 4,date, date, 6/8/1989
+id, numeric, 452
+id, numeric, 1389
+in,worked,hours, numeric, 6,date, date, 11/16/2008
+id, numeric, 28
+id, numeric, 182
+out,worked,hours, numeric, 2,date, date, 5/22/1990
+id, numeric, 502
+id, numeric, 990
+out,worked,hours, numeric, 7,date, date, 1/12/1990
+id, numeric, 816
+id, numeric, 1413
+out,battled,hours, numeric, 7,date, date, 12/1/2004
+id, numeric, 754
+id, numeric, 1274
+out,battled,hours, numeric, 8,date, date, 11/24/1981
+id, numeric, 262
+id, numeric, 1223
+out,worked,hours, numeric, 6,date, date, 5/14/1981
+id, numeric, 397
+id, numeric, 1126
+out,worked,hours, numeric, 4,date, date, 2/29/1984
+id, numeric, 451
+id, numeric, 899
+in,battled,hours, numeric, 8,date, date, 7/30/2012
+id, numeric, 1467
+id, numeric, 211
+out,worked,hours, numeric, 5,date, date, 8/31/2005
+id, numeric, 822
+id, numeric, 778
+out,worked,hours, numeric, 6,date, date, 4/23/1997
+id, numeric, 1226
+id, numeric, 430
+out,battled,hours, numeric, 5,date, date, 8/21/1983
+id, numeric, 125
+id, numeric, 586
+out,worked,hours, numeric, 6,date, date, 1/15/2001
+id, numeric, 1400
+id, numeric, 876
+in,battled,hours, numeric, 4,date, date, 7/29/2003
+id, numeric, 288
+id, numeric, 1230
+out,worked,hours, numeric, 6,date, date, 9/13/1990
+id, numeric, 1061
+id, numeric, 1089
+out,worked,hours, numeric, 4,date, date, 12/7/1986
+id, numeric, 1300
+id, numeric, 1393
+out,battled,hours, numeric, 1,date, date, 6/26/1992
+id, numeric, 927
+id, numeric, 188
+out,battled,hours, numeric, 4,date, date, 2/20/1994
+id, numeric, 1064
+id, numeric, 307
+in,battled,hours, numeric, 2,date, date, 3/9/1989
+id, numeric, 122
+id, numeric, 61
+out,battled,hours, numeric, 2,date, date, 1/8/1982
+id, numeric, 569
+id, numeric, 1135
+in,battled,hours, numeric, 1,date, date, 8/4/2011
+id, numeric, 969
+id, numeric, 1240
+in,worked,hours, numeric, 2,date, date, 4/19/1981
+id, numeric, 1421
+id, numeric, 222
+out,battled,hours, numeric, 6,date, date, 10/7/2010
+id, numeric, 634
+id, numeric, 984
+in,worked,hours, numeric, 6,date, date, 4/22/1999
+id, numeric, 416
+id, numeric, 377
+in,worked,hours, numeric, 2,date, date, 2/20/1999
+id, numeric, 210
+id, numeric, 966
+out,worked,hours, numeric, 2,date, date, 5/3/2006
+id, numeric, 423
+id, numeric, 711
+out,battled,hours, numeric, 3,date, date, 7/11/1987
+id, numeric, 321
+id, numeric, 624
+in,battled,hours, numeric, 1,date, date, 6/5/2004
+id, numeric, 238
+id, numeric, 392
+out,worked,hours, numeric, 2,date, date, 7/1/2000
+id, numeric, 34
+id, numeric, 1396
+out,battled,hours, numeric, 3,date, date, 6/7/1994
+id, numeric, 1482
+id, numeric, 804
+out,battled,hours, numeric, 2,date, date, 8/13/2002
+id, numeric, 625
+id, numeric, 1355
+out,battled,hours, numeric, 8,date, date, 6/30/2008
+id, numeric, 1376
+id, numeric, 951
+in,worked,hours, numeric, 4,date, date, 12/26/2008
+id, numeric, 1137
+id, numeric, 1031
+in,battled,hours, numeric, 7,date, date, 10/31/1980
+id, numeric, 1341
+id, numeric, 1432
+in,battled,hours, numeric, 2,date, date, 12/4/1980
+id, numeric, 191
+id, numeric, 1171
+out,worked,hours, numeric, 1,date, date, 3/15/1985
+id, numeric, 605
+id, numeric, 786
+out,battled,hours, numeric, 4,date, date, 4/30/1985
+id, numeric, 232
+id, numeric, 1239
+in,worked,hours, numeric, 6,date, date, 5/18/2011
+id, numeric, 1297
+id, numeric, 130
+out,worked,hours, numeric, 1,date, date, 8/1/1984
+id, numeric, 741
+id, numeric, 572
+in,worked,hours, numeric, 3,date, date, 12/3/1981
+id, numeric, 514
+id, numeric, 565
+out,battled,hours, numeric, 3,date, date, 8/21/2009
+id, numeric, 904
+id, numeric, 799
+in,worked,hours, numeric, 4,date, date, 6/18/2005
+id, numeric, 30
+id, numeric, 993
+out,battled,hours, numeric, 5,date, date, 6/27/1981
+id, numeric, 482
+id, numeric, 921
+out,battled,hours, numeric, 5,date, date, 3/19/2004
+id, numeric, 258
+id, numeric, 918
+out,battled,hours, numeric, 5,date, date, 3/23/2013
+id, numeric, 576
+id, numeric, 437
+out,worked,hours, numeric, 5,date, date, 4/4/1986
+id, numeric, 908
+id, numeric, 438
+in,battled,hours, numeric, 7,date, date, 4/29/2013
+id, numeric, 589
+id, numeric, 1153
+in,worked,hours, numeric, 5,date, date, 9/25/2005
+id, numeric, 1129
+id, numeric, 1327
+out,battled,hours, numeric, 8,date, date, 7/20/1984
+id, numeric, 1456
+id, numeric, 547
+in,worked,hours, numeric, 8,date, date, 7/14/1999
+id, numeric, 891
+id, numeric, 562
+out,battled,hours, numeric, 1,date, date, 6/22/2013
+id, numeric, 532
+id, numeric, 637
+out,battled,hours, numeric, 5,date, date, 7/16/1981
+id, numeric, 501
+id, numeric, 1115
+in,worked,hours, numeric, 8,date, date, 10/20/1986
+id, numeric, 455
+id, numeric, 154
+in,worked,hours, numeric, 5,date, date, 7/28/2014
+id, numeric, 902
+id, numeric, 216
+out,battled,hours, numeric, 8,date, date, 9/3/1992
+id, numeric, 1424
+id, numeric, 976
+out,worked,hours, numeric, 1,date, date, 2/26/1996
+id, numeric, 1083
+id, numeric, 1406
+out,battled,hours, numeric, 1,date, date, 4/24/1983
+id, numeric, 702
+id, numeric, 376
+out,battled,hours, numeric, 3,date, date, 5/1/1984
+id, numeric, 1101
+id, numeric, 1128
+out,battled,hours, numeric, 1,date, date, 2/1/1983
+id, numeric, 975
+id, numeric, 645
+in,battled,hours, numeric, 2,date, date, 8/18/1994
+id, numeric, 1027
+id, numeric, 427
+out,worked,hours, numeric, 2,date, date, 5/12/2002
+id, numeric, 282
+id, numeric, 1462
+out,battled,hours, numeric, 8,date, date, 12/5/2005
+id, numeric, 345
+id, numeric, 1004
+in,battled,hours, numeric, 1,date, date, 6/26/1991
+id, numeric, 1028
+id, numeric, 1145
+out,worked,hours, numeric, 1,date, date, 12/31/2004
+id, numeric, 772
+id, numeric, 391
+out,battled,hours, numeric, 6,date, date, 4/13/2000
+id, numeric, 660
+id, numeric, 414
+in,worked,hours, numeric, 7,date, date, 5/27/1986
+id, numeric, 880
+id, numeric, 239
+out,worked,hours, numeric, 5,date, date, 6/22/1987
+id, numeric, 722
+id, numeric, 314
+in,worked,hours, numeric, 4,date, date, 11/25/2009
+id, numeric, 1205
+id, numeric, 1317
+in,worked,hours, numeric, 8,date, date, 8/26/2001
+id, numeric, 676
+id, numeric, 1187
+in,battled,hours, numeric, 7,date, date, 5/20/2010
+id, numeric, 782
+id, numeric, 203
+out,worked,hours, numeric, 1,date, date, 7/25/1988
+id, numeric, 655
+id, numeric, 1021
+out,worked,hours, numeric, 8,date, date, 4/8/1998
+id, numeric, 920
+id, numeric, 1134
+out,battled,hours, numeric, 4,date, date, 6/21/1995
+id, numeric, 146
+id, numeric, 1370
+out,battled,hours, numeric, 2,date, date, 10/6/1994
+id, numeric, 549
+id, numeric, 1311
+out,worked,hours, numeric, 1,date, date, 1/25/1987
+id, numeric, 201
+id, numeric, 350
+out,worked,hours, numeric, 3,date, date, 12/27/2003
+id, numeric, 365
+id, numeric, 1408
+out,worked,hours, numeric, 8,date, date, 12/28/2008
+id, numeric, 1284
+id, numeric, 168
+in,battled,hours, numeric, 1,date, date, 3/10/2011
+id, numeric, 717
+id, numeric, 1073
+in,worked,hours, numeric, 3,date, date, 1/27/1982
+id, numeric, 693
+id, numeric, 873
+in,worked,hours, numeric, 6,date, date, 2/2/1992
+id, numeric, 1334
+id, numeric, 86
+out,worked,hours, numeric, 2,date, date, 7/31/1981
+id, numeric, 160
+id, numeric, 1351
+out,battled,hours, numeric, 1,date, date, 9/18/1987
+id, numeric, 291
+id, numeric, 55
+out,worked,hours, numeric, 7,date, date, 11/27/1984
+id, numeric, 1065
+id, numeric, 223
+in,worked,hours, numeric, 3,date, date, 4/25/1996
+id, numeric, 1443
+id, numeric, 1328
+in,battled,hours, numeric, 2,date, date, 2/26/2012
+id, numeric, 1098
+id, numeric, 674
+in,battled,hours, numeric, 7,date, date, 7/28/1983
+id, numeric, 286
+id, numeric, 708
+out,battled,hours, numeric, 7,date, date, 9/13/1989
+id, numeric, 948
+id, numeric, 467
+out,battled,hours, numeric, 5,date, date, 10/18/2013
+id, numeric, 120
+id, numeric, 224
+out,battled,hours, numeric, 3,date, date, 8/27/1992
+id, numeric, 1103
+id, numeric, 1381
+out,worked,hours, numeric, 4,date, date, 1/13/2003
+id, numeric, 696
+id, numeric, 1285
+in,battled,hours, numeric, 6,date, date, 8/28/2011
+id, numeric, 651
+id, numeric, 1143
+out,battled,hours, numeric, 1,date, date, 1/7/1982
+id, numeric, 944
+id, numeric, 1265
+out,battled,hours, numeric, 3,date, date, 7/12/1998
+id, numeric, 143
+id, numeric, 1100
+in,battled,hours, numeric, 2,date, date, 6/10/2004
+id, numeric, 886
+id, numeric, 8
+out,worked,hours, numeric, 7,date, date, 2/10/1986
+id, numeric, 1035
+id, numeric, 657
+in,battled,hours, numeric, 3,date, date, 12/31/1984
+id, numeric, 942
+id, numeric, 642
+out,battled,hours, numeric, 6,date, date, 5/11/1982
+id, numeric, 1392
+id, numeric, 71
+in,worked,hours, numeric, 2,date, date, 9/19/1990
+id, numeric, 18
+id, numeric, 987
+in,battled,hours, numeric, 5,date, date, 7/23/2004
+id, numeric, 777
+id, numeric, 299
+in,worked,hours, numeric, 2,date, date, 11/20/2002
+id, numeric, 737
+id, numeric, 1464
+out,worked,hours, numeric, 6,date, date, 2/10/2014
+id, numeric, 845
+id, numeric, 2
+out,worked,hours, numeric, 1,date, date, 10/23/2000
+id, numeric, 266
+id, numeric, 733
+out,battled,hours, numeric, 4,date, date, 4/2/2011
+id, numeric, 98
+id, numeric, 632
+out,battled,hours, numeric, 8,date, date, 7/6/2008
+id, numeric, 561
+id, numeric, 801
+out,battled,hours, numeric, 7,date, date, 7/1/1991
+id, numeric, 681
+id, numeric, 42
+in,worked,hours, numeric, 7,date, date, 12/30/1994
+id, numeric, 1302
+id, numeric, 237
+in,worked,hours, numeric, 7,date, date, 7/13/1996
+id, numeric, 1149
+id, numeric, 810
+in,battled,hours, numeric, 3,date, date, 9/12/1986
+id, numeric, 1190
+id, numeric, 129
+out,worked,hours, numeric, 5,date, date, 10/7/2013
+id, numeric, 1473
+id, numeric, 785
+out,worked,hours, numeric, 4,date, date, 3/8/2002
+id, numeric, 732
+id, numeric, 1173
+out,battled,hours, numeric, 8,date, date, 2/16/2006
+id, numeric, 1252
+id, numeric, 1349
+out,worked,hours, numeric, 2,date, date, 7/28/1992
+id, numeric, 257
+id, numeric, 1090
+out,battled,hours, numeric, 1,date, date, 4/23/1991
+id, numeric, 328
+id, numeric, 556
+out,worked,hours, numeric, 2,date, date, 6/5/1989
+id, numeric, 121
+id, numeric, 360
+out,worked,hours, numeric, 4,date, date, 7/4/2006
+id, numeric, 217
+id, numeric, 226
+out,worked,hours, numeric, 6,date, date, 4/16/1988
+id, numeric, 939
+id, numeric, 152
+in,worked,hours, numeric, 2,date, date, 7/27/2007
+id, numeric, 1052
+id, numeric, 550
+out,worked,hours, numeric, 5,date, date, 11/11/1981
+id, numeric, 1110
+id, numeric, 1194
+out,worked,hours, numeric, 2,date, date, 3/8/1993
+id, numeric, 326
+id, numeric, 1076
+in,battled,hours, numeric, 3,date, date, 12/13/1990
+id, numeric, 878
+id, numeric, 301
+in,worked,hours, numeric, 8,date, date, 8/5/1997
+id, numeric, 385
+id, numeric, 670
+in,worked,hours, numeric, 2,date, date, 2/22/2004
+id, numeric, 528
+id, numeric, 817
+in,battled,hours, numeric, 7,date, date, 5/12/2005
+id, numeric, 534
+id, numeric, 626
+out,worked,hours, numeric, 3,date, date, 5/1/2005
+id, numeric, 1015
+id, numeric, 756
+out,worked,hours, numeric, 1,date, date, 11/2/2011
+id, numeric, 971
+id, numeric, 1271
+in,worked,hours, numeric, 6,date, date, 7/30/2008
+id, numeric, 1037
+id, numeric, 26
+out,battled,hours, numeric, 1,date, date, 9/4/1995
+id, numeric, 246
+id, numeric, 1326
+in,battled,hours, numeric, 7,date, date, 9/2/1984
+id, numeric, 1434
+id, numeric, 309
+in,worked,hours, numeric, 6,date, date, 12/8/2002
+id, numeric, 1081
+id, numeric, 1304
+in,battled,hours, numeric, 7,date, date, 8/22/1997
+id, numeric, 1269
+id, numeric, 189
+in,battled,hours, numeric, 8,date, date, 3/6/1980
+id, numeric, 771
+id, numeric, 1324
+in,worked,hours, numeric, 1,date, date, 8/15/1996
+id, numeric, 273
+id, numeric, 346
+in,battled,hours, numeric, 2,date, date, 8/13/2013
+id, numeric, 555
+id, numeric, 840
+in,worked,hours, numeric, 3,date, date, 8/16/2003
+id, numeric, 213
+id, numeric, 473
+in,worked,hours, numeric, 8,date, date, 11/27/1989
+id, numeric, 118
+id, numeric, 1368
+out,worked,hours, numeric, 2,date, date, 3/14/1991
+id, numeric, 929
+id, numeric, 68
+out,battled,hours, numeric, 5,date, date, 7/4/2011
+id, numeric, 215
+id, numeric, 132
+in,worked,hours, numeric, 3,date, date, 11/22/2005
+id, numeric, 1192
+id, numeric, 1350
+out,battled,hours, numeric, 4,date, date, 7/23/1999
+id, numeric, 447
+id, numeric, 1387
+out,worked,hours, numeric, 4,date, date, 8/23/2002
+id, numeric, 1333
+id, numeric, 1105
+out,worked,hours, numeric, 3,date, date, 11/7/1985
+id, numeric, 1114
+id, numeric, 148
+out,battled,hours, numeric, 2,date, date, 8/29/2001
+id, numeric, 395
+id, numeric, 1438
+out,worked,hours, numeric, 4,date, date, 2/17/1999
+id, numeric, 490
+id, numeric, 573
+in,battled,hours, numeric, 1,date, date, 4/25/1996
+id, numeric, 486
+id, numeric, 526
+in,worked,hours, numeric, 4,date, date, 9/29/2000
+id, numeric, 1092
+id, numeric, 888
+out,battled,hours, numeric, 3,date, date, 4/27/1980
+id, numeric, 177
+id, numeric, 540
+out,battled,hours, numeric, 4,date, date, 6/28/2007
+id, numeric, 1435
+id, numeric, 157
+out,battled,hours, numeric, 4,date, date, 2/14/1998
+id, numeric, 1125
+id, numeric, 1478
+in,battled,hours, numeric, 2,date, date, 6/18/2014
+id, numeric, 349
+id, numeric, 774
+out,worked,hours, numeric, 8,date, date, 11/6/1995
+id, numeric, 1186
+id, numeric, 959
+out,battled,hours, numeric, 4,date, date, 9/14/2012
+id, numeric, 1049
+id, numeric, 1011
+in,worked,hours, numeric, 7,date, date, 2/16/2013
+id, numeric, 1088
+id, numeric, 1062
+out,battled,hours, numeric, 5,date, date, 8/13/1994
+id, numeric, 835
+id, numeric, 504
+in,battled,hours, numeric, 6,date, date, 5/15/2001
+id, numeric, 193
+id, numeric, 1181
+out,worked,hours, numeric, 7,date, date, 10/8/1991
+id, numeric, 359
+id, numeric, 164
+out,worked,hours, numeric, 8,date, date, 10/1/2013
+id, numeric, 60
+id, numeric, 149
+out,worked,hours, numeric, 1,date, date, 7/19/1994
+id, numeric, 746
+id, numeric, 114
+out,battled,hours, numeric, 1,date, date, 5/30/2014
+id, numeric, 1146
+id, numeric, 1040
+out,battled,hours, numeric, 7,date, date, 9/2/2010
+id, numeric, 227
+id, numeric, 403
+out,worked,hours, numeric, 5,date, date, 11/7/1984
+id, numeric, 631
+id, numeric, 1399
+out,battled,hours, numeric, 2,date, date, 2/13/1996
+id, numeric, 1452
+id, numeric, 484
+out,worked,hours, numeric, 3,date, date, 8/31/2001
+id, numeric, 1009
+id, numeric, 1379
+in,worked,hours, numeric, 8,date, date, 2/8/2014
+id, numeric, 1364
+id, numeric, 1345
+out,worked,hours, numeric, 2,date, date, 7/24/1993
+id, numeric, 141
+id, numeric, 707
+out,worked,hours, numeric, 2,date, date, 7/3/2015
+id, numeric, 871
+id, numeric, 1154
+out,worked,hours, numeric, 1,date, date, 4/1/1989
+id, numeric, 830
+id, numeric, 339
+out,battled,hours, numeric, 6,date, date, 6/16/2009
+id, numeric, 533
+id, numeric, 1218
+out,worked,hours, numeric, 7,date, date, 12/6/2007
+id, numeric, 687
+id, numeric, 156
+out,worked,hours, numeric, 1,date, date, 4/21/1982
+id, numeric, 94
+id, numeric, 1172
+out,battled,hours, numeric, 5,date, date, 12/5/1995
+id, numeric, 706
+id, numeric, 1279
+out,battled,hours, numeric, 8,date, date, 6/17/1990
+id, numeric, 316
+id, numeric, 410
+out,worked,hours, numeric, 1,date, date, 5/28/2002
+id, numeric, 798
+id, numeric, 1267
+out,worked,hours, numeric, 8,date, date, 11/20/2015
+id, numeric, 180
+id, numeric, 628
+out,battled,hours, numeric, 6,date, date, 8/27/1983
+id, numeric, 831
+id, numeric, 3
+out,worked,hours, numeric, 6,date, date, 6/8/1991
+id, numeric, 1395
+id, numeric, 1026
+in,battled,hours, numeric, 1,date, date, 9/10/2014
+id, numeric, 1002
+id, numeric, 1025
+out,battled,hours, numeric, 8,date, date, 3/10/2005
+id, numeric, 381
+id, numeric, 667
+out,worked,hours, numeric, 2,date, date, 5/18/2015
+id, numeric, 89
+id, numeric, 701
+out,worked,hours, numeric, 4,date, date, 12/16/1990
+id, numeric, 662
+id, numeric, 198
+out,battled,hours, numeric, 4,date, date, 12/19/2015
+id, numeric, 864
+id, numeric, 779
+out,worked,hours, numeric, 5,date, date, 4/6/1994
+id, numeric, 406
+id, numeric, 485
+out,battled,hours, numeric, 7,date, date, 3/22/2015
+id, numeric, 866
+id, numeric, 468
+out,worked,hours, numeric, 1,date, date, 9/10/2004
+id, numeric, 725
+id, numeric, 100
+in,battled,hours, numeric, 1,date, date, 11/30/1999
+id, numeric, 961
+id, numeric, 225
+in,worked,hours, numeric, 5,date, date, 4/19/1984
+id, numeric, 710
+id, numeric, 599
+out,worked,hours, numeric, 4,date, date, 8/30/1994
+id, numeric, 236
+id, numeric, 408
+out,battled,hours, numeric, 6,date, date, 11/3/2003
+id, numeric, 344
+id, numeric, 851
+out,battled,hours, numeric, 5,date, date, 4/11/1996
+id, numeric, 461
+id, numeric, 92
+out,worked,hours, numeric, 1,date, date, 7/22/2010
+id, numeric, 1203
+id, numeric, 524
+out,worked,hours, numeric, 8,date, date, 6/29/1982
+id, numeric, 846
+id, numeric, 903
+out,worked,hours, numeric, 2,date, date, 7/7/1980
+id, numeric, 1241
+id, numeric, 755
+out,battled,hours, numeric, 4,date, date, 2/21/2015
+id, numeric, 145
+id, numeric, 1108
+out,battled,hours, numeric, 4,date, date, 12/25/2011
+id, numeric, 1014
+id, numeric, 1472
+out,battled,hours, numeric, 2,date, date, 5/24/1997
+id, numeric, 720
+id, numeric, 1093
+out,battled,hours, numeric, 3,date, date, 5/3/1993
+id, numeric, 913
+id, numeric, 917
+out,worked,hours, numeric, 1,date, date, 6/10/2005
+id, numeric, 409
+id, numeric, 44
+out,battled,hours, numeric, 8,date, date, 7/19/2005
+id, numeric, 162
+id, numeric, 303
+out,worked,hours, numeric, 8,date, date, 5/20/2009
+id, numeric, 1270
+id, numeric, 370
+in,worked,hours, numeric, 5,date, date, 12/18/1990
+id, numeric, 1346
+id, numeric, 828
+out,battled,hours, numeric, 5,date, date, 1/20/2010
+id, numeric, 709
+id, numeric, 1077
+out,battled,hours, numeric, 5,date, date, 4/30/1985
+id, numeric, 1352
+id, numeric, 190
+out,battled,hours, numeric, 7,date, date, 1/12/1999
+id, numeric, 272
+id, numeric, 600
+out,battled,hours, numeric, 1,date, date, 5/2/1981
+id, numeric, 259
+id, numeric, 276
+in,battled,hours, numeric, 1,date, date, 2/9/1986
+id, numeric, 1282
+id, numeric, 855
+in,battled,hours, numeric, 2,date, date, 11/6/1989
+id, numeric, 1281
+id, numeric, 895
+in,battled,hours, numeric, 2,date, date, 7/10/1984
+id, numeric, 1068
+id, numeric, 500
+out,battled,hours, numeric, 1,date, date, 10/5/1980
+id, numeric, 40
+id, numeric, 493
+in,battled,hours, numeric, 2,date, date, 12/9/1980
+id, numeric, 32
+id, numeric, 974
+out,worked,hours, numeric, 3,date, date, 4/29/2011
+id, numeric, 1131
+id, numeric, 1112
+out,worked,hours, numeric, 4,date, date, 3/1/2005
+id, numeric, 893
+id, numeric, 1451
+in,worked,hours, numeric, 2,date, date, 5/3/2000
+id, numeric, 1442
+id, numeric, 1029
+out,battled,hours, numeric, 3,date, date, 9/9/2012
+id, numeric, 724
+id, numeric, 488
+in,worked,hours, numeric, 4,date, date, 10/21/2001
+id, numeric, 668
+id, numeric, 58
+out,worked,hours, numeric, 1,date, date, 5/25/2015
+id, numeric, 587
+id, numeric, 1306
+in,worked,hours, numeric, 3,date, date, 4/29/1998
+id, numeric, 522
+id, numeric, 366
+out,worked,hours, numeric, 3,date, date, 4/6/2004
+id, numeric, 1481
+id, numeric, 960
+in,worked,hours, numeric, 4,date, date, 6/20/2007
+id, numeric, 884
+id, numeric, 393
+out,battled,hours, numeric, 5,date, date, 1/6/1982
+id, numeric, 788
+id, numeric, 982
+in,worked,hours, numeric, 2,date, date, 10/8/1991
+id, numeric, 1067
+id, numeric, 1375
+out,battled,hours, numeric, 5,date, date, 12/4/1995
+id, numeric, 1197
+id, numeric, 16
+in,battled,hours, numeric, 4,date, date, 4/25/1983
+id, numeric, 546
+id, numeric, 1106
+out,worked,hours, numeric, 7,date, date, 10/13/1980
+id, numeric, 283
+id, numeric, 753
+out,worked,hours, numeric, 1,date, date, 5/2/1994
+id, numeric, 465
+id, numeric, 1133
+out,worked,hours, numeric, 7,date, date, 12/29/2007
+id, numeric, 653
+id, numeric, 1448
+out,worked,hours, numeric, 1,date, date, 8/17/1998
+id, numeric, 116
+id, numeric, 277
+out,battled,hours, numeric, 4,date, date, 1/10/2007
+id, numeric, 839
+id, numeric, 814
+out,worked,hours, numeric, 6,date, date, 5/7/1987
+id, numeric, 1253
+id, numeric, 1222
+out,battled,hours, numeric, 4,date, date, 10/23/1990
+id, numeric, 1338
+id, numeric, 1003
+in,worked,hours, numeric, 4,date, date, 3/6/2010
+id, numeric, 868
+id, numeric, 433
+in,worked,hours, numeric, 5,date, date, 2/6/1993
+id, numeric, 139
+id, numeric, 267
+out,battled,hours, numeric, 2,date, date, 7/28/1981
+id, numeric, 1388
+id, numeric, 407
+out,worked,hours, numeric, 6,date, date, 2/2/2001
+id, numeric, 1272
+id, numeric, 263
+out,battled,hours, numeric, 1,date, date, 11/19/1997
+id, numeric, 77
+id, numeric, 45
+out,worked,hours, numeric, 8,date, date, 11/18/2014
+id, numeric, 747
+id, numeric, 183
+out,battled,hours, numeric, 8,date, date, 12/4/1984
+id, numeric, 1411
+id, numeric, 271
+out,battled,hours, numeric, 3,date, date, 8/6/2013
+id, numeric, 358
+id, numeric, 1367
+in,battled,hours, numeric, 8,date, date, 11/13/1992
+id, numeric, 119
+id, numeric, 803
+out,worked,hours, numeric, 4,date, date, 2/18/2010
+id, numeric, 387
+id, numeric, 1417
+out,worked,hours, numeric, 4,date, date, 3/18/1984
+id, numeric, 1366
+id, numeric, 478
+out,battled,hours, numeric, 7,date, date, 8/25/1989
+id, numeric, 698
+id, numeric, 1303
+in,worked,hours, numeric, 4,date, date, 5/29/1998
+id, numeric, 577
+id, numeric, 302
+out,battled,hours, numeric, 2,date, date, 12/28/1987
+id, numeric, 1157
+id, numeric, 997
+in,worked,hours, numeric, 8,date, date, 8/5/1982
+id, numeric, 1301
+id, numeric, 574
+out,battled,hours, numeric, 3,date, date, 7/28/2007
+id, numeric, 379
+id, numeric, 261
+in,battled,hours, numeric, 8,date, date, 4/19/2009
+id, numeric, 287
+id, numeric, 155
+out,battled,hours, numeric, 8,date, date, 12/14/2003
+id, numeric, 1140
+id, numeric, 35
+out,worked,hours, numeric, 6,date, date, 4/22/2015
+id, numeric, 595
+id, numeric, 529
+out,battled,hours, numeric, 3,date, date, 1/4/1996
+id, numeric, 923
+id, numeric, 1246
+out,worked,hours, numeric, 6,date, date, 9/3/1996
+id, numeric, 1414
+id, numeric, 1124
+in,worked,hours, numeric, 2,date, date, 9/24/2001
+id, numeric, 1256
+id, numeric, 1410
+in,battled,hours, numeric, 2,date, date, 3/12/2015
+id, numeric, 329
+id, numeric, 1008
+out,battled,hours, numeric, 7,date, date, 5/16/1996
+id, numeric, 1130
+id, numeric, 570
+out,worked,hours, numeric, 1,date, date, 8/29/1985
+id, numeric, 1057
+id, numeric, 131
+out,worked,hours, numeric, 7,date, date, 7/22/1983
+id, numeric, 353
+id, numeric, 1095
+out,battled,hours, numeric, 4,date, date, 7/3/2010
+id, numeric, 384
+id, numeric, 1060
+in,battled,hours, numeric, 5,date, date, 12/9/1980
+id, numeric, 1291
+id, numeric, 1032
+out,battled,hours, numeric, 4,date, date, 8/21/1987
+id, numeric, 610
+id, numeric, 1232
+in,battled,hours, numeric, 7,date, date, 11/4/2012
+id, numeric, 525
+id, numeric, 1440
+out,battled,hours, numeric, 2,date, date, 2/27/2000
+id, numeric, 1189
+id, numeric, 446
+out,worked,hours, numeric, 2,date, date, 9/14/1999
+id, numeric, 1360
+id, numeric, 1113
+out,worked,hours, numeric, 2,date, date, 4/7/1985
+id, numeric, 892
+id, numeric, 773
+in,battled,hours, numeric, 2,date, date, 7/19/1990
+id, numeric, 682
+id, numeric, 764
+out,battled,hours, numeric, 7,date, date, 9/3/1985
+id, numeric, 1075
+id, numeric, 498
+out,battled,hours, numeric, 5,date, date, 4/12/1985
+id, numeric, 1430
+id, numeric, 1082
+out,battled,hours, numeric, 7,date, date, 10/31/1996
+id, numeric, 48
+id, numeric, 390
+in,battled,hours, numeric, 6,date, date, 6/7/1981
+id, numeric, 1111
+id, numeric, 994
+in,worked,hours, numeric, 8,date, date, 12/1/1993
+id, numeric, 614
+id, numeric, 1096
+in,worked,hours, numeric, 1,date, date, 8/7/1994
+id, numeric, 728
+id, numeric, 1041
+in,worked,hours, numeric, 1,date, date, 4/22/1984
+id, numeric, 158
+id, numeric, 548
+out,worked,hours, numeric, 7,date, date, 10/30/1994
+id, numeric, 265
+id, numeric, 1144
+out,worked,hours, numeric, 6,date, date, 4/10/2000
+id, numeric, 1426
+id, numeric, 1087
+in,battled,hours, numeric, 2,date, date, 5/10/1986
+id, numeric, 505
+id, numeric, 910
+in,worked,hours, numeric, 7,date, date, 9/9/1988
+id, numeric, 1020
+id, numeric, 483
+in,battled,hours, numeric, 4,date, date, 9/2/2015
+id, numeric, 1079
+id, numeric, 1342
+out,battled,hours, numeric, 1,date, date, 12/14/1987
+id, numeric, 761
+id, numeric, 4
+in,worked,hours, numeric, 5,date, date, 2/10/1999
+id, numeric, 896
+id, numeric, 348
+out,worked,hours, numeric, 8,date, date, 3/27/1996
+id, numeric, 1460
+id, numeric, 230
+out,battled,hours, numeric, 6,date, date, 7/7/1988
+id, numeric, 475
+id, numeric, 1483
+out,worked,hours, numeric, 3,date, date, 3/4/2006
+id, numeric, 648
+id, numeric, 1160
+out,worked,hours, numeric, 8,date, date, 7/25/1984
+id, numeric, 973
+id, numeric, 487
+out,battled,hours, numeric, 6,date, date, 9/14/1988
+id, numeric, 934
+id, numeric, 1136
+out,worked,hours, numeric, 1,date, date, 4/24/1985
+id, numeric, 787
+id, numeric, 768
+out,worked,hours, numeric, 7,date, date, 3/7/2008
+id, numeric, 841
+id, numeric, 588
+out,battled,hours, numeric, 3,date, date, 1/23/2002
+id, numeric, 742
+id, numeric, 1348
+in,worked,hours, numeric, 8,date, date, 6/20/2015
+id, numeric, 1056
+id, numeric, 460
+out,worked,hours, numeric, 7,date, date, 1/20/1981
+id, numeric, 531
+id, numeric, 503
+out,battled,hours, numeric, 5,date, date, 9/12/1997
+id, numeric, 915
+id, numeric, 516
+out,battled,hours, numeric, 6,date, date, 12/1/2005
+id, numeric, 967
+id, numeric, 862
+in,battled,hours, numeric, 3,date, date, 9/17/1982
+id, numeric, 1204
+id, numeric, 292
+out,battled,hours, numeric, 1,date, date, 5/17/2003
+id, numeric, 29
+id, numeric, 848
+out,worked,hours, numeric, 2,date, date, 1/17/1995
+id, numeric, 1255
+id, numeric, 1446
+out,worked,hours, numeric, 4,date, date, 7/11/2015
+id, numeric, 1463
+id, numeric, 571
+out,worked,hours, numeric, 5,date, date, 1/20/2007
+id, numeric, 50
+id, numeric, 926
+out,worked,hours, numeric, 6,date, date, 3/12/1999
+id, numeric, 1261
+id, numeric, 630
+out,worked,hours, numeric, 2,date, date, 11/23/1982
+id, numeric, 352
+id, numeric, 99
+in,worked,hours, numeric, 5,date, date, 9/19/1994
+id, numeric, 1159
+id, numeric, 1469
+out,battled,hours, numeric, 2,date, date, 11/17/1998
+id, numeric, 889
+id, numeric, 1437
+out,battled,hours, numeric, 7,date, date, 8/28/2010
+id, numeric, 78
+id, numeric, 207
+in,worked,hours, numeric, 4,date, date, 10/14/2010
+id, numeric, 435
+id, numeric, 809
+in,worked,hours, numeric, 6,date, date, 3/20/1998
+id, numeric, 919
+id, numeric, 1209
+out,battled,hours, numeric, 2,date, date, 4/12/2011
+id, numeric, 1191
+id, numeric, 417
+in,worked,hours, numeric, 5,date, date, 10/28/1995
+id, numeric, 1319
+id, numeric, 1247
+out,battled,hours, numeric, 8,date, date, 1/18/2011
+id, numeric, 1238
+id, numeric, 289
+out,worked,hours, numeric, 4,date, date, 2/3/1989
+id, numeric, 1074
+id, numeric, 70
+out,battled,hours, numeric, 5,date, date, 5/8/2014
+id, numeric, 824
+id, numeric, 857
+in,battled,hours, numeric, 2,date, date, 9/28/1984
+id, numeric, 598
+id, numeric, 332
+out,battled,hours, numeric, 2,date, date, 11/8/1985
+id, numeric, 983
+id, numeric, 1415
+in,battled,hours, numeric, 4,date, date, 5/23/1985
+id, numeric, 1069
+id, numeric, 128
+in,worked,hours, numeric, 3,date, date, 9/28/1981
+id, numeric, 740
+id, numeric, 280
+out,worked,hours, numeric, 2,date, date, 9/24/1992
+id, numeric, 337
+id, numeric, 620
+out,worked,hours, numeric, 7,date, date, 10/21/2006
+id, numeric, 36
+id, numeric, 298
+out,battled,hours, numeric, 7,date, date, 4/20/1996
+id, numeric, 1475
+id, numeric, 85
+out,worked,hours, numeric, 2,date, date, 1/27/1981
+id, numeric, 829
+id, numeric, 33
+in,worked,hours, numeric, 1,date, date, 1/5/2005
+id, numeric, 643
+id, numeric, 20
+out,worked,hours, numeric, 3,date, date, 3/22/2011
+id, numeric, 1373
+id, numeric, 1358
+out,worked,hours, numeric, 5,date, date, 6/14/2002
+id, numeric, 1071
+id, numeric, 1454
+in,worked,hours, numeric, 5,date, date, 1/5/1988
+id, numeric, 1121
+id, numeric, 235
+in,worked,hours, numeric, 5,date, date, 6/23/2009
+id, numeric, 820
+id, numeric, 1347
+in,worked,hours, numeric, 7,date, date, 10/4/1987
+id, numeric, 870
+id, numeric, 519
+out,battled,hours, numeric, 8,date, date, 9/4/2013
+id, numeric, 606
+id, numeric, 791
+in,worked,hours, numeric, 1,date, date, 10/6/1981
+id, numeric, 1072
+id, numeric, 1268
+in,battled,hours, numeric, 8,date, date, 9/22/1988
+id, numeric, 972
+id, numeric, 442
+in,battled,hours, numeric, 5,date, date, 11/13/2013
+id, numeric, 1109
+id, numeric, 739
+out,battled,hours, numeric, 3,date, date, 11/30/1989
+id, numeric, 248
+id, numeric, 21
+out,battled,hours, numeric, 1,date, date, 11/26/1990
+id, numeric, 979
+id, numeric, 347
+out,battled,hours, numeric, 6,date, date, 1/20/2014
+id, numeric, 705
+id, numeric, 1017
+in,worked,hours, numeric, 5,date, date, 10/28/1992
+id, numeric, 970
+id, numeric, 731
+in,worked,hours, numeric, 7,date, date, 8/14/1987
+id, numeric, 245
+id, numeric, 354
+in,battled,hours, numeric, 1,date, date, 10/12/2002
+id, numeric, 1466
+id, numeric, 762
+out,worked,hours, numeric, 3,date, date, 3/4/1988
+id, numeric, 1208
+id, numeric, 1006
+in,worked,hours, numeric, 8,date, date, 12/15/1981
+id, numeric, 389
+id, numeric, 296
+out,worked,hours, numeric, 6,date, date, 9/15/1993
+id, numeric, 464
+id, numeric, 675
+out,battled,hours, numeric, 6,date, date, 8/20/1992
+id, numeric, 1354
+id, numeric, 275
+out,worked,hours, numeric, 6,date, date, 8/29/1983
+id, numeric, 205
+id, numeric, 133
+out,worked,hours, numeric, 3,date, date, 12/2/2015
+id, numeric, 872
+id, numeric, 807
+out,battled,hours, numeric, 8,date, date, 1/2/2014
+id, numeric, 703
+id, numeric, 1403
+out,battled,hours, numeric, 5,date, date, 7/17/2005
+id, numeric, 491
+id, numeric, 474
+in,battled,hours, numeric, 1,date, date, 6/29/2001
+id, numeric, 564
+id, numeric, 75
+out,worked,hours, numeric, 5,date, date, 3/22/2012
+id, numeric, 229
+id, numeric, 697
+out,worked,hours, numeric, 1,date, date, 10/4/1992
+id, numeric, 126
+id, numeric, 1337
+out,worked,hours, numeric, 3,date, date, 4/16/2006
+id, numeric, 699
+id, numeric, 890
+out,battled,hours, numeric, 3,date, date, 1/1/2016
+id, numeric, 640
+id, numeric, 1344
+out,battled,hours, numeric, 8,date, date, 5/4/1984
+id, numeric, 495
+id, numeric, 584
+out,battled,hours, numeric, 4,date, date, 1/30/2000
+id, numeric, 218
+id, numeric, 471
+in,battled,hours, numeric, 3,date, date, 10/16/1985
+id, numeric, 1295
+id, numeric, 957
+out,battled,hours, numeric, 8,date, date, 2/11/2000
+id, numeric, 208
+id, numeric, 1050
+in,worked,hours, numeric, 7,date, date, 7/1/1997
+id, numeric, 776
+id, numeric, 790
+in,worked,hours, numeric, 2,date, date, 10/18/2010
+id, numeric, 411
+id, numeric, 372
+out,battled,hours, numeric, 5,date, date, 6/29/2007
+id, numeric, 925
+id, numeric, 1336
+out,battled,hours, numeric, 8,date, date, 10/13/2014
+id, numeric, 527
+id, numeric, 1457
+out,worked,hours, numeric, 4,date, date, 11/8/1989
+id, numeric, 325
+id, numeric, 991
+out,worked,hours, numeric, 2,date, date, 7/16/2013
+id, numeric, 513
+id, numeric, 613
+out,battled,hours, numeric, 5,date, date, 10/28/1981
+id, numeric, 881
+id, numeric, 179
+out,battled,hours, numeric, 2,date, date, 3/5/2006
+id, numeric, 1078
+id, numeric, 1298
+out,battled,hours, numeric, 8,date, date, 12/29/1994
+id, numeric, 260
+id, numeric, 290
+out,battled,hours, numeric, 3,date, date, 7/16/1994
+id, numeric, 515
+id, numeric, 669
+out,battled,hours, numeric, 2,date, date, 10/11/2004
+id, numeric, 535
+id, numeric, 97
+in,worked,hours, numeric, 7,date, date, 10/4/1987
+id, numeric, 1325
+id, numeric, 113
+out,battled,hours, numeric, 7,date, date, 11/6/1998
+id, numeric, 10
+id, numeric, 941
+out,battled,hours, numeric, 4,date, date, 10/26/1997
+id, numeric, 322
+id, numeric, 656
+out,battled,hours, numeric, 2,date, date, 7/7/1993
+id, numeric, 950
+id, numeric, 943
+out,battled,hours, numeric, 2,date, date, 6/24/1993
+id, numeric, 197
+id, numeric, 1250
+in,battled,hours, numeric, 3,date, date, 4/10/1997
+id, numeric, 849
+id, numeric, 383
+in,battled,hours, numeric, 6,date, date, 8/12/2009
+id, numeric, 450
+id, numeric, 220
+out,battled,hours, numeric, 3,date, date, 9/28/2001
+id, numeric, 636
+id, numeric, 253
+out,battled,hours, numeric, 5,date, date, 11/8/1988
+id, numeric, 13
+id, numeric, 1182
+in,battled,hours, numeric, 1,date, date, 9/3/1993
+id, numeric, 1195
+id, numeric, 136
+out,battled,hours, numeric, 8,date, date, 8/14/1984
+id, numeric, 692
+id, numeric, 115
+out,worked,hours, numeric, 4,date, date, 3/18/2008
+id, numeric, 315
+id, numeric, 23
+out,worked,hours, numeric, 6,date, date, 9/25/2008
+id, numeric, 425
+id, numeric, 594
+in,battled,hours, numeric, 4,date, date, 5/25/2003
+id, numeric, 27
+id, numeric, 1372
+out,worked,hours, numeric, 3,date, date, 4/14/2011
+id, numeric, 523
+id, numeric, 1188
+in,worked,hours, numeric, 8,date, date, 7/14/1986
+id, numeric, 240
+id, numeric, 65
+in,worked,hours, numeric, 1,date, date, 3/15/1991
+id, numeric, 441
+id, numeric, 813
+in,battled,hours, numeric, 2,date, date, 11/6/2005
+id, numeric, 1332
+id, numeric, 980
+out,battled,hours, numeric, 8,date, date, 7/4/1998
+id, numeric, 17
+id, numeric, 313
+out,battled,hours, numeric, 7,date, date, 7/27/2000
+id, numeric, 439
+id, numeric, 1409
+out,worked,hours, numeric, 6,date, date, 5/17/2003
+id, numeric, 1248
+id, numeric, 521
+out,battled,hours, numeric, 5,date, date, 7/29/2001
+id, numeric, 80
+id, numeric, 806
+out,worked,hours, numeric, 4,date, date, 1/1/2003
+id, numeric, 74
+id, numeric, 142
+in,worked,hours, numeric, 6,date, date, 5/26/2006
+id, numeric, 1018
+id, numeric, 684
+out,worked,hours, numeric, 8,date, date, 1/20/1984
+id, numeric, 604
+id, numeric, 320
+in,worked,hours, numeric, 8,date, date, 11/18/1987
+id, numeric, 601
+id, numeric, 247
+in,worked,hours, numeric, 4,date, date, 7/7/1981
+id, numeric, 583
+id, numeric, 735
+out,battled,hours, numeric, 1,date, date, 10/26/1983
+id, numeric, 284
+id, numeric, 212
+in,battled,hours, numeric, 1,date, date, 7/22/2008
+id, numeric, 784
+id, numeric, 24
+out,battled,hours, numeric, 4,date, date, 11/2/2004
+id, numeric, 937
+id, numeric, 5
+out,battled,hours, numeric, 7,date, date, 5/31/1989
+id, numeric, 1459
+id, numeric, 82
+out,worked,hours, numeric, 1,date, date, 11/11/1988
+id, numeric, 1177
+id, numeric, 744
+in,worked,hours, numeric, 4,date, date, 6/14/1984
+id, numeric, 585
+id, numeric, 1170
+in,battled,hours, numeric, 3,date, date, 7/16/1994
+id, numeric, 843
+id, numeric, 341
+out,battled,hours, numeric, 1,date, date, 8/8/1994
+id, numeric, 989
+id, numeric, 1200
+in,worked,hours, numeric, 2,date, date, 10/28/2011
+id, numeric, 1258
+id, numeric, 789
+in,battled,hours, numeric, 6,date, date, 11/4/1997
+id, numeric, 285
+id, numeric, 1039
+out,battled,hours, numeric, 6,date, date, 10/25/1990
+id, numeric, 1104
+id, numeric, 428
+out,battled,hours, numeric, 3,date, date, 11/28/2009
+id, numeric, 1310
+id, numeric, 173
+out,battled,hours, numeric, 2,date, date, 3/15/1980
+id, numeric, 49
+id, numeric, 730
+in,battled,hours, numeric, 6,date, date, 12/19/1987
+id, numeric, 46
+id, numeric, 1118
+in,worked,hours, numeric, 5,date, date, 9/18/1988
+id, numeric, 294
+id, numeric, 355
+out,worked,hours, numeric, 5,date, date, 4/23/2011
+id, numeric, 1296
+id, numeric, 420
+out,battled,hours, numeric, 8,date, date, 5/11/2012
+id, numeric, 1369
+id, numeric, 101
+out,battled,hours, numeric, 4,date, date, 7/15/2005
+id, numeric, 405
+id, numeric, 79
+in,worked,hours, numeric, 6,date, date, 6/18/1985
+id, numeric, 1127
+id, numeric, 909
+out,battled,hours, numeric, 7,date, date, 6/13/2005
+id, numeric, 1210
+id, numeric, 1117
+in,battled,hours, numeric, 6,date, date, 11/27/1984
+id, numeric, 477
+id, numeric, 1289
+out,battled,hours, numeric, 8,date, date, 4/4/2004
+id, numeric, 1307
+id, numeric, 542
+in,battled,hours, numeric, 7,date, date, 11/8/1999
+id, numeric, 716
+id, numeric, 837
+in,worked,hours, numeric, 4,date, date, 12/9/2009
+id, numeric, 334
+id, numeric, 333
+in,worked,hours, numeric, 3,date, date, 5/24/1982
+id, numeric, 77
+id, numeric, 462
+out,worked,hours, numeric, 4,date, date, 6/6/2000
+id, numeric, 278
+id, numeric, 41
+in,battled,hours, numeric, 4,date, date, 4/30/1992
+id, numeric, 713
+id, numeric, 823
+in,worked,hours, numeric, 6,date, date, 7/2/1997
+id, numeric, 1423
+id, numeric, 875
+out,battled,hours, numeric, 6,date, date, 8/8/1980
+id, numeric, 1330
+id, numeric, 1450
+out,battled,hours, numeric, 8,date, date, 6/11/2005
+id, numeric, 623
+id, numeric, 449
+out,worked,hours, numeric, 2,date, date, 4/28/2002
+id, numeric, 819
+id, numeric, 91
+out,battled,hours, numeric, 6,date, date, 10/25/2010
+id, numeric, 398
+id, numeric, 770
+out,worked,hours, numeric, 7,date, date, 8/22/2006
+id, numeric, 1320
+id, numeric, 1273
+out,battled,hours, numeric, 2,date, date, 8/14/1992
+id, numeric, 1164
+id, numeric, 1335
+in,worked,hours, numeric, 5,date, date, 12/23/2007
+id, numeric, 25
+id, numeric, 1161
+out,battled,hours, numeric, 3,date, date, 11/17/1995
+id, numeric, 988
+id, numeric, 1045
+in,battled,hours, numeric, 6,date, date, 4/27/2013
+id, numeric, 369
+id, numeric, 930
+out,worked,hours, numeric, 5,date, date, 11/14/2001
+id, numeric, 1263
+id, numeric, 867
+out,worked,hours, numeric, 1,date, date, 3/28/2006
+id, numeric, 894
+id, numeric, 73
+out,battled,hours, numeric, 1,date, date, 12/25/1993
+id, numeric, 1292
+id, numeric, 850
+out,battled,hours, numeric, 5,date, date, 11/14/2010
+id, numeric, 108
+id, numeric, 281
+out,battled,hours, numeric, 1,date, date, 7/26/2002
+id, numeric, 1293
+id, numeric, 695
+out,battled,hours, numeric, 1,date, date, 2/11/2009
+id, numeric, 200
+id, numeric, 431
+out,worked,hours, numeric, 3,date, date, 1/23/1990
+id, numeric, 429
+id, numeric, 544
+in,worked,hours, numeric, 3,date, date, 1/25/2006
+id, numeric, 933
+id, numeric, 1259
+in,worked,hours, numeric, 8,date, date, 5/29/2004
+id, numeric, 270
+id, numeric, 1094
+out,worked,hours, numeric, 4,date, date, 3/9/2005
+id, numeric, 797
+id, numeric, 622
+out,battled,hours, numeric, 4,date, date, 10/13/1991
+id, numeric, 1033
+id, numeric, 964
+out,battled,hours, numeric, 2,date, date, 7/9/2015
+id, numeric, 1385
+id, numeric, 206
+in,battled,hours, numeric, 3,date, date, 3/29/2012
+id, numeric, 1404
+id, numeric, 1091
+out,battled,hours, numeric, 2,date, date, 6/19/1991
+id, numeric, 766
+id, numeric, 274
+out,battled,hours, numeric, 5,date, date, 3/9/2014
