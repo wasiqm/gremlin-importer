@@ -22,7 +22,7 @@ In the near future:
  - Edges and vertices meta properties for second release
  - Fix messy code, and document everything
  - Migrate to Swig templates and use promises instead of callbacks
- - Migrate to ES6
+ - Migrate to ES6  **(in process: thanks to Jean-Baptiste Musso)**
 
 ## Description ##
 
